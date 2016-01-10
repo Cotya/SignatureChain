@@ -1,0 +1,8 @@
+{
+    "packageName": "adyen\/payment",
+    "packageVersion": "2.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS6NkACgkQZi3Wes40mG5wXAEAo4PqHfzgeTMtRzoz1Gv392yq\nlHtFYFVyLYRthrwIP9UBAIYyvv3rmBEBmr9RlNOals5z98kzIeoryz5TO\/rT52AS\n=BC4Y\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Adyen\/magento\/zipball\/c98452a762c7246b184eab4a8aa4954475e41284",
+    "sha256": "2f97b0384af05feda505d3be00e166a7b1d5ab35bf4b3019db6595e6a14c7415"
+}

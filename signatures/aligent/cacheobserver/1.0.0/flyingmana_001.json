@@ -1,0 +1,8 @@
+{
+    "packageName": "aligent\/cacheobserver",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS6PMACgkQZi3Wes40mG44jAD9HEHmM5DoJOASUm4mj37mj+H3\nrDqsCEaWTU3xaUQUzPAA\/2VaygkTQVUqmGy3w5YyLZi7yOfHnBORXe+VlHhAiu+u\n=b9J4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/aligent\/CacheObserver\/zipball\/42cbc4a2ede00ad7fa7296f6d0f1613e132360ea",
+    "sha256": "082eb9457db18eb6a57ff8c0dcc2699245a9a765ee20754db253ce7394a99fcc"
+}

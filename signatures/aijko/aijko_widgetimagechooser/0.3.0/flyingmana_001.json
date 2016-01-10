@@ -1,0 +1,8 @@
+{
+    "packageName": "aijko\/aijko_widgetimagechooser",
+    "packageVersion": "0.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS6O8ACgkQZi3Wes40mG607QD+NOZNaA9yyxGC357LuVlLnP8M\nG1UuKKpode1VC4yt3FUBAJm4oyQibeyzeo40bOqFkmfUZuVmAdwV5NJpOqpWDf4T\n=S+BC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/aijko\/aijko-widgetimagechooser\/zipball\/61d6c193b5ac2ec6c60580bfb5fe19f0ff42ebd6",
+    "sha256": "c85f91f9205bc4054fca25780fcc3ca0a0510f7913da112f114a2d6b045a2a7d"
+}

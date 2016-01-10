@@ -1,0 +1,8 @@
+{
+    "packageName": "ajbonner\/magento-composer-autoload",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS6PAACgkQZi3Wes40mG7xgwD\/a6qu0448v5ffNEtj\/qaMHsgm\nN5Uuo55H\/S6LAz0g2PEBAKTQozXlTbt\/vDD\/ZJ+kK0R0QAW9Ouec4ZHVGMLSwdh7\n=Ebz9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/ajbonner\/magento-composer-autoload\/zipball\/b593dacab6e85249f33c8841ddcfd5ee12e6ba17",
+    "sha256": "0e86a28bf959048b4d163963913791f8319edd093d9b09afa3cecb98f4c90e44"
+}

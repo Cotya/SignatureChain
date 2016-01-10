@@ -1,0 +1,8 @@
+{
+    "packageName": "ajbonner\/mage-resque",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS6O8ACgkQZi3Wes40mG7p8AD+Nm1FJzDVO2ZViNh0vYDhujxW\nhHdnNd88N\/GltN2YaPoBAIiSIvVz98qO2w\/hLMn\/2J4ZODnd+7HY+OgeYR6ZisWP\n=9mHZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/ajbonner\/mage-resque\/zipball\/51a60f219001108e40f7e5f967b33ada8fe33e9f",
+    "sha256": "cd3f5f1f659013c04b347a9b5a139dfb35b483a348176a05cd746fabb3362286"
+}
