@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/bpost",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCIAACgkQZi3Wes40mG4n9AD+NCyfH2Eu9kEIUOoc7ti6jAO3\nC5AWh2DJXsok+Gwl54cBAIFoVtYRX+FG6UgagcmzxccyLl4GxEF2wqQKIU9LUdLc\n=dTvt\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/bpost\/1.0.6\/bpost-1.0.6.tgz",
+    "sha256": "82ee928c3db1ddf09b5cccedcb762e2f8b701d85be3e4c1ba0a2701c666ae22d"
+}

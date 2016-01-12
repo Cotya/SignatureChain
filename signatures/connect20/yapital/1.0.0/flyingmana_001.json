@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/yapital",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKAEACgkQZi3Wes40mG5CywEAhWwWKfwIFvB9PmlhG5fEXJDf\nKOm+CI8bZ5\/y3Wx8pX0A+wU+6VfNBL3F7Z93RHyUW1FDdaab5sD1oaBMApT0qbQT\n=srei\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/yapital\/1.0.0\/yapital-1.0.0.tgz",
+    "sha256": "c39074a36b0a76627b10820bdd07d63510ea77ba49b30a52c3997089c4999abb"
+}

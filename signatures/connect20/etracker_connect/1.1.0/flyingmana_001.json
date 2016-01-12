@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/etracker_connect",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaJoACgkQZi3Wes40mG4IqAD\/VPLbu\/XqiwAzTs0isOdPBVJr\nmZHq3DJLtahddx79tz4A\/AlWCkqBqmoyg57VJ2Gj50sj1wZ6LzeWC\/taNwZAgjLz\n=cA+5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/etracker_connect\/1.1.0\/etracker_connect-1.1.0.tgz",
+    "sha256": "c9906860877f6ada8f66a0c2446086a9c803147c7e5aaeb6d07dcc3b9b2e3216"
+}

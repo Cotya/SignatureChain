@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NetPay_Netpayonlinepayments",
+    "packageVersion": "1.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCmwACgkQZi3Wes40mG4lygD9GusoDphNjJON7hzhuJjA23an\nSiOWV4FDh6onIorE6kkA\/j0U+QMRky\/Y2ZVOm\/B\/swYWZxF9Rjbyc3bD55BlmMEf\n=AXzM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NetPay_Netpayonlinepayments\/1.0.5\/NetPay_Netpayonlinepayments-1.0.5.tgz",
+    "sha256": "6c6b2a6807e131dd0136c14b7949d0b67f6cd085953759e9486b208ddad9256e"
+}

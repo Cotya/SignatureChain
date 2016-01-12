@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/UK_Postcode_Address_Finder",
+    "packageVersion": "2.5.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJCIACgkQZi3Wes40mG6ZGQD\/XfIk7DkSw1T7GEiZ3Z2hYUGq\nhUES20WmCa\/cOyA1MK4BAInVz+oT3O2\/VOsAfEtga+826gejk0QK4VDVC9SEwsde\n=3SR5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/UK_Postcode_Address_Finder\/2.5.3\/UK_Postcode_Address_Finder-2.5.3.tgz",
+    "sha256": "38de0767c507f35cf2e9faafe5b45fa4bd95d51378807debbf42abaa9ad52e69"
+}

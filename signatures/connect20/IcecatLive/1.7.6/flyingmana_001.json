@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IcecatLive",
+    "packageVersion": "1.7.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdS4ACgkQZi3Wes40mG75pgD\/VZcEyA7nJ73bUNvgoTghAwes\nKGCX5Khol5ytMeLWg2QA\/jcAZGs9YffA7LAs9wv19rGWeIO525knVLLoqHpIdzh3\n=qMmj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IcecatLive\/1.7.6\/IcecatLive-1.7.6.tgz",
+    "sha256": "1b998863bde51970d1c255d765ff904bb20b69056ac5322c60ce3431762e8e93"
+}

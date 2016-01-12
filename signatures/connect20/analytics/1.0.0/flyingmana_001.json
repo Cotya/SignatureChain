@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/analytics",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAvgACgkQZi3Wes40mG60PwEAtStzKy6Dsf6XWt9Lx6A+rrQj\nnPU+8WRlO8JiKRekl04BAIuxZTWZogxQj6i8Sr5UXffPWEnVNrFV0WDfr\/WlL4PB\n=gGjQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/analytics\/1.0.0\/analytics-1.0.0.tgz",
+    "sha256": "881bb1e4367e4cb1972dafbdf6ac2e5a5a33e07c98e389a45936ee30c39c1342"
+}

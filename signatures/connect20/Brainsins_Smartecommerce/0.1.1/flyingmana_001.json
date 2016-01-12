@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Brainsins_Smartecommerce",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCI8ACgkQZi3Wes40mG7kcwD9EU2\/kN6BUlwyJTsTmoWfMhNT\nxjY1ZxIjEi82yyttZfgA\/2pnVyeTeO1yxAF49Ae9vEVpU\/0DjQn\/8W1KvJESDTaw\n=sxXu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Brainsins_Smartecommerce\/0.1.1\/Brainsins_Smartecommerce-0.1.1.tgz",
+    "sha256": "5dd028d410215d0862e15eb546481473b2d76ef42d5229e68803ed86fe94a0cd"
+}

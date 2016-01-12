@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageWare_CustomerLockdown",
+    "packageVersion": "1.0.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAv4ACgkQZi3Wes40mG5tPgD\/TdenKWtANSfSBDWwyBWkN\/2Q\nIaWOw62A74i3R0xi8iQA\/A7X8uCnGP1KSFX2XEKsibSFRCZa00b0GbtpeGR03KJf\n=qyyd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageWare_CustomerLockdown\/1.0.0.0\/MageWare_CustomerLockdown-1.0.0.0.tgz",
+    "sha256": "5439e779321aa17a9e8c5ad69c10c94fa4f7e790fb8a20ee8c62c9f4570043cb"
+}

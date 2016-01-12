@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/correios",
+    "packageVersion": "1.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDvwACgkQZi3Wes40mG7lQwD+PapQlwKqVH7SgsonmeEswbly\nDAkgrmvGP0CupHOGXk8A+wavWj1prp\/Rvqkj\/vjR0\/0houd3ScMP4uoiMMV8jj8U\n=IS1B\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/correios\/1.3.0\/correios-1.3.0.tgz",
+    "sha256": "60c99444fe927b1933ab44fb433d43d3d6f6428c9df4fbbd961d9306c681dc62"
+}

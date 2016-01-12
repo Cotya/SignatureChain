@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Woo",
+    "packageVersion": "1.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJ2AACgkQZi3Wes40mG6dPAD\/U\/jMyxVp05SbQbXMkntYIDmj\ntDCHOA9ByElguvB1oJQA\/jjIXBe7fWsT30fg7+zyCXXeDtBuogUG+Mxv2OTH5iFn\n=5ZSO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Woo\/1.1.3\/Woo-1.1.3.tgz",
+    "sha256": "770f6352d5e37c194c6a4fb23389c489682aa0674d3ae2788de39a7cbfd58910"
+}

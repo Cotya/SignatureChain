@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/protected-shops",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUE\/QACgkQZi3Wes40mG4MzwD+J2Q8XiL+HCMYID5zSss1fMc\/\nUxc8R4sm9\/6zPmMdraQA\/RPBsUzfAXjGYG+5wXd5OW30pBdP0+YuJSb2F0hIJQ4Y\n=+Rb1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/protected-shops\/1.0.0\/protected-shops-1.0.0.tgz",
+    "sha256": "a2bca69e18d35eddeec6d4af9a27100915b74039759498fe94a98384a063e022"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/shopalytic_extractor",
+    "packageVersion": "1.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGU0ACgkQZi3Wes40mG5VHgEAt8FHzPEYjnZmsDXkAOrlCutQ\nwwc1RX4amRNPXjoM448A\/2XjvlJbCsoh+8TIMv3Qugc9l2A3qotxK3j8Nx9OiGta\n=2f\/e\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/shopalytic_extractor\/1.1.2\/shopalytic_extractor-1.1.2.tgz",
+    "sha256": "23fd33d56d303601bcdda5b4e6b8a17f08c745fca0dea24b56a68dca6e849088"
+}

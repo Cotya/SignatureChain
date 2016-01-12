@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Skrill_Hosted_Payment_Solution",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG4QACgkQZi3Wes40mG6HWQEAsUF1YJ4ap6hGFv0I1QnqU5n9\nO7JMBADJ6+XCytgMt+0A\/RUag6hLjm0OF\/udYnLeDB6zBB1BUL5DMZyKNMbO9+R\/\n=tAM3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Skrill_Hosted_Payment_Solution\/1.0.6\/Skrill_Hosted_Payment_Solution-1.0.6.tgz",
+    "sha256": "4604466e53e8b19ba8f7b9bb81bb750786f3fa3c57d87a466479e8e0755dc96e"
+}

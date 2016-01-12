@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Interface_Frontend_Default",
+    "packageVersion": "1.7.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeFIACgkQZi3Wes40mG4r9AEAi8sLFQh0u+p2uyJkzquuLsDm\n9gXsVeB6txsz0i3ytGsBAKp4qVdFx2vx9MpCJo92NOdzpuaeUwi6um1RSNMk+zZ3\n=wBMk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Interface_Frontend_Default\/1.7.0.0\/Interface_Frontend_Default-1.7.0.0.tgz",
+    "sha256": "45722cef9716af9671f7be731d301bbce7b141c6ede2b7845e8d7b791e5e2c2f"
+}

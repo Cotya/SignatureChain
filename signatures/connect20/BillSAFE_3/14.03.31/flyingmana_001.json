@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BillSAFE_3",
+    "packageVersion": "14.03.31",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTB2kACgkQZi3Wes40mG5OFAD\/SxGYl0pSRklQkxktKJ6rOI3D\nMq5o1U+s5a+DrW7b658A\/i6ZMo4p98ZXN9GDUZcizLZfh0EFKBOhZeuJU5hAXjjn\n=G+eT\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BillSAFE_3\/14.03.31\/BillSAFE_3-14.03.31.tgz",
+    "sha256": "4a2022e81ea0f76ae34ac7ccb1b0b94a7c213c7f14ff236d2a62d80aef7d0435"
+}

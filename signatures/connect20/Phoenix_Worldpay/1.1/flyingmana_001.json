@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Phoenix_Worldpay",
+    "packageVersion": "1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEW4ACgkQZi3Wes40mG60LwD\/W\/eFgeF0Vwvnz+diiNQA54tY\nACezFcMf4N9Z3RLgihMBALesrIxwhvPFJSeZtNj30I1bg\/u6by8tBIAxDZ45SwnD\n=W2Sl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Phoenix_Worldpay\/1.1\/Phoenix_Worldpay-1.1.tgz",
+    "sha256": "e4ee36c8b654b5ab506428f36119a0a5480ed23fbed862081c321c6330ca1a9b"
+}

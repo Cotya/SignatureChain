@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/99minutos",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/0wACgkQZi3Wes40mG4iqAD\/WpwEFTllPO4sSXkRjUfxO0TY\naogMOFU\/Pbtq3uDE4+MA\/jg5E9W7TouZQEHfzrGOSjSvasnHaEBMSInwwVPibRon\n=fD5y\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/99minutos\/1.1.0\/99minutos-1.1.0.tgz",
+    "sha256": "afba6723cf787bb177cc4764a783a1bcc81520dd827e7c927eb0f5b9002c5c51"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/magento-eems-affiliate",
+    "packageVersion": "1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULBwACgkQZi3Wes40mG7NlQEAoUOjPTM+RtjpvlXKJFcc\/G+b\nQ3zsl56xD6MGFtXRRTIA\/06oSuoF9Rb1AhJwJmqwGDDLr0fY5dq23GINVVnqg13N\n=bQHZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/magento-eems-affiliate\/zipball\/523d197ce12e93024b77f018ff951bcb8b3b8234",
+    "sha256": "331fa95dff66e27fd2a983f3b45d6d6de53b6d5b636486f3a6083e90be62258b"
+}

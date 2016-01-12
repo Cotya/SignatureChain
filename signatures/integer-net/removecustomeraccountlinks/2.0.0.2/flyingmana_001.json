@@ -1,0 +1,8 @@
+{
+    "packageName": "integer-net\/removecustomeraccountlinks",
+    "packageVersion": "2.0.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMDcACgkQZi3Wes40mG689AD\/Y50YDxLU7L6MCE\/asNlm0ZHB\nCT82Ho8TIKDZEq77mswA\/2WZPyCBIHIE+no2lj5xxV0Gq9skCXesV9Wjfp2R7Dal\n=FUsk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/integer-net\/RemoveCustomerAccountLinks\/zipball\/e4e29cb8f6cd65b1b48fab542f6614a69cb218e8",
+    "sha256": "250a7d9ce96de45579f2b6f5693d7b6473e80620ac2643e1e0fa0f123529d441"
+}

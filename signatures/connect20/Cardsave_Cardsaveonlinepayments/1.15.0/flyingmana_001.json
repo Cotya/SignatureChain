@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cardsave_Cardsaveonlinepayments",
+    "packageVersion": "1.15.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCXwACgkQZi3Wes40mG76fwEAiQc8EfI4w96pc8M3rAuHcKr2\nRC5y9WIuzMvbUeIFBawBAId4YKJgeGwFfKpq1z6hBit7\/b1epoG9Jcm9mNSHvQ1o\n=8ma6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cardsave_Cardsaveonlinepayments\/1.15.0\/Cardsave_Cardsaveonlinepayments-1.15.0.tgz",
+    "sha256": "1d739c3c0eb6ea6b25d638367e46a7400c7378a8ea8d7d28c31d366d84d575a7"
+}

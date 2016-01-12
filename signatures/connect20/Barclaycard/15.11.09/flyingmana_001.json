@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Barclaycard",
+    "packageVersion": "15.11.09",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBkAACgkQZi3Wes40mG7NtgD\/bZwpUJOlVD+rUz4Z2jd6v+UL\nTzXcIS+ry3XomBnbxSAA\/imNdZzrw\/EP5euAK96Qe98CNV8q3OfGx433C2PQ4heH\n=yLhx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Barclaycard\/15.11.09\/Barclaycard-15.11.09.tgz",
+    "sha256": "7247f286e901365f5e3b416b6c6fbb73284ecd069374fe0edbedfe7bc2f16742"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lipscore",
+    "packageVersion": "1.2.17",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTf\/wACgkQZi3Wes40mG4RCwD8De\/OngvfQmifHHtZr13Rpeqw\nhLcc3M+TIVbGvZyoHEwA\/2oAZI0TYz7g7D+EqxPQJefPRJ6ag1Y2uPVCYwEDR9OP\n=mdLg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/lipscore\/1.2.17\/lipscore-1.2.17.tgz",
+    "sha256": "6ad1baafbf316a650b5c2d8963ad3c78359ec441054a3d9bbfb5f0378af99b04"
+}

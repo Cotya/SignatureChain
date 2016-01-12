@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SSTech_Ordertracking",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHp0ACgkQZi3Wes40mG6aAAD\/QwGvD1jnPXLuyGqpbXoQuK3Q\nNFvkU5etqQM7muXKTmMA\/1oVIkwYZAiwIF0i+3iFJ4iPIAiqRkbdDav6SrsUDxgw\n=Cjwh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SSTech_Ordertracking\/0.1.1\/SSTech_Ordertracking-0.1.1.tgz",
+    "sha256": "c76798c4091b6e5036fefedfbeab9efb174ede1c4a43a5d86c37774ed53e653a"
+}

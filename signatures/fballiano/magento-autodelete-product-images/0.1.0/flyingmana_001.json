@@ -1,0 +1,8 @@
+{
+    "packageName": "fballiano\/magento-autodelete-product-images",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULu0ACgkQZi3Wes40mG7VYgD9FlqzCZPJQ7pHW1Em\/mfbMK6M\nZsUyt+4xF5YvaCs7AgwA\/2COwafgaGO5Vq9ZHeDXsVuAhZ\/UdmMe\/4j\/r6lAA3vG\n=zEdR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/fballiano\/magento-autodelete-product-images\/zipball\/b6cd6052651546c28eaa88534f04b71cfc4d5501",
+    "sha256": "7ead431a345f35621a9760c8223827fcf40b76aad7427825737f3477cf2a95e9"
+}

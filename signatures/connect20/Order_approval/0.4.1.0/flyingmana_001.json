@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Order_approval",
+    "packageVersion": "0.4.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDtsACgkQZi3Wes40mG7snQEArsrpb56hvFSzQZw3wk2y7MWe\nEGNbCpSMObUYFOCJ1o0A\/2GhP14KqfCz7s\/BZwDHD6lmT7J+niguJnaMFmxYPf+9\n=b0vn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Order_approval\/0.4.1.0\/Order_approval-0.4.1.0.tgz",
+    "sha256": "6ff86aa4e5c87c3ccd9ab8cdbebb052857096e7461153eca8ba05d7a31f5dd35"
+}

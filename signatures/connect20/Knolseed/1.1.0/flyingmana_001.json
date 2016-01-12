@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Knolseed",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe70ACgkQZi3Wes40mG5kRgD\/ZKPVLx\/OEsgDwBunu8bxK72V\nC\/BMu1zfd2b5I4V+I5QA\/1Ie+1mM307FnS7aoSwVm15e\/Ub8oLC+HVTiN++MWDfg\n=QrBR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Knolseed\/1.1.0\/Knolseed-1.1.0.tgz",
+    "sha256": "aa804a14894f7bb529d61d32179b8ed511e71fa78946228ca3cc03f310ddd746"
+}

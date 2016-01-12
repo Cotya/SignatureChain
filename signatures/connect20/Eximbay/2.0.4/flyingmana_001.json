@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Eximbay",
+    "packageVersion": "2.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaOAACgkQZi3Wes40mG4N5AD+JWPx1BKQ+R7KznrB32y4QT+1\n0WkDlGIfYxMm2xKRH7oBAKYBAjVC+1GTPu3z+XR6SqDuf\/NQpMbWTz+Oz+8g1KF4\n=QUsm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Eximbay\/2.0.4\/Eximbay-2.0.4.tgz",
+    "sha256": "60a8bbc5fc40d0dd1054dba8b248578692bb4602ef022408a6faa138a8c49ba2"
+}

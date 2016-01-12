@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ezmage_OscommerceImport",
+    "packageVersion": "1.7.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaXMACgkQZi3Wes40mG4y7gD\/ROIgSbg0qYkzDRZloIfr7JjY\n2g9BGGnUOWiYhWQo1EwA\/1G3TRuSDtotEDd8vbMwnR6K8dN1hi58dk2fXLojJoK7\n=T3Ao\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ezmage_OscommerceImport\/1.7.5\/Ezmage_OscommerceImport-1.7.5.tgz",
+    "sha256": "2a8fd48a4e1a20c198eb535943e88678491df502bcb311a913803159b6d69f41"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/snm_pdfpublication_basic",
+    "packageVersion": "1.8.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHGYACgkQZi3Wes40mG7XIwD\/SxATvEGhosPKy1njSMiLKPzO\n\/rhJd0tOjJN1cpIbXSUBAIYKFpKazcrCKQbM8G2XQk9KvUQgYvHptP6tUpFKrlFU\n=XrVX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/snm_pdfpublication_basic\/1.8.0.6\/snm_pdfpublication_basic-1.8.0.6.tgz",
+    "sha256": "c1c63d4cbd99c6909e9250341dc041e68145ca6304b95989f36b9d8ee61d7b76"
+}

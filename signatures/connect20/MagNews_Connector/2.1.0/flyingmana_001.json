@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MagNews_Connector",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAxkACgkQZi3Wes40mG7eTgD+M0Jlso53D3mdD1\/FvNoQKKbv\nkIINklfHgoqU0A5p5kcA\/2+QTSxDgSTXqChQBNFi0T+OE0oqbH3oVQOj7ajcXyIR\n=Vuk6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MagNews_Connector\/2.1.0\/MagNews_Connector-2.1.0.tgz",
+    "sha256": "de2ce6b4b19a41bf75cd82fbd34bc5a3d85306f55e16d56a7942d0c99e677493"
+}

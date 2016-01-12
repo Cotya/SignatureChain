@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Expercash",
+    "packageVersion": "14.04.10",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaPEACgkQZi3Wes40mG6qrAEAnrP8xyrnbc8je1q6Gmt9yWIt\n0ZQS0gatJ0n+ylZ6qegBALgRUKslK2c4+c\/XZ1G5ULbZuEl06NKl8v0n\/vq\/L\/EG\n=1fo0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Expercash\/14.04.10\/Expercash-14.04.10.tgz",
+    "sha256": "c269a26a7d3a1c30cb698c9bc921cfa930ef9da8b99d4d92c8feed09ed701e7d"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Rapidmail_RMConnect",
+    "packageVersion": "1.5.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFS0ACgkQZi3Wes40mG6i4wD\/Xbqmsk8CIPFbmOJKHkYCf0ml\nYGSJ0jMGH7QPxvOMsQsA\/3tc7h6DQfvZ6HVDDgzUut6nsDEnz1LkoGnUbeT90Pxl\n=9nN0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Rapidmail_RMConnect\/1.5.0\/Rapidmail_RMConnect-1.5.0.tgz",
+    "sha256": "44c84fc3d4b60fe4a16ff0b4e1ec5f2c4359383cd76bc62ed0942bd1a335fc0a"
+}

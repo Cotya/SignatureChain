@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Canary_Alerts",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCUIACgkQZi3Wes40mG7VagD8DU8iWyjWDGxVcrpS+ZV\/xV75\ntJeEoCMcF710n7zELQAA\/A49tz4wLcixWhQvOF8BMiGb2GRsCYdDyEid8oaoNs0S\n=ZYst\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Canary_Alerts\/1.0.0\/Canary_Alerts-1.0.0.tgz",
+    "sha256": "42327c64ee3dd0201bdabf1bf1b253cb2399277774c37f6be0de13e265d29661"
+}

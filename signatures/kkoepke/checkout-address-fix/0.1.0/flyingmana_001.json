@@ -1,0 +1,8 @@
+{
+    "packageName": "kkoepke\/checkout-address-fix",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMgIACgkQZi3Wes40mG608AD8DnmnuJrH7qWiJyWCWWDJChyI\nDc1+1j87gDj3ejOO\/IcBAJKSP\/loLdsspWQ3q8jIkcWjFrFWsZvlBNq5OKd2vKzX\n=mWOx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/kkoepke\/kkoepke_CheckoutAddressFix\/zipball\/f5d4b9b8f87f20c509393065cafe8439d807ebcd",
+    "sha256": "ab0e87444b15fa97412340ca7b0ab834c75fbc848d10642c1c3a45dc3c8b460b"
+}

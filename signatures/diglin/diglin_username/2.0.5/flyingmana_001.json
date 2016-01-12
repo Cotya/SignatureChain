@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/diglin_username",
+    "packageVersion": "2.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKzAACgkQZi3Wes40mG5HeAD\/f0A4zwmiAzudglTWCLeL7Szw\nuxsLaFGiD9oO33yWrY0BAKBNfWMPgNWXkDN1RUnaYDq33LZG+W8\/QnkS0hWqnkNm\n=CyvI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/Diglin_Username\/zipball\/fd71c66d88d71c8104065dae180a35e67daf43ff",
+    "sha256": "b6aacc2e1a600578d1cba2c83e43d6c898e6aaebf5c1060597d515b669cd29ba"
+}

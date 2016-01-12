@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GroupDocs_Viewer_for_Java",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc8MACgkQZi3Wes40mG6zoAEAlUkbFd5zedXYdS8JstLtqwTr\nsEpCfqgCSTi1p2YunCYBAITtDWWgBM+FVjQehKKZLiQGWE8+ij46n4XDUH9QDWVq\n=vCKF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GroupDocs_Viewer_for_Java\/1.0.0\/GroupDocs_Viewer_for_Java-1.0.0.tgz",
+    "sha256": "296e2a1fe82407bad21b0407d27e3e4600c099bb56114a4f3644196f60c15ef3"
+}

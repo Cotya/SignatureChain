@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Imaclean",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/3wACgkQZi3Wes40mG4k9gD6A0H\/FFRGxQbxKCnwMiO+Os+Y\nTPMLJb0npah+Cs3Go+0A\/1lBcv5SypmNGj0WS7dIIbE5ioxv4PcrFkwDbxN+FZAp\n=IHeA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Imaclean\/1.1.0\/Mage_Imaclean-1.1.0.tgz",
+    "sha256": "7f656450bcbc86dfd385ec4f0e8008689c73096f425a9e29a91fac2afcf4af5c"
+}

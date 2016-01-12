@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Locale_Mage_community_pt_PT",
+    "packageVersion": "1.8.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgNUACgkQZi3Wes40mG6LYAD+LD0rwY9Kb\/0SfArOqUpRtA0l\nkMtN\/roa\/fCJiU40MMEA\/0QbIoKcabSn49tF+3mQYXcWwt\/8xO6p276clAFDQD3P\n=bWeg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Locale_Mage_community_pt_PT\/1.8.1.1\/Locale_Mage_community_pt_PT-1.8.1.1.tgz",
+    "sha256": "bf5c2042fedbad7cd46e39cbf4ae8c839d59e9c69e10825f15b34df182b28de1"
+}

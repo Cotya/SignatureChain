@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ewave_Quicksales",
+    "packageVersion": "1.4.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaLoACgkQZi3Wes40mG5ETwEAh5cXGFdg5IDPaLOoTmGZjJa2\nTv526iDVMp9VpCGlgBYA\/2n2JrTDPM3L2SSdmLXK43+ajjfV6rWysxw4KVgkCtKb\n=jwxh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ewave_Quicksales\/1.4.4\/Ewave_Quicksales-1.4.4.tgz",
+    "sha256": "dcef74f7ef4dc7c68c9e77f66f03fc1bee5f1bb048b7124a85c7d67563318fd6"
+}

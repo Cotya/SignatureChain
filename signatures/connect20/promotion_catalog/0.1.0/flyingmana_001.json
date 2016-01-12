@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/promotion_catalog",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUE9YACgkQZi3Wes40mG7JaQEAj2y7X5cp8hnRIYp1IQsB7GkG\nOsmk3+EQ1NpbnMdwwJUA\/jbTA7Gs8\/wS7KvkBJprtC+x8OWskOBDI6OuauG4GpN\/\n=P5+V\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/promotion_catalog\/0.1.0\/promotion_catalog-0.1.0.tgz",
+    "sha256": "fd7f989d9efeca70dc01c7c5f959eac0cb552c719631c7de4ea7630d6b0987c8"
+}

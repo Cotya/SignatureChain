@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SweOptipricer",
+    "packageVersion": "0.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUH3oACgkQZi3Wes40mG6IKgD\/b6IXTunG12mr0O\/TZr0GLbo4\n3AT2IJfwWRmLXnG1Vd4BAI7Z3LJQax9PEpn0Fc+cceRobvyYDoJSsSQ9PC1nGCWB\n=t+KB\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SweOptipricer\/0.1.5\/SweOptipricer-0.1.5.tgz",
+    "sha256": "89fc32eabf615465354eee4f3fa39d27edf84d53543cc77f606ef0d71f5f32f5"
+}

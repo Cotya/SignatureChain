@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/multistock",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL2EACgkQZi3Wes40mG5sqQEAl\/Z3DCHclxHIyG\/tQ57qJWhh\nO9HS9gTZZTX5WixpNaAA\/i0vH6gKttERa\/qBiACwYbPx5WWQcYUZ6P1ik11bajOS\n=Z\/8Q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/MultiStock\/zipball\/dfe98012dee24ffd111e950fd78eef4e63d33dc6",
+    "sha256": "0f3035ffb100a69af38fc88dcceaf92c646178caa92e16545c5a8234bb6f8efe"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Magento_NewRelic",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAqkACgkQZi3Wes40mG5QMAD\/SH+QRGpEoJTVUGNw0ch7vFo2\nhpGqxHXHFqlkyyN++PQA\/3nxF23gcSlR\/ubbOc6H+QNISCW+rhymLoQqmoWxtzwy\n=F\/wB\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Magento_NewRelic\/1.1.0\/Magento_NewRelic-1.1.0.tgz",
+    "sha256": "263fabfc59784214dd67db1c75acdc4362a9095169550e8332654ed6ddd98ff1"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/pay_in_ticket_office",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUD98ACgkQZi3Wes40mG5tkAD3cXJlX\/43c8s3SN3SISiYF8xG\nW43J4Vfb2EkxPIdfhwD\/eTz0s+qriyIfkkGemC+ZiyGSxiLhCNJKdnHoHaufmZU=\n=UuQU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/pay_in_ticket_office\/0.1.1\/pay_in_ticket_office-0.1.1.tgz",
+    "sha256": "f2ea6d52c39957884f0a941f0c2b04350de843e740c130b729029071e8112192"
+}

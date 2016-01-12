@@ -1,0 +1,8 @@
+{
+    "packageName": "gordonlesti\/lesti_smtp",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL9EACgkQZi3Wes40mG7ycgEAlNP9vvV7YCbwi0GxK7J6fo9j\n2f+6kDXmHuDAC7gn\/lMA\/jg3\/od0A7NF+tsZfi\/0BNnmlckwC+Wwf1dFxhAiDsIn\n=R5rX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/GordonLesti\/Lesti_Smtp\/zipball\/d1604b5371e9a5e3267430846d56e837ac488595",
+    "sha256": "e0205d0e87ab21c6ec60a7f7f931cabf3c082e512db4796a5cdc98bca6a58b67"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageWorkshop_DPI",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAwQACgkQZi3Wes40mG78IQD+IPlL7vtlKaAoZA9x+i7ouOhF\nmZ\/3WqgI0un4SpBIxBUA\/2MrE3fK5bim78abkZrkcpUXsTYReogo8hSYl5vrmrO+\n=fIAP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageWorkshop_DPI\/1.0.2\/MageWorkshop_DPI-1.0.2.tgz",
+    "sha256": "6dca498c219db373f845a4f71cd2432869bec731645fccb3ceb39936fb67df07"
+}

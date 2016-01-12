@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/markdown",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUA88ACgkQZi3Wes40mG7d7wEAnqoVuX\/fcHwg0+XbOLfIdQ6r\nb0FLE1qxcW6xR2bp29gA\/jbM5HmosUDWgm6Pn9\/mDWlh4cCNFoRQhbd2G6ccVImk\n=qHDB\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/markdown\/2.1.0\/markdown-2.1.0.tgz",
+    "sha256": "289fc4a019d851f8f7d6e0b86d526ef0f520f571956492f650286a76ab4032e8"
+}

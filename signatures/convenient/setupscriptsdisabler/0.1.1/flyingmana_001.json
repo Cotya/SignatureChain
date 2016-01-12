@@ -1,0 +1,8 @@
+{
+    "packageName": "convenient\/setupscriptsdisabler",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKowACgkQZi3Wes40mG6RJQEAoh+T49fNMFkTpBm+d0HLfnBt\n3PKMLUTnsi7YmxcH9UQA\/0GwmUN7WzDyZUVpAPB\/HYELoeoF0ntqHCKDs4QDIwsC\n=IQOY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/convenient\/SetupScriptsDisabler\/zipball\/ac7304ca18ca9f32ca2df0673299e98e078c0fea",
+    "sha256": "15b2c9283b13c86a1c0dba9d62869fd3dd6efad9dc3c85d9eab0a091aadece30"
+}

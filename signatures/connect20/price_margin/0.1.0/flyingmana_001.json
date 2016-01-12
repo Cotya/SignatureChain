@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/price_margin",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEpgACgkQZi3Wes40mG7uTAD\/ZpWI0MneMR3U9iXdOdPTQY5R\nCGyZWIRpF9p3SB6lkZ8A\/j3r5XT3H6fgxuqtINXGmttpeZIl2MJE+gPmx1z4FdMY\n=H6cU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/price_margin\/0.1.0\/price_margin-0.1.0.tgz",
+    "sha256": "626ee269834d62131fb46a3ec38bcd6ed5e218202ddc6dad19e6e0e7af0b1d33"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SABIOinstaller",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF2MACgkQZi3Wes40mG7e3gD\/dkeQcnez9VKVQs10l0RGgETd\nvZjGNCAOGbIArhRkRPkA\/A3fPoMkxB+xSwZ5W6a7go494kocHp8t4D+bWOCNBvZ8\n=sXmA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SABIOinstaller\/1.0.1\/SABIOinstaller-1.0.1.tgz",
+    "sha256": "1df6cbefd1d69cde2cb45ede847efc2edf3ceec6aa8e380595bfd1ad736fe8a7"
+}

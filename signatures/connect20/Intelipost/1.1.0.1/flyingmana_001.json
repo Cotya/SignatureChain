@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Intelipost",
+    "packageVersion": "1.1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdr8ACgkQZi3Wes40mG7flwEAtoAqy+Ka3lpILb8rGH65RqSe\n1pXu+lx0i+6ddJCILZIBAJgCYW+PxcZwjBLxYQjjSyZGWOlVezw34ThKh2xAjTxN\n=jzFw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Intelipost\/1.1.0.1\/Intelipost-1.1.0.1.tgz",
+    "sha256": "a18c9541fa51bab241dce37fd548cef4cf1aa6b8157999de459a4a7b50cc989c"
+}

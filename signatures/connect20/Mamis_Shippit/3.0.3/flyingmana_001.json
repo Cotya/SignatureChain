@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mamis_Shippit",
+    "packageVersion": "3.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUA1oACgkQZi3Wes40mG5ONAD9FzlPGTmAY0LCQi+z4fj8HauH\nSZJ7RE7ResdZIYBgY1EBAI6A2Mbsj\/0pBLe7BBigew7OLWpTQa2l8FbTsEgwz0fi\n=v2Mr\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mamis_Shippit\/3.0.3\/Mamis_Shippit-3.0.3.tgz",
+    "sha256": "c1fd9b68c72fc3fc0247603949781ae98e8559fc49001891961a790dadc07818"
+}

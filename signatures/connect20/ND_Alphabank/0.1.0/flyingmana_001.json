@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ND_Alphabank",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCfQACgkQZi3Wes40mG6E0QD\/bkkwNDSh2HSO9Y8gjAIFr4qG\nWZ+Tzz1qQmHISZBXPJsA\/1ExORc1kuzGOtgZYKOBVPWsznZSC3ivAJy+OsV7QUtG\n=mDOC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ND_Alphabank\/0.1.0\/ND_Alphabank-0.1.0.tgz",
+    "sha256": "05981c5de1b6369e1fe7847556a50bd6992d85dc512e32c02af6148bac39ef4c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SwipeHQ_Checkout",
+    "packageVersion": "1.6.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUH6oACgkQZi3Wes40mG5tfAD\/RZLrR8HxPIntms6dMVD4HnLS\nsvvixqwfJ\/BN9jk+Ep4BAIinzzo2NWPNKdIbI0\/fXrtsb5CARBzQnS1BjMXDruEr\n=c\/A3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SwipeHQ_Checkout\/1.6.0\/SwipeHQ_Checkout-1.6.0.tgz",
+    "sha256": "8cf920bce8446ae9cec81d88311d554a41ef877701638822997d68c82c5e0848"
+}

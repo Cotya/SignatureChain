@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Luckycycle",
+    "packageVersion": "1.6.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgaoACgkQZi3Wes40mG4qEAD8DtXHZ+TniYnkyvYu97ixQDEa\nt12qzuD0cnmFYw+X0vYA\/ioUTTP+rphtCWPb092RfBU7rUA7vJBoOtcEQXlbtibA\n=aidd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/luckycycle\/1.6.1\/luckycycle-1.6.1.tgz",
+    "sha256": "a1343d1e4cb2ac4051337767a8a82c6725f41bfb5dfba079684bb0a9a52c88bb"
+}

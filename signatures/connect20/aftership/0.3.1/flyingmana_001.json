@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/aftership",
+    "packageVersion": "0.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAdsACgkQZi3Wes40mG6PyAD\/WUGrqrFV7DgLVFON8kTln1h1\naF6VtPOmxB2GgOQJR6AA\/RSfJXJTJ4DkaQgNoRT1jfDoY9dV00VxXG7Hbz3oEqox\n=xE3q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/aftership\/0.3.1\/aftership-0.3.1.tgz",
+    "sha256": "369008047235afba2af4557c26e60b5c1aca1207d4ff2cb6903e9cbc92add2e9"
+}

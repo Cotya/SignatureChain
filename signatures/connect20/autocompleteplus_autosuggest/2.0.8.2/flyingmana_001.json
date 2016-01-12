@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/autocompleteplus_autosuggest",
+    "packageVersion": "2.0.8.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBOcACgkQZi3Wes40mG5ypAD\/SZpEp6NScWU16n4SdFll3XUs\nXCSGdiG\/W\/XxSpaoJA4BAJGTmhM19Gtn3BvSBT6E\/F2Qm2T48W+POG9+CvJemL02\n=YaMK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/autocompleteplus_autosuggest\/2.0.8.2\/autocompleteplus_autosuggest-2.0.8.2.tgz",
+    "sha256": "6f5d4a0a357a3cc308dccd5875af8f2bd0f5c83668309a89c729f54623916600"
+}

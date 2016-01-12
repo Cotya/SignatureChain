@@ -1,0 +1,8 @@
+{
+    "packageName": "aschroder\/smtp_pro",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/pkACgkQZi3Wes40mG68FQD7Be8iG3gJ6LbeJ6fJFJht9ljy\nQ3g7ItxIN5JwJaQuw2AA\/AhwrvHV6wQqkgEQcy3ul4z2H0PYW+Qgx7bE\/SJPHfWk\n=LFVG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/aschroder\/Magento-SMTP-Pro-Email-Extension\/zipball\/a97b92ad0cfe487904652d0365c8787b35bff993",
+    "sha256": "10e8f5360d27485f36ad97554587add0d36942afc58b2d4b72aabda15abd1e5b"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Fontis_ComposerAutoloader",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTccYACgkQZi3Wes40mG4YlQD9G2gyC1iLM9QejX4kaqSmNPxU\nFLkiM6FcLJRmlOaJCsoBAIaoeYEveQJGbi3gQDdhClqwzASOe8FhYVcHGQQpaxkM\n=OOPQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Fontis_ComposerAutoloader\/1.0.0\/Fontis_ComposerAutoloader-1.0.0.tgz",
+    "sha256": "e40ef283520ca150ec06e41cc7956e8716b947290d94e927f09835a6a49b44ab"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/magento-file-transfer",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULCwACgkQZi3Wes40mG4oxgD\/dorbXZuPjLmkIH+fV\/FPo4TC\nSS+H2xB5mHeF1yYfJsQA\/i9m7LRMzN5v7tHTvVyBISuAwNsLNSNGvIb3F3oqmrev\n=Jcmd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/magento-file-transfer\/zipball\/22da9ff870bb678cff2a3b91c6689a8d957bb9cc",
+    "sha256": "8fcfe32da354deae170e79faccb3fd61fbbd7328fa0eaac4e47f7fbcd95d150c"
+}

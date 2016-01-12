@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CoinJar_CJCheckout",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDMAACgkQZi3Wes40mG6d8AEAm13cTX5uyzhGH79sVehJS4+X\n1h3Xzcy14SIfA8UPXmQA\/R90NncHm6tlt2kLjMDGP0Cc8VH+VlGySW\/f6yFjg6Hp\n=fOlf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CoinJar_CJCheckout\/1.0.0\/CoinJar_CJCheckout-1.0.0.tgz",
+    "sha256": "c8979e84298201eb87a07760b876409ec1aefde15acf650c7d25b332ad3d8976"
+}

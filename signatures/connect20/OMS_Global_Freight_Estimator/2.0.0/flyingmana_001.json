@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/OMS_Global_Freight_Estimator",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDa4ACgkQZi3Wes40mG6q1AD+LsYHuXUwr97Bqw9\/1c+7heEE\nS9URssLGAsR4b+f\/v6sA\/1s9kxzGb7qqHwZOx1r+VIBlfJKrrw2\/jCDPYONZdo31\n=TFk9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/OMS_Global_Freight_Estimator\/2.0.0\/OMS_Global_Freight_Estimator-2.0.0.tgz",
+    "sha256": "afdc7b7f4356a1865ba599801c11d0797c3420a950da63b478ff718adeab7990"
+}

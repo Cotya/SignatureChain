@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/tig_postnl",
+    "packageVersion": "1.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIZkACgkQZi3Wes40mG5BywD+KFsbgxfDfkWglYTBpHL5L1j1\ntlRkdgXupJTbmdcFK40BAIv9ArI\/Q0Jv994U5XSh3enobxPyGko2sU2HXlmSwbgA\n=YF9a\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/tig_postnl\/1.5.1\/tig_postnl-1.5.1.tgz",
+    "sha256": "ccff09a6b3fd21cb3254fd7dd9f31eaeeb43058ad36cdf0f8495acea9edfd4b5"
+}

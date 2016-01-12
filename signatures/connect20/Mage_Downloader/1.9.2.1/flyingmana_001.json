@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Downloader",
+    "packageVersion": "1.9.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/1AACgkQZi3Wes40mG4IfQD\/WMSEe6sX8lNPUDFEhVhl4tGO\necGvGJOsz2TfEPaDrVsA\/0bLF\/sPeGc95F7kBYQif7j6+fjxrf5KOS2dkeb3PhR5\n=OZZm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Downloader\/1.9.2.1\/Mage_Downloader-1.9.2.1.tgz",
+    "sha256": "d25cdca4c3cd00774f4c4eb2d84268cc87ec338bb73ede0d6f88a3c860b9f226"
+}

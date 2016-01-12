@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lib_zf",
+    "packageVersion": "1.11.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfj4ACgkQZi3Wes40mG4l+wEAoS+GH8ocw+ATDiecctu+H0MB\najdrb+NfYZKvbdUJKzYA\/AuzhTQ52shG0DZ58tIHgINWMu2MeGxvSziueFeyTyQ+\n=2Afi\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/raw.github.com\/magento-hackathon\/composer-repository\/master\/repairedConnectPackages\/fixed_Lib_ZF-1.11.1.0.tgz",
+    "sha256": "3bb8467217c5473957527ef475bee08b2c819dee82f699b0c29ad61ac69f5b91"
+}

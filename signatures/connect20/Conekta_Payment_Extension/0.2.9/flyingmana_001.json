@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Conekta_Payment_Extension",
+    "packageVersion": "0.2.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDisACgkQZi3Wes40mG57GwD+JRqX841NDv1nB6SHpk6WHGWH\nr+qNm2OOf6bzNUnt6N0A\/0ZwPUYcInOYbp6IgoPha3n7Nkg+QYxaiUN9cxb34jUl\n=oUA0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Conekta_Payment_Extension\/0.2.9\/Conekta_Payment_Extension-0.2.9.tgz",
+    "sha256": "befdfde102a2d45b56aa27e392a17250538c6d4f312291b5fca1e7d7d656448d"
+}

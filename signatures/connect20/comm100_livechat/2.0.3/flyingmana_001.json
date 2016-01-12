@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/comm100_livechat",
+    "packageVersion": "2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDScACgkQZi3Wes40mG4MzgD\/adfl8nGIFTAZqc1EP8lFsQ62\nKv3J4gSqpwoAqlLzpdgBAKJxVi8k8m14Leww9xAICd5Zmy0M7sA0ABUOleThn3hB\n=2\/Ln\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/comm100_livechat\/2.0.3\/comm100_livechat-2.0.3.tgz",
+    "sha256": "92a1e3f230507152b9cb262127e5b3564f45ea10811610ed4fd5f539e1451d98"
+}

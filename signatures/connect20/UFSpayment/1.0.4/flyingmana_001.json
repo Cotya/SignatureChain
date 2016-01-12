@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/UFSpayment",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUI94ACgkQZi3Wes40mG4IrQEAlCdNE6L23vo\/RXcPbNtrYuYg\n+MvLygDuftWY1aOFlRABAKAkwF4hO95he8FB5QKP8m69oNSpnbRRKwKp7jGKjDaQ\n=BRHK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/UFSpayment\/1.0.4\/UFSpayment-1.0.4.tgz",
+    "sha256": "bbc0d3f0389dada6893ee636b870f6544e38b904e3e1996dc0139b725e8c0b9b"
+}

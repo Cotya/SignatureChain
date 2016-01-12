@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Auctane_ShipStation",
+    "packageVersion": "1.3.15",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaTBDUACgkQZi3Wes40mG7XLwD+Oc7yao9u8LYkRAn9FfBIe+zh\nQTg1kE4S8q1OWJPRpzAA92YMhxm\/N9880Knm85BCxuxMdD5CTH1mZmhFD8Z6G28=\n=0WiN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Auctane_ShipStation\/1.3.15\/Auctane_ShipStation-1.3.15.tgz",
+    "sha256": "abf4b1f489aebb5456baa35a49431dd0f75526b1e7e2ac0e6c4f404364ce68f7"
+}

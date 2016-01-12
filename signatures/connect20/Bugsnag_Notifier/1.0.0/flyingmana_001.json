@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Bugsnag_Notifier",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCQ8ACgkQZi3Wes40mG7HIgEAl0OZzgdu78aowuQJHQN7e9C\/\nHknmtKWxZcHEk3M3MlAA\/3T2d3fERlPGOKjz4nyXdCGBowrTkPrnMUH0WqzCfNcE\n=MkkY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Bugsnag_Notifier\/1.0.0\/Bugsnag_Notifier-1.0.0.tgz",
+    "sha256": "a5069055c950fd4d4afb463fd9d2d9eec14bb34b00715ce38c3934b24a532e59"
+}

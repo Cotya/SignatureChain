@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PaypalUseractionCommit",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEMwACgkQZi3Wes40mG49WAD\/V7by3bC0bq\/kYHDQCu7182D3\ngo0koMBGYPevODRAjtQBAJaiXiBdHT4yyJ81GL2RhMj+FEGRgiVjGRGJn5YK4Z\/b\n=8yJd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PaypalUseractionCommit\/1.0.0\/PaypalUseractionCommit-1.0.0.tgz",
+    "sha256": "bd30f565fbe09ba6ed5de710edcc6201ab80b5f6f3a112f3c5edefed3ad4206c"
+}

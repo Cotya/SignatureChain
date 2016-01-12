@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Fraudagency_Paymentapi",
+    "packageVersion": "0.3.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcmMACgkQZi3Wes40mG4+mgD+NdledRibePBszut5oru3SCkL\nLmAWXkTROXV06ij2b8cA\/A+eScWEyXUkHUNT5I2K28Uz1x17EpyDjw8JSGNd1xfF\n=13Xr\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Fraudagency_Paymentapi\/0.3.3\/Fraudagency_Paymentapi-0.3.3.tgz",
+    "sha256": "85f62d3a804cdb5bff9d7611e755150e18e25f23ae0ba168903735ffd0c51de1"
+}

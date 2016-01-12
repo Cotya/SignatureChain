@@ -1,0 +1,8 @@
+{
+    "packageName": "firewizard\/magento-minifier",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL2sACgkQZi3Wes40mG5pWAEAjRa6+zo6XSpR8Lkz61eQy\/co\ninRxGjN3mqQ\/lzvqDC0BAJu5YeN7b1a8L3ANg0D8lM4SAjv46qjGFIfd0vwHVIdL\n=wBRO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firewizard\/Mandagreen_Minifier\/zipball\/edc28296d4e123578259d86b377dbaa636b064b7",
+    "sha256": "7083d722929490089b86fa89c4418884174b8eb86b4e54d79b6820b9e68dc138"
+}

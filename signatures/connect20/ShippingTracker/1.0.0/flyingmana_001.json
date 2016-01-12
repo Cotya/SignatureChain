@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ShippingTracker",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGRUACgkQZi3Wes40mG6LNgD\/eWAKCNKhE7dhWfjMK5xQYzZD\nE1fPwclqW9bzIrQWGCIA\/3Ly9F64UjgwXeCf54tzxthWX51r0wojjoK3pU+amrQc\n=OvkT\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ShippingTracker\/1.0.0\/ShippingTracker-1.0.0.tgz",
+    "sha256": "f27a7d7709f2a8c49ac965c2a794af8a6f36c9a30f28954b7f3c447fdc7720eb"
+}

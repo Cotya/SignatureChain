@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Hic_Integration",
+    "packageVersion": "1.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaTdI4ACgkQZi3Wes40mG5CEwD1Hd3pRazhDYhW+mYn4Q4mOj\/S\nLAm2Zd\/hsXe2jxHGCAD\/TeAo6o+2Vx7mfvRwy0j5j5siY\/uLHhPUEKHUFu9TrEU=\n=WEsU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Hic_Integration\/1.1.3\/Hic_Integration-1.1.3.tgz",
+    "sha256": "e1ad58c530d828e0c1912cc2249ef126344834e3fe4c2f7c8cee353e38577dfa"
+}

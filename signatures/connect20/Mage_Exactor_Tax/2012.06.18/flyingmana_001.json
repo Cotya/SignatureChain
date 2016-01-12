@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Exactor_Tax",
+    "packageVersion": "2012.06.18",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/2wACgkQZi3Wes40mG49tAEAlNFkk78Kg0mekvG4oxlXtl9a\n7fRKXMoPns1HuWSyImsA\/1wBBC6BHbiCrJhlk+Ul7ZyzRp+wNvK6uYpiVko57bRc\n=ioe0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Exactor_Tax\/2012.06.18\/Mage_Exactor_Tax-2012.06.18.tgz",
+    "sha256": "d85b4041200a54149f8cbd6a4d43ae52762f844fe49e50a8f2c57287d36ad62c"
+}

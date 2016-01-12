@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/yellowcube",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKMwACgkQZi3Wes40mG79zQD+LGJLVmOZBhs5HtN2xIXRykeG\n2em077ZDZ4GuD8e3W5QBAI77b5FqrRq3hi+pJQ15EzlYDau+3PQYd7NDIvzcPNLo\n=Sw9U\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/yellowcube\/1.0.1\/yellowcube-1.0.1.tgz",
+    "sha256": "08506d60d16f38ba06385d0179c820459975755472da64c059e6b6b15bb4bb8b"
+}

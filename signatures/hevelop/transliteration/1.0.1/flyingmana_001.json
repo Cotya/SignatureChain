@@ -1,0 +1,8 @@
+{
+    "packageName": "hevelop\/transliteration",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL9gACgkQZi3Wes40mG4MYQD\/T8aDcqPfScUmtj5cOXEjILaa\ndTnK+Cb3no2ZSP9yYM8A\/0gXYfuGU6tWsAnJfxdyci1PeZ+kafgF12jZgMLxMshQ\n=Gon2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Hevelop\/Transliteration\/zipball\/0c78fcbbbe94efc01712bc9c32579e7858a23269",
+    "sha256": "652ca570d0fed9aa1fc0c3af8d2fbbc904ef556301452081a9c64ee5cc8eb951"
+}

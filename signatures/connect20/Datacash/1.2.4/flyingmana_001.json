@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Datacash",
+    "packageVersion": "1.2.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEC4ACgkQZi3Wes40mG73dgD\/XeRJ9vNogVPTE7kGgGHZmxo7\n+SRErasEIOhjpUIb39oA\/3ENiuIW\/VDVddMNgKvhRq9KpLU+J6XluTgMkeOpq8Q1\n=xSHY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Datacash\/1.2.4\/Datacash-1.2.4.tgz",
+    "sha256": "ff743edcddca442c68f0fc642da90bc3547cf7dd6488542e0544d983fa9fe4b0"
+}

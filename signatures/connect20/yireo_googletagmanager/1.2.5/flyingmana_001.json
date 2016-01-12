@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/yireo_googletagmanager",
+    "packageVersion": "1.2.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKO0ACgkQZi3Wes40mG6UcQD9GgJZwBF6d19ZhMA3DBMCikcs\nGAV3bfDl\/5yl\/dgYE5IA\/i1TuL8YKiYu6Seno+k394i+FUNmg2DcTstiIJVHsZVF\n=gUML\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/yireo_googletagmanager\/1.2.5\/yireo_googletagmanager-1.2.5.tgz",
+    "sha256": "bb31a2ff22202569536385d20291ab3a72ce8f52e9e95255faeb72fabe0f0f18"
+}

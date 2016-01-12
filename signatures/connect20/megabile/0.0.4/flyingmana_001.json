@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/megabile",
+    "packageVersion": "0.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBQIACgkQZi3Wes40mG7\/MgD\/YeKDuM82Rj7UqyNdBg6yZfsM\nw6UxrmBuoUNKMk58uHYBAIUKb8v+jlL03vbjIgWWPREItgzVF6hrf5H2n+ZIWBpj\n=Klc6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/megabile\/0.0.4\/megabile-0.0.4.tgz",
+    "sha256": "d7428e118062c331852b211d9eb5fb93a88b1860aca4be2011f12fd3bb4a642a"
+}

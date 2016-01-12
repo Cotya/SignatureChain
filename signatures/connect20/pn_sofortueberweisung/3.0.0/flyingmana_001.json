@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/pn_sofortueberweisung",
+    "packageVersion": "3.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEigACgkQZi3Wes40mG5mnAEAhLyVyQb2MLeRvivhIhsOdN63\nH826GpSrO3OHTV0WAS8A\/RdJ6UK8ygiVo5ZTeok6kyYximoWt7BG4ZfLsE9CLJ55\n=gNpp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/pn_sofortueberweisung\/3.0.0\/pn_sofortueberweisung-3.0.0.tgz",
+    "sha256": "b8aff52a2258ad4567d031c86e083c801cfcfd67c865f8057c29e692c5277fe4"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Novalnet",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC2kACgkQZi3Wes40mG71bwEAohOWRloAt2XHeBNzfIOUSQ1z\nbXyh4NKxcBRMX0ky6DAA\/iAarLaImPu0FqNtmulEuJrGtv5I6GQ42yjhyDDJPKxA\n=27Q4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Novalnet\/1.1.0\/Novalnet-1.1.0.tgz",
+    "sha256": "a19fae39fb4e4e720f46b320543b70c65f653af2cd482d9af3f9070244828f6f"
+}

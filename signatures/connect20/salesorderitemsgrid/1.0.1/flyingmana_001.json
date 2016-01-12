@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/salesorderitemsgrid",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF3gACgkQZi3Wes40mG7d\/AD+PCwZjgQyTGEUDGOMOamCrqBD\n+XJvjYIV8xikiYhdbPMBAIpSY2QzBPB2r1MvnkRqoZANqvemXcUOLIH11gB85VAR\n=6ht9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/salesorderitemsgrid\/1.0.1\/salesorderitemsgrid-1.0.1.tgz",
+    "sha256": "33590dbe964a321b0ad3430723e97e7899c41387c5ae3036a698ff12fa508b56"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ReportAutomator",
+    "packageVersion": "0.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFiwACgkQZi3Wes40mG7IywD\/bWCOLA2UD6lMpB\/KWVnbEmq7\nbWbW9cCzhTC4s+dO23QA\/1mV2ZUqUIz6QK93M3sol1I+u+gw7lBodBOgpz8uAnMw\n=Mobw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ReportAutomator\/0.0.2\/ReportAutomator-0.0.2.tgz",
+    "sha256": "1c4b9b9607c9a78e23b3832f1eee40636d26669f6db76c0c3429c168c895b1f4"
+}

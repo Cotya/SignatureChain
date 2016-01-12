@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BluePay_Echeck",
+    "packageVersion": "1.5.1.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCDcACgkQZi3Wes40mG60+AEAm2kQaO\/hWPbVq9YbsynqFbgR\nhh63S1GwSLCqU4pk8SUA\/0xl2LPaWlMjgTvm\/qm8saHERhoocbV\/WKWTCa5rNiTw\n=kLh7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BluePay_Echeck\/1.5.1.6\/BluePay_Echeck-1.5.1.6.tgz",
+    "sha256": "857cbe8f886b7147e9e526448cc65c5bb34222f82dc1c15e562fdab868030889"
+}

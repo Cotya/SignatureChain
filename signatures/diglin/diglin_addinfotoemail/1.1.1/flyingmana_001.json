@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/diglin_addinfotoemail",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKssACgkQZi3Wes40mG7NkgEAhZeoS4CGE5hkmT03afQeYpb3\nm\/C7QZa9PbWNJivOoNkA\/0+3xkVEkWIKEQz7Mq7hedBnsoxQ1mAk+2aMKzIpolw1\n=sGEV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/Diglin_Addinfotoemail\/zipball\/f4fcc69d7611029672a05d24d15822663766c5cf",
+    "sha256": "602fd77e6cb0d1439fae3085072323d42a961514b58fdaa5bd69abf7bd90c2b2"
+}

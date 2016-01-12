@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BluePay_CreditCard",
+    "packageVersion": "1.5.4.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCBcACgkQZi3Wes40mG4s5QD+O7ezm21d\/wsU4KNPk6kOPecK\nG3++Fw3a05cFGgHe1xsA\/ieu1dGy7FAyh3Si\/mxGibJREe0OkAIjjExw+aab\/h2Q\n=bDKS\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BluePay_CreditCard\/1.5.4.7\/BluePay_CreditCard-1.5.4.7.tgz",
+    "sha256": "d4bfcf5f157bb55f9b404a8f63ef835e93f4d6a70b443deefb766d8bd14ff803"
+}

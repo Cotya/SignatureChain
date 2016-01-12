@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DataFeedWatch_Connector",
+    "packageVersion": "0.2.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEEoACgkQZi3Wes40mG4tnAEAnLuqSSPXvFNaZfnpRPYt7QOp\nF7fwG6M12\/CuG8dWCC8BAJ\/IIo+0pkvM+l+r\/1\/4iD0l8TFkQ7JsX29D3B1mvR80\n=F57M\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DataFeedWatch_Connector\/0.2.7\/DataFeedWatch_Connector-0.2.7.tgz",
+    "sha256": "335cc7c90d3f1849e0b2d36d62fc816f2a2e997a4bdb85f7df35de25737a234b"
+}

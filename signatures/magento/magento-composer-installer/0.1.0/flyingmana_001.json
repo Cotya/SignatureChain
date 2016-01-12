@@ -1,0 +1,8 @@
+{
+    "packageName": "magento\/magento-composer-installer",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUNa4ACgkQZi3Wes40mG5cyQD9HI8fnyMDQhP6HYhisHzyqTX1\nGHi\/sJuI2vg+oh6HjcEBAK1hSFlOXYgY47sRKGEFZAdq29xTbKe1eZIXRU5OW3mo\n=74iX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento\/magento-composer-installer\/zipball\/a97b4cb7b5f16773e2839846e16ee9568b97acbc",
+    "sha256": "88b5a82715a321109a31183af4e5d1b3ffc99a3908307a0955c3796c162845da"
+}

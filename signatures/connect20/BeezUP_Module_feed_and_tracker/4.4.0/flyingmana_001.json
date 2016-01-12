@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BeezUP_Module_feed_and_tracker",
+    "packageVersion": "4.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBvcACgkQZi3Wes40mG6RLQEAn63R\/9WqZBF27CRKiHLRu6X0\nA6T3\/V6dsnkwf3uTY8wA\/2cR9+JXLcgChnmLXv\/shTymn4Tgmx1yUefahvfnqz9j\n=22Nk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BeezUP_Module_feed_and_tracker\/4.4.0\/BeezUP_Module_feed_and_tracker-4.4.0.tgz",
+    "sha256": "655456dd1f97a0b8704160c7cb5867221534dafc0a132ce055213e0870843f70"
+}

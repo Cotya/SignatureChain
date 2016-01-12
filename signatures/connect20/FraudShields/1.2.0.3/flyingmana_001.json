@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FraudShields",
+    "packageVersion": "1.2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcm8ACgkQZi3Wes40mG6N0gD\/ctLBYsw251ilyr0pknFCI4rY\nIoK1X8lpAxflTzyIPnkA\/jryYsrPjX3ww3NDGn86k026TgvDi5HB2u4OLpudhl\/5\n=pl1s\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FraudShields\/1.2.0.3\/FraudShields-1.2.0.3.tgz",
+    "sha256": "f33aaa9c72646f20401bda36b153bd2bd8977bfa74a3fc4d05442f9b76a6b635"
+}

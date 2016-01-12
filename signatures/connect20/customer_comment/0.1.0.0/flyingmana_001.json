@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/customer_comment",
+    "packageVersion": "0.1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD7cACgkQZi3Wes40mG5jKwD\/SEJs1yoQ+HTnnCONHUL4dOEJ\n6HsVQdoLZAPKRITDl3gA\/RPf6de8\/iwwCKLzck+hNTF12gns8v6SxVvYZS5trrz\/\n=UgAu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/customer_comment\/0.1.0.0\/customer_comment-0.1.0.0.tgz",
+    "sha256": "4664631b4bdbbf538ae82e6d6521015c5ca269a6ddc669a2e11cbe3fcbb9ca98"
+}

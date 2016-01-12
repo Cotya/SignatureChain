@@ -1,0 +1,8 @@
+{
+    "packageName": "ebizmarts\/magemonkey",
+    "packageVersion": "1.1.34",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULtYACgkQZi3Wes40mG7RrwD7BvC+szLc4HOHvSdSqtBbyHzl\n1krAWqQHiY96BUBT0jgA\/jUTMN5gssP69ErSOkBOkuRtm+eDkC4i4eXruFN6LKGN\n=yE1N\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/ebizmarts\/magemonkey\/zipball\/7a586ca14f8b1b222aa8d7e8ea7fb7cdc374869c",
+    "sha256": "70692809ee9a33c7e510755df037670f794e2ef757110331963235e2f8614f52"
+}

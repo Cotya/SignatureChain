@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Wfs_DisableEmails",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJxUACgkQZi3Wes40mG5l3AEAt2sKpuywozEdxUXMhXJ7kzvf\nERraDI9TkZeUj90t9t8BAIQHQDgJMj20RgBhaQG94UDz3ZcwAnnmixRYfCyu+hBs\n=7QHj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Wfs_DisableEmails\/1.0.2\/Wfs_DisableEmails-1.0.2.tgz",
+    "sha256": "18a368e1a6f80d14da01b51ea9291f813fe63fb8eb1cf4ac96f39f5edfe27754"
+}

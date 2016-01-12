@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NewsletterAddressImport",
+    "packageVersion": "0.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCo4ACgkQZi3Wes40mG4dlwD\/RffvCfx1YG1YFNOd+992xb4d\nsQHOqM2Jsi6KpxewqoUA\/1kewlwURzDZcnh7zhqGMwj3uZj0ZIwIxKOdKECjv\/XT\n=tV9x\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NewsletterAddressImport\/0.2.0\/NewsletterAddressImport-0.2.0.tgz",
+    "sha256": "46e24f1624567e1c9283c8ccd8c3b42e5876b7c6f4b94063dfd3c3530cbfb86c"
+}

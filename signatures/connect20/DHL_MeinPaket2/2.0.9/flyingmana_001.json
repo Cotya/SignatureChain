@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DHL_MeinPaket2",
+    "packageVersion": "2.0.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTESAACgkQZi3Wes40mG6zAQEAlzAxYmEtoFV5ahpNROjrJCsM\nxN4+ZIJ0HTgcZi+WkZIBAJL\/PJjRXwy7\/sJYUNfwSCB8bI\/Bf2GPJQmjkW3tX\/mi\n=BbHb\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DHL_MeinPaket2\/2.0.9\/DHL_MeinPaket2-2.0.9.tgz",
+    "sha256": "18885af2216295ff2643e86a70b62d7eaafe17ba5fc304076e7e2f50886d02a2"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CustomerGauge_Export_Integration",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD8AACgkQZi3Wes40mG51EwEAtQZuvia1iQuzYrZNQYuMKRb9\n3fcRY5tlwsl97G9cGxAA\/RByyPhoWyOtYsyYY\/qUfb84LZluUSLjQ7G3OUcsxfxt\n=rSnC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CustomerGauge_Export_Integration\/1.1.1\/CustomerGauge_Export_Integration-1.1.1.tgz",
+    "sha256": "0ea9c445f36fa5371679a9d62037810778d3bb856758c4da2d0cc6a01d9e2d87"
+}

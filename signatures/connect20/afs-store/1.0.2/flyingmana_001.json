@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/afs-store",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAcoACgkQZi3Wes40mG4PjQD+O6ZdtnXO3TUIEff\/4D\/aWRGl\nf9JR4w\/tZJz43kX+JywA\/RIzz0lYaPjENDTg\/SueobZTadGBnKIiw88IcEevESoZ\n=3gv+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/afs-store\/1.0.2\/afs-store-1.0.2.tgz",
+    "sha256": "afd0b9a799c21f6e5be82a5963ec8ac5f108c27f15fbaa21dd40251664aeb53b"
+}

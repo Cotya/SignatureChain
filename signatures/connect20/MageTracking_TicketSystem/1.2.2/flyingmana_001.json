@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageTracking_TicketSystem",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAvsACgkQZi3Wes40mG7Z1AEAimXliAkRIJC5sySxD6mqiez+\nBh\/fXNejP6fUcvDuT1gA\/1+FeboyuGNKoU6quka5XLNOZb5utGMzu0OqowYDCjCV\n=CPBs\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageTracking_TicketSystem\/1.2.2\/MageTracking_TicketSystem-1.2.2.tgz",
+    "sha256": "3de0054abd3fbe9bfca1deb3a0a5760081806b526c81e946214215c1febc6c69"
+}

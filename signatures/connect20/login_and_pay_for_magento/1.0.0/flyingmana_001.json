@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/login_and_pay_for_magento",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgPsACgkQZi3Wes40mG6U2QEAnpKDSzdduSoX59zfjIWpzFyQ\nlOZv3f5bW0KOiHkuPpMA\/116QS+9HESf2aN3EYDJxJpKbYxrFwB2cgrafLdL9A2X\n=x2gl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/login_and_pay_for_magento\/1.0.0\/login_and_pay_for_magento-1.0.0.tgz",
+    "sha256": "40bb03f70f5df7bb14061304d965ef3cb8e86d38bbfca78f3ca93623852ef333"
+}

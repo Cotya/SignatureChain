@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/shopgate_module",
+    "packageVersion": "2.4.33",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGWEACgkQZi3Wes40mG6rxQEAs7PMWZn9j0psEJDIGzlpkRt\/\n7d4A7OowxPlrJz0JiC0A\/Rbs1Bcx3o9BMzvK\/HtxeX1+SfNSCooPhT+\/XJoKK6UQ\n=yIb+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/shopgate_module\/2.4.33\/shopgate_module-2.4.33.tgz",
+    "sha256": "8aca7cf32ac6bfff8a52658dc20d074e37e47aed60d75004f1ae20ccfb18430f"
+}

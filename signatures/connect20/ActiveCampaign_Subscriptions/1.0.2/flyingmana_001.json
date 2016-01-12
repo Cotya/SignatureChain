@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ActiveCampaign_Subscriptions",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAJYACgkQZi3Wes40mG6xbAD8CFSvbAtu7kNqfbpeYWqYuFLV\nmlpgr5tA5EAFqZxtAtYA\/3f6\/8Y6ZjPukTLqmv+XYvEBLXNQunkA5j74RHmOKR6U\n=9F0X\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ActiveCampaign_Subscriptions\/1.0.2\/ActiveCampaign_Subscriptions-1.0.2.tgz",
+    "sha256": "7b1c288042b05cc893b894195e966839d1a3548807765272eb944908342fed61"
+}

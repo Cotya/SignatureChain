@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PayZippy_Payment_Gateway",
+    "packageVersion": "0.1.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUERoACgkQZi3Wes40mG7ohQEAixowklYkeIGn9PS6FMOPkFmU\nNzQBhOgj0zWRvzT5nSUA\/1gIg3or9dCZSJscnQl0S6Om0h33ztef+Axfwadr0I1o\n=Y1A7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PayZippy_Payment_Gateway\/0.1.6\/PayZippy_Payment_Gateway-0.1.6.tgz",
+    "sha256": "96468e207ba5baa87382e8ed529efc1ccb4d2b3455f8132660ff5251a240706e"
+}

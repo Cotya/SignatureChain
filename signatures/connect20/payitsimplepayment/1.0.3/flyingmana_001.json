@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/payitsimplepayment",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEG0ACgkQZi3Wes40mG7zsgD\/UlQ9eLp4IpkgOpPAXenhE92n\n3GPJKg1e\/l7kX5G1JJwBAJYzDJTzjiUQGMDSV9RrW+xKdd6wpCOjqGpi14AJPe+P\n=+Z6\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/payitsimplepayment\/1.0.3\/payitsimplepayment-1.0.3.tgz",
+    "sha256": "7fba7300a06f87e0cc70c0fc6f10c43a141327f09c4ce28b03fa20357f0c84a4"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/async-index",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMlEACgkQZi3Wes40mG5JkwEAm8IpSTKELP5AWPTI0Wgiz9sm\nK9IDT6ruACzbuYCqZvQA\/0bob6hkEdKcui3ahM7Q8+dz1z5qRLYGznMbrVJe\/++T\n=WHHg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/AsyncIndex\/zipball\/2b43d07b972ba55c0459b899b5cda77985fcb393",
+    "sha256": "ca881dfcd40c563016203ac4476aa6251b480857a3d0a441f1f86c01a6ce8b3d"
+}

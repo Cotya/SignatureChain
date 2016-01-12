@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Experian_Qas",
+    "packageVersion": "1.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaQYACgkQZi3Wes40mG6xqQD\/bFhNsa6D5Ngt4N1\/ESlSIvyX\n3X4E5dJXL50S7X2xX40A\/20KauRWj740Jzz+4QFTi3VV0CtJn3E6IpZatz3zvAg+\n=XQg\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Experian_Qas\/1.3.0\/Experian_Qas-1.3.0.tgz",
+    "sha256": "f127aec5e7f5cf734253fd6192f665c6ca980919b34f50815a73b8568eb5ed72"
+}

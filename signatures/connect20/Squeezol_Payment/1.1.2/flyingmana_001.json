@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Squeezol_Payment",
+    "packageVersion": "1.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHosACgkQZi3Wes40mG6gpQD\/S5Vme80pVHrg4r2YlL3ukc\/d\n0t23G7dXErjR86wxgNgA\/0qvEaW4iCs3V39mDwTJxY06LI4UG1XVTBVob+6UKLsz\n=W0WV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Squeezol_Payment\/1.1.2\/Squeezol_Payment-1.1.2.tgz",
+    "sha256": "27ca69220c71144dbc48461b25936b61bd3808744bf3af8d437176149163c598"
+}

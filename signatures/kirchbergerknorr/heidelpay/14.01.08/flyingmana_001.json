@@ -1,0 +1,8 @@
+{
+    "packageName": "kirchbergerknorr\/heidelpay",
+    "packageVersion": "14.01.08",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMIMACgkQZi3Wes40mG6O7AD\/Yt0Dn7LQjaOyfm8sSVHAr509\niquaJ0a0A9Ix2ioOeUIA\/2EN26KfCQWnPm74fEsA49fT5qIsJAszzan0uSEucaMb\n=+NfW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/kirchbergerknorr\/heidelpay\/zipball\/806d8f4cae348927144747d67790c051c642ccd5",
+    "sha256": "b15e0b27e4255a02c89a8de28f8688a8e33de51fe9a9596c1e6c829c3d79164c"
+}

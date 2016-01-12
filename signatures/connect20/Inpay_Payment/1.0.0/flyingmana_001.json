@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Inpay_Payment",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdpYACgkQZi3Wes40mG5JXQEAh46n8sYKjgfp6+ejUK0Mzddq\nK3hCnpy3\/wC4K\/unkvABAJMQTngEH83abYZcitdxkUdbQ5P7EgDV8yd4GaZEYaXB\n=2V80\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Inpay_Payment\/1.0.0\/Inpay_Payment-1.0.0.tgz",
+    "sha256": "ee746e1af5b5fb438ba7882738498ebff0e72cb6d3dcc5b0082b30a9b452f66b"
+}

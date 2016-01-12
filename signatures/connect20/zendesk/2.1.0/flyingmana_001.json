@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/zendesk",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKZ4ACgkQZi3Wes40mG5NNAD6AxShEbwZ\/fNFggdFrH7llBEx\nqSYQvqKkVwprvqtFt3cA\/2HGbBisz34+cFrCqqWbn5mGjn2ewUyFk0hBLx7hntS6\n=BAWd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/zendesk\/2.1.0\/zendesk-2.1.0.tgz",
+    "sha256": "dd4eed71a9ebad41fe96b5eec0ebdab7875d8cb1fae3db57ae3ec10a20b1d018"
+}

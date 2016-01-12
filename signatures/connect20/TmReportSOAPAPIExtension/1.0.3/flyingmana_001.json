@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/TmReportSOAPAPIExtension",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIcEACgkQZi3Wes40mG4nSQD\/R5e+3Jr90LHNgybRgBCxxNHU\njr\/vwSWFhlH+7lim5hQA\/i8dx7TNKP8tMDDKq5kDL7pqRiTbe9N\/cvALAtucaLJw\n=RSLZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/TmReportSOAPAPIExtension\/1.0.3\/TmReportSOAPAPIExtension-1.0.3.tgz",
+    "sha256": "5376747d57e1eca54ce38bdc6fc872b2f51494f2d9133a50d4f6767104bd9a1b"
+}

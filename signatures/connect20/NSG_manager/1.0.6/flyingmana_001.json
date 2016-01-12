@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NSG_manager",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC7AACgkQZi3Wes40mG5g+gEAm7+6srS7KBIJmgR5xkfq12FZ\nm7F+0NChS3CVzxki+DMA\/0yIlyUO\/wT\/7\/GxQH2vwcoz7gSMVjuei1OJ5kfTEe8Z\n=3urK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NSG_manager\/1.0.6\/NSG_manager-1.0.6.tgz",
+    "sha256": "6a3acd9f6264c269217f691cb82104fcd585713e4baaf3ee2ec5122e98915756"
+}

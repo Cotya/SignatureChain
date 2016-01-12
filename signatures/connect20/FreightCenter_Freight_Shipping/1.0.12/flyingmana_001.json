@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FreightCenter_Freight_Shipping",
+    "packageVersion": "1.0.12",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcqwACgkQZi3Wes40mG5WXgEAjQUMZgxVzT7MPhdPE6PHVjfi\njW3aVbrONkkUJaXMJv4A\/AmoEvPoB43\/LTSZGal2gl6vPC2f7VCq+4RHbZy+8XqF\n=WKhM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FreightCenter_Freight_Shipping\/1.0.12\/FreightCenter_Freight_Shipping-1.0.12.tgz",
+    "sha256": "48c4f31d1a05bfb3003b2076d2c743c438130dbd8420a1f0572d0cd23475833a"
+}

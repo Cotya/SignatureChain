@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Comfirm_AlphaMail",
+    "packageVersion": "1.5.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDSAACgkQZi3Wes40mG6H5gEAhNaDz\/+KaX1ERoz7FqK0zIGC\nCX+MrrDVEIQ+bER1NF8A\/RUpNMqrJPasHmmSLae\/3KQ3x8uO7g2OJaUhEc\/BA626\n=YrgC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Comfirm_AlphaMail\/1.5.0\/Comfirm_AlphaMail-1.5.0.tgz",
+    "sha256": "366cde21061d2b2d0be7f0b1290787732e02058a2767100653cf3353c2e136ed"
+}

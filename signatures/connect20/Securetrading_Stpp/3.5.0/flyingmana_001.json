@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Securetrading_Stpp",
+    "packageVersion": "3.5.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGDAACgkQZi3Wes40mG6tHAD+Jxnq7Z\/nK94MRl\/H9hsoAHTQ\n\/XjU7yVIBfR1t98JDAoA\/1YuCpx8G94WhOz1r2pXP8gq5jda4\/n70m1SCy2\/wl+m\n=6Gnm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Securetrading_Stpp\/3.5.0\/Securetrading_Stpp-3.5.0.tgz",
+    "sha256": "df37bac0a02af59f4ab949f9b16b774a5de48af2e2f9a4cc030bb704f4ec4a50"
+}

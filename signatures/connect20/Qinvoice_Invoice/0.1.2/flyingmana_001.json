@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Qinvoice_Invoice",
+    "packageVersion": "0.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFFsACgkQZi3Wes40mG5axgD+L4kzFx0CBSdjNrlCskPyYUK6\nZCiAKZ\/SUNMjrgyNHXgA\/3IW1MkFxby+X6ncH7HyMiPAV4W7PpoXlz5MceDQbGbF\n=+qXI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Qinvoice_Invoice\/0.1.2\/Qinvoice_Invoice-0.1.2.tgz",
+    "sha256": "f6714508ada4e24e26b2b55ea0c6082ed17461c5488601e95993abcbf72956ab"
+}

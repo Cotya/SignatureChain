@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/StoreGecko_GeckoConnector",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHwIACgkQZi3Wes40mG4h\/gEAl2N+974HDjvrbNw3JT6XhPAb\nbvX3QU1w9Uzakx+ApskBAIRiy8\/yvFgFmcg6rsV5V+zr6FjIlOYIGXp84+q9GPnS\n=sdqD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/StoreGecko_GeckoConnector\/1.0.7\/StoreGecko_GeckoConnector-1.0.7.tgz",
+    "sha256": "cbce1a648746d147bf7a33d4c868d637880ba19afe5cc51b7a787fe5fd6f1e97"
+}

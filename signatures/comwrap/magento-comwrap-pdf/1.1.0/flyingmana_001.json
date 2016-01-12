@@ -1,0 +1,8 @@
+{
+    "packageName": "comwrap\/magento-comwrap-pdf",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/xwACgkQZi3Wes40mG6BQgD\/R83qTwII+zz1yInd2R+K3u9F\nrPFs+x1ScpvrFgg\/DEUA\/itqj1X+mMxq2gT1md5OsePbneYpkT4nka9fuYAYRCz6\n=2krQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/comwrap\/magento-comwrap-pdf\/zipball\/b6c0aaf1b65af29cf58b12ecb678fdd98b2fa13a",
+    "sha256": "9bd7cd87ed744e1e8fb2641e8af53461a351bebdb1fb755a32bbe76f6ff4151e"
+}

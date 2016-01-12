@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Praxigento_JiraFeedback",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEnQACgkQZi3Wes40mG6UuQD+NtJjAiFnIcFecqNEa6FoUxnI\nI2tTPpBcNdQJr0tMw1YA\/iEcPvod0Z7kPwJIcWk+Y2s4UxaAEa+SGJIKMUnTQI4n\n=asIa\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Praxigento_JiraFeedback\/1.0.0\/Praxigento_JiraFeedback-1.0.0.tgz",
+    "sha256": "686de94edf1415047fd98d71905faac0ab45690b79db727a1365cbeaee8e7bb7"
+}

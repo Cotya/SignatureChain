@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_Credis",
+    "packageVersion": "1.8.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfMoACgkQZi3Wes40mG7ICQD+L9gDyCwYLVOR93VNFKHrTreN\ndqs8FjI9oPgxsKLii18A\/23laywL0JmHNQhHgh6myRTRwPmLYJc4GXuVIQFbzFFk\n=vEnG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_Credis\/1.8.0.0\/Lib_Credis-1.8.0.0.tgz",
+    "sha256": "47b1094824b02f6faeb1e92ca866b8d24a69b0d06edaea169875fe9630fe659c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "clockworkgeek\/dataflowdownload",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/sYACgkQZi3Wes40mG4LOQD\/fs8YSnTw\/ynGkzz7YeJV6x3Z\neTe\/pQgmV7cfvH0qctIA\/iEN46a+SWO1aCbJaqh1\/PDyq8tNXd5Lh5w2lhPMN8Io\n=pBLZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/clockworkgeek\/Magento-Dataflow-Download\/zipball\/b71e0d0b772cf1adc6d14734510f5f86c2453da8",
+    "sha256": "ab2cfd413b2a9687156e6105d5ffa581de52f4763538fc6eaca42582957af8fb"
+}

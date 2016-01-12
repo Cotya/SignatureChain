@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GFSCheckout",
+    "packageVersion": "2.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcyUACgkQZi3Wes40mG6T9wD\/dhSvXib+aMsrUv0t\/tw2zFs+\n4+o4sj2Qaq\/oG1vQxkEA\/Apiib0BMt1j+R6RRtM+XJnGJu8BjPPnr1IuPGrE6guB\n=68ih\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GFSCheckout\/2.1.4\/GFSCheckout-2.1.4.tgz",
+    "sha256": "5266bf72ef0300bcaebcbeb8e704f5e4fbc05359999eb57c3d09323c143681ed"
+}

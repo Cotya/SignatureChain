@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageFlowConnector",
+    "packageVersion": "1.2.0.186",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAIwACgkQZi3Wes40mG77UQD\/WeN7sDeu6Hafd1bMs7dQu6Ja\n90jMMV2L1d3Y2Fbw04MBALe7\/5yRVtpaiYqXUZFml+z1ZEGx\/f24P74KpSMRPZoH\n=g312\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageFlowConnector\/1.2.0.186\/MageFlowConnector-1.2.0.186.tgz",
+    "sha256": "915d3e5f41fde7c5972ff289a5e43b4eb3f5aee8a0b69b83e977df7df1283f73"
+}

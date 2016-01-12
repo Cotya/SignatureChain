@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IntileryAnalytics",
+    "packageVersion": "1.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeVMACgkQZi3Wes40mG5kPQD\/QHf9FhQLt4h\/kOj30xInmOia\n54D\/GU6EQsQVOtVLUC4BAKuqpobpnm\/l7imEf06xFpEJCqOmzbDCqScybuaW8Tws\n=wjj4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IntileryAnalytics\/1.2.1\/IntileryAnalytics-1.2.1.tgz",
+    "sha256": "459a043d1b7f4e93e40dec0ae9f9fc78ca3f65edc2478c3208f7ce7c95b3275a"
+}

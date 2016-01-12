@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/wf_quotation",
+    "packageVersion": "0.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJxQACgkQZi3Wes40mG5OyAEAkAP39kER\/GcMpb7Yf02GEtcx\nzmmVB\/XtzpDFW+tN6m4A\/0M9IRGx1+AOsC486L\/cAscehB6J748DgbShvyN04JPN\n=bIwH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/wf_quotation\/0.1.3\/wf_quotation-0.1.3.tgz",
+    "sha256": "99a60acd1f293d41cc47783118cbd32fb28e006e0fb0601b4dacdcfeeb20aefe"
+}

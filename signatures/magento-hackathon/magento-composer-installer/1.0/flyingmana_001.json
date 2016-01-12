@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/magento-composer-installer",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMoIACgkQZi3Wes40mG75LAD+MUCjSxrbjlT8zdbhqoj5IWiU\n8IW9Xy+aLtpMoinSctsBAIRLbhfstfNYKQM5PH1X9N6MT9pOxbCrxl7QSGCaZN5\/\n=+wT1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Cotya\/magento-composer-installer\/zipball\/6c98e3eb1a9020f3c2ab065e71dc951429a5682a",
+    "sha256": "e9f5f93a3cc92721f8deff73f86cc635708e501e8432319008d1eecc04e0a031"
+}

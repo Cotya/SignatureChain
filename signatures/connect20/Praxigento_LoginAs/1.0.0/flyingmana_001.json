@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Praxigento_LoginAs",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEncACgkQZi3Wes40mG4kjwEAjCX2lskSA+HxAc9WQfSqrxka\nBGTceBy10b98xgkgQTcBAIo8Xib9mwaWYA1sqo8dLa+XlOgOVgI5BRzdn0RJcyTw\n=CAM1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Praxigento_LoginAs\/1.0.0\/Praxigento_LoginAs-1.0.0.tgz",
+    "sha256": "d1c87106e3a51ffa9eba95af4263602f69eda4d605e360ef5afcec33bddb7f65"
+}

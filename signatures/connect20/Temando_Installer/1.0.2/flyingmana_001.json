@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Temando_Installer",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIM0ACgkQZi3Wes40mG6\/9gEAk8oFsRELxa3VHmgGfBUwUWKw\nhe5Nprta03tFk8PkKE0A+gK2NXiI1pNQv5k\/5hBKuGwcLmPEQWJTz38zVvX\/TSHJ\n=96nG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Temando_Installer\/1.0.2\/Temando_Installer-1.0.2.tgz",
+    "sha256": "abc07d19337efb81ff7a3ab5e805d4ea8279fa6564612e59adc5002367b853b3"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FlexShopper_Payment",
+    "packageVersion": "0.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcV0ACgkQZi3Wes40mG7xIAD+NnnWOMF0WntTABH8jCUUT2GM\nqYbczWJgpfCQS583MDkA+wdVX0GzDI9jp8JWE6vcnvZs744enk06n9w3nDqTBYK7\n=\/ktp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FlexShopper_Payment\/0.2.2\/FlexShopper_Payment-0.2.2.tgz",
+    "sha256": "19011e303a72a81e5b24cbdcdac28e64f0c441732386a32ec203135d94ee8b45"
+}

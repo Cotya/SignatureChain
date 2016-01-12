@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/minimum_order_fee",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBZAACgkQZi3Wes40mG5lpwD+Kz3tRUqRH8Dmrie6Nj5c5Hiv\na4EEns\/75B\/+Z\/JTiyAA\/AmL\/2Z7bzRICrM08xlbSm60b0ONNDbXB0Jdsa7MOGDS\n=lgDv\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/minimum_order_fee\/0.1.1\/minimum_order_fee-0.1.1.tgz",
+    "sha256": "be83d2d7a7cda26d19fe4391381ad819b1b099e855301953bb8b088a981b8c41"
+}

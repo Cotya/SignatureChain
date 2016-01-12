@@ -1,0 +1,8 @@
+{
+    "packageName": "clockworkgeek\/admin-rewrites",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/rsACgkQZi3Wes40mG7CwAD+I3SxBJJQNjHAzvDfGcSX\/zoL\nU9dwf0ea83EZJ34l1vMBAIcCcFwamAqf6vKYm6WY0m0boo0DyLjavrOGO54sHjK8\n=2aFF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/clockworkgeek\/Magento-Admin-Rewrites\/zipball\/2b52e09b2e8cdeb21f17fc97d15f555aa26b1173",
+    "sha256": "ad3bebf5e3ed24d28201a37338b4deed7e8d4014dec95f9e7c3968fa24fc71ae"
+}

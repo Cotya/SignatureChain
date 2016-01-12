@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lib_phpseclib",
+    "packageVersion": "1.5.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfZIACgkQZi3Wes40mG5FfQD\/XZtUu1raK5h3nXYVCb3SS6D+\naYYc\/kUciQMthXC4sYUA\/i5NrJJMDCw+yWDp0zkfxAXJgZklRo2AG8dG0nHzEChj\n=PxVF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/raw.github.com\/magento-hackathon\/composer-repository\/master\/repairedConnectPackages\/fixed_Lib_Phpseclib-1.5.0.0.tgz",
+    "sha256": "763fb99d2cfc290e4edcf35959a09c96619c5189eed7910aec5b3d46bd215238"
+}

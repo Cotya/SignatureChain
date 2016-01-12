@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ND_Amex",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCfoACgkQZi3Wes40mG7kIQD9GV5IlBwHPyOAVJfuo1X2C1ER\ntsvjQVwL8nC\/m16GWfUA\/0w2DvODqwnXsdx2DTMARuabpvw8gr1UoN7TL\/kYnYMn\n=rfQZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ND_Amex\/0.1.1\/ND_Amex-0.1.1.tgz",
+    "sha256": "3d68766e247f5e408dc90b0da35439260d5d05bad8ddaab25be9c5831859739a"
+}

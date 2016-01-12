@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Smart2Pay",
+    "packageVersion": "1.1.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG9EACgkQZi3Wes40mG5OugD\/cblqWU8x6EmT2rdjQUcdjn2e\nxS8\/SEkZ7yat9z729LABALEXpdRmRAozyv2XH3x6GWqNxQSX2CYtCHKXRr\/ZZbW7\n=hyv+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Smart2Pay\/1.1.9\/Smart2Pay-1.1.9.tgz",
+    "sha256": "8c197421772eb22a15e111ac56b82f5ce4079db45ae21655258ae565b4dcab90"
+}

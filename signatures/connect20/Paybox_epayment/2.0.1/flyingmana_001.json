@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paybox_epayment",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEF8ACgkQZi3Wes40mG707wD\/VfWrqWAM8UpM4RJfsTHrLdwo\ndK4uofKj+9VIGUls2j8A\/jErv4MMqe31Ng0VunizhS4XHusoHltCCLZ90Uo+y+4E\n=x7Nd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paybox_epayment\/2.0.1\/Paybox_epayment-2.0.1.tgz",
+    "sha256": "287f0fb5cf678db719b01408546b63fd3167345616bb68e5eb693c75b261f77e"
+}

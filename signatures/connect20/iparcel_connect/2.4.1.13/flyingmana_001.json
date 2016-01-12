@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/iparcel_connect",
+    "packageVersion": "2.4.1.13",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeZoACgkQZi3Wes40mG7lrAD8DgFSXc2CvkVp3q9fGl9efygp\nNdhY7RaTVPoDWdgKp1cA\/juxl\/6TuBaFC2Xv75BD6uPhZknT\/TEv71bK+fxVnHWv\n=hM7z\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/iparcel_connect\/2.4.1.13\/iparcel_connect-2.4.1.13.tgz",
+    "sha256": "173b58a50c089497ba0ee613ce95cbdca084a1a6ffdddc8945bd780e6c04ede1"
+}

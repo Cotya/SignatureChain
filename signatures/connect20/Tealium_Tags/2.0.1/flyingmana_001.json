@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Tealium_Tags",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIIIACgkQZi3Wes40mG5LlAD8DL\/6tNWbMDhnKiyu0hss1cZD\nc1UKucg1YFgy8xdVmWcA\/jo4u34d9xSuqEkNOyHGXa5Lzm8BxyiGKc1oXaCmPrIP\n=Tq9+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Tealium_Tags\/2.0.1\/Tealium_Tags-2.0.1.tgz",
+    "sha256": "0d1677eec94946e1b725e8e6ec02e4983cc3336e762ee83095079e9a2cc46170"
+}

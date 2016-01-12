@@ -1,0 +1,8 @@
+{
+    "packageName": "andrewkett\/locator",
+    "packageVersion": "0.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/nQACgkQZi3Wes40mG6vcgEAl3U3sz4SG5rI5Wr8B+4ZgM8y\nvkz7H7D04DZyPksq2dQA\/iY1GpdVrCwerrljwQwRyDN38DYCQJ0wiXZdwKHLfMt1\n=YpZM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/andrewkett\/Ak_Locator\/zipball\/72dc53be79e42a2e296f7aaff8e3f71a98f297a2",
+    "sha256": "adcaaa66b6eb822dd51c6a64e7c6cbb92e7076128d05686955bb920bc8dd25d5"
+}

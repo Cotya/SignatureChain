@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/veeqo_bridge",
+    "packageVersion": "0.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJNsACgkQZi3Wes40mG61wwD\/eJJFB96Fn5hTCVCyXmeLm2wT\nVCYzuWMDzr3fxSk60aoBAIl2qZsaHlpG0gIHDmg7jycCrwL4BdDkK3cXfVnmzC5T\n=90fw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/veeqo_bridge\/0.1.3\/veeqo_bridge-0.1.3.tgz",
+    "sha256": "6b05d3582b01b5f622954f3279e9fd26c526a040c12cbdf74693531c7026e64e"
+}

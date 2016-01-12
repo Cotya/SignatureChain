@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/paysure",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEP8ACgkQZi3Wes40mG7z1wEArm9Mekye9KPiZE4ElkPeC3Bl\nnT5uotC9kJTDW1FW4eMA\/jlRHCHYhsObLunrUFG84GB01qFTxNh4DWS+iEdIl3y4\n=5n2z\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/paysure\/1.0.4\/paysure-1.0.4.tgz",
+    "sha256": "1ea9275b229014e6f1cb0baac6783913807f5924f5ad95143e1e2304d611e55e"
+}

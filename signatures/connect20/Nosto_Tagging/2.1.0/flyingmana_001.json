@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Nosto_Tagging",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCzcACgkQZi3Wes40mG4bbQD+NqQ9MJkJ2BBUlv9P86xj5\/vT\nEwx8EVb\/0quLm8GhZKYA\/0PFDiCm7CeBpskmCyaKQ9gqCjj23QHnFudQdfW05R+u\n=j4lK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Nosto_Tagging\/2.1.0\/Nosto_Tagging-2.1.0.tgz",
+    "sha256": "53e847c160fdd9f28b336a7a6ffd0a9862a1a20d049055ccc4f5822d0eef9eaa"
+}

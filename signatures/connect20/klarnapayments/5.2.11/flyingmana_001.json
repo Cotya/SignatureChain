@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/klarnapayments",
+    "packageVersion": "5.2.11",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe1EACgkQZi3Wes40mG6LOgEAk8x3L8A\/FFwTno6zsLb2edK5\nzpoJ36EAAkoBOtVV49YA\/jmpkodUztcLQs0szW9Cy2zrJ596cmxjnpNZgT8ZEK2N\n=QF35\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/klarnapayments\/5.2.11\/klarnapayments-5.2.11.tgz",
+    "sha256": "230838a72e1e6c421e35fa7dc0e1ab32823dbcd2ddb483266f4e82387d206191"
+}

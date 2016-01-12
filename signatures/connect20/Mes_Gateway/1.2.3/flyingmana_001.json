@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mes_Gateway",
+    "packageVersion": "1.2.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBRQACgkQZi3Wes40mG6JZgD+PeE8zj3FieZkSj\/iFItTvrSU\n6XgrLuJo\/8fg0vEsejgA\/jSK2DCA4Eq1DF\/VsuD4RF44SWWfmNv6YOgvWev3uCuy\n=J63q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mes_Gateway\/1.2.3\/Mes_Gateway-1.2.3.tgz",
+    "sha256": "5d9bd1555288dfff8445acd25b50eab6567a767ea99deded767ce1fc01ad5828"
+}

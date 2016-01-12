@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Magento_Mobile",
+    "packageVersion": "1.7.0.1230",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAmUACgkQZi3Wes40mG5oMgD9FFAGStx5V7ABKyCaMhGz1cTW\nfiMefftkGhPR8wYuFSEBAI\/ESGvJay0jG7CDswLzG61+N2I2LOS0\/4u1R\/PO1ieo\n=3PIu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Magento_Mobile\/1.7.0.1.23.0\/Magento_Mobile-1.7.0.1.23.0.tgz",
+    "sha256": "05d81588126e5c93bfc0e0f0929513ee90d07f2afce9097405f7133f911c717c"
+}

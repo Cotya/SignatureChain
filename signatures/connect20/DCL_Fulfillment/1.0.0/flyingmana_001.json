@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DCL_Fulfillment",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEF8ACgkQZi3Wes40mG5LHwD\/dm6BCr3x\/WEvLaHgt+Jz72gL\nYMxjEAE9NYLSqw4hsLgA\/2307CE0A7Kz7d78Q+uiNlVbs3Hbcph5jIwRr8hvaBPl\n=Riez\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DCL_Fulfillment\/1.0.0\/DCL_Fulfillment-1.0.0.tgz",
+    "sha256": "28ccf58bfbaf341ae66c2a51696590b4533b688fee57bc57fe541865141f2577"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/vBulletin_Integration_Lite",
+    "packageVersion": "0.3.11",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJM8ACgkQZi3Wes40mG7uWgD+J62291FqUG9++cZPWZyPxk61\nDjx6p2OFFoMV0BhFQu8A\/iOSXOtwRiPMr6onTddqVkQs9OMVWIJtsjYg44gJcIz7\n=mMtS\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/vBulletin_Integration_Lite\/0.3.11\/vBulletin_Integration_Lite-0.3.11.tgz",
+    "sha256": "cbf360e5e3348fdc2fc963cb32a18bd8529aa06f30aaebb6407d5a8ecd849c5d"
+}

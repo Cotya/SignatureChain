@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Tagman_Intellitag",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUH+sACgkQZi3Wes40mG51OwD8C\/pLkXvpCPWZI5Vv3zubkpGY\n3WGlwR8FwuxrLp5VjzwA\/1bpm6WfI\/FwtEKbihTGqb1iFpqR4Wc5aO\/Y2ojoHx2n\n=XPxV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Tagman_Intellitag\/1.0.4\/Tagman_Intellitag-1.0.4.tgz",
+    "sha256": "cede1cbc1ca85dd1a3cb789670f42b8bf9d95144d83ab27fc8a51d84af96c263"
+}

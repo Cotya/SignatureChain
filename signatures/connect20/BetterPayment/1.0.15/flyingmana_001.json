@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BetterPayment",
+    "packageVersion": "1.0.15",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTB1EACgkQZi3Wes40mG6vqgD9Gh2x8k+bWzsJZsbaufvkTt76\n0spdXK2MNlv5lYliFjIBAJRhBgTJd5l6a20RZsJlkgxNnrIVYW22HCPgUgB93Fak\n=QkO7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BetterPayment\/1.0.15\/BetterPayment-1.0.15.tgz",
+    "sha256": "97db72196d05a00fc55a1ec037e6afbfa7fe874770a6b006911c136ee0276518"
+}

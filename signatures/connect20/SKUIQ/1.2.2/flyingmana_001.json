@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SKUIQ",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG4gACgkQZi3Wes40mG6XQgEAoJKIdl7LUuUNfLCpH\/7EnT3x\nXR\/JH9YTcst7qP+3OT0A\/3OZwm4Ej8OFVOPlDggVD0nf1bI52aQsh37SpfC5ooeB\n=Q1z\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SKUIQ\/1.2.2\/SKUIQ-1.2.2.tgz",
+    "sha256": "9be077ce465d2db2e37d83485f0384d6c0aae78dc408c8b10eb1d9bbb2e4d35e"
+}

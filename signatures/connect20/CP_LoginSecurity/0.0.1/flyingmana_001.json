@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CP_LoginSecurity",
+    "packageVersion": "0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDxEACgkQZi3Wes40mG7pYQD\/YYKmKe7770DYO2eWPLUZpea\/\nCYuwzZiL6B2ETsGKPVQA\/i3z\/xNTP7\/FAPtzuGbnCEQ1InODm7iGwl\/7IZkx0wSw\n=pZvo\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CP_LoginSecurity\/0.0.1\/CP_LoginSecurity-0.0.1.tgz",
+    "sha256": "7a09ac8e22058fd24bd09debe78db90554582ea41585372f47ae1a4a3a324a98"
+}

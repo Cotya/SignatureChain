@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/pagueveloz",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUD8cACgkQZi3Wes40mG5v6QEAm0ksTx5z4Jek49OsTEXaG+rI\nRQcz1CHdQppz0hY6UyAA\/i2qtgl9J7uqjgaIl6x\/oL0ZnMT+9v\/AQVigz0LhtIvs\n=0Tdd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/pagueveloz\/1.0.2\/pagueveloz-1.0.2.tgz",
+    "sha256": "922ab21b843ac726c2bf049d673642cbf39c61dc5081530675f08a42e43c4f05"
+}

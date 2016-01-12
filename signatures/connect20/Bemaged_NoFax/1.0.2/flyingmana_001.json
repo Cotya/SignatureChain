@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Bemaged_NoFax",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBwEACgkQZi3Wes40mG7hvAD\/ZYnTrFxwFSuAHFdKyyszLxSS\nmN6ZoKe9ScFbQ8wSUwcA\/ildBzHWt7WHlQch3gO9\/qhSFM0yz7l\/oK8YALhj+TEW\n=S4h6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Bemaged_NoFax\/1.0.2\/Bemaged_NoFax-1.0.2.tgz",
+    "sha256": "de3546c023028076f2c8fbac72d4a98d2b57745b8a75b30bb270b72694ff99e6"
+}

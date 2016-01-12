@@ -1,0 +1,8 @@
+{
+    "packageName": "madepeople\/made-cache",
+    "packageVersion": "1.4.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMkcACgkQZi3Wes40mG5HaQD9EKlEgE2Cf9w3PWLkUUwncWew\n8ZWkArx4QrY\/7vdlujMBAJ9BGcsFZRZ\/tvRqm86evvczK59xSZciWhxhrs\/mrYzo\n=QXp+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/madepeople\/Made_Cache\/zipball\/83c62f18e8882dbdc2a04c0636123fb8f691de08",
+    "sha256": "abe2a1a657c7581809c8c0b6fd0cd4d1e037eed686e86a44a33c2a55d8ec7f96"
+}

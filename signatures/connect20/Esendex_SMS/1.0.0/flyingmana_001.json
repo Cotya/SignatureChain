@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Esendex_SMS",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaD4ACgkQZi3Wes40mG7aewD\/eTI6U7pYRgNtRy8Scge++YM9\njAhe7OAWz5f0g55R4LkA\/0cj7aWjsKR2aATISTDl7fnVLhZEs\/1MYWpA3YD\/favG\n=C6EH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Esendex_SMS\/1.0.0\/Esendex_SMS-1.0.0.tgz",
+    "sha256": "c538060839c3e99f977de56c487fec7fda6fec1f66105f979753aeb2fd9ebc04"
+}

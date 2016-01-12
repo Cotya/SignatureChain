@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_nopobox",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/9AACgkQZi3Wes40mG6apwEAqiUYoXbcVdM9Opo8jNAo7ect\nYeqT+ok9sux9pEfHbC0A\/0I4dxKpk9BxWPrLoC5PdlMHngVwlJ9j5LuyNFWpzYAf\n=Qmmd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_nopobox\/1.1.1\/Mage_nopobox-1.1.1.tgz",
+    "sha256": "7b865b1478ff95e0226f79c28d6ee9e0eae4e9dc143fdc95f48d31b97a234e2c"
+}

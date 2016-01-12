@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Newsletter_RuleMailer",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCo0ACgkQZi3Wes40mG5RpwD+LZ5uJftuaxWjKMGRqUXIawbD\nt3uHfX7DmlkcnckyyaoA\/1xXVTINBJz\/rWE\/dBYhFT1+AOXMSr7fF5kYIfuRAxpE\n=F1I2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Newsletter_RuleMailer\/1.0.0\/Newsletter_RuleMailer-1.0.0.tgz",
+    "sha256": "d7e335de2ee980088dcede3d6eba2f48766bda3f0a137f3b3f771d7f94dbd3b0"
+}

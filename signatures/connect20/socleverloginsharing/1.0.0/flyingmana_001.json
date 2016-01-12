@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/socleverloginsharing",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHNsACgkQZi3Wes40mG5YQQD\/RvPnygBk7WUUu9LXTX+KIw94\nrtr7M2EbhpQ8AybXktoA\/3MEboFPOiRcLjCgjB9FikvHr9Cgv4MvdSA7wqvy7ts+\n=uEl2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/socleverloginsharing\/1.0.0\/socleverloginsharing-1.0.0.tgz",
+    "sha256": "31d6b6bff049d991281db30a9eccb2669d4a866de3ab2c970a75b8e2c251e282"
+}

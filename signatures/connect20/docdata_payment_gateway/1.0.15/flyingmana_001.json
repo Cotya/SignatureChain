@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/docdata_payment_gateway",
+    "packageVersion": "1.0.15",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEmEACgkQZi3Wes40mG5VHwD\/VlD3+mg42bRf0Xezzfp\/alY1\nTGGFFyLU+b5hFzIqQGsA\/iCBP5+M9GtYXngE4LwXfiiPDHuAbsakibAcFCV2hceE\n=brsD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/docdata_payment_gateway\/1.0.15\/docdata_payment_gateway-1.0.15.tgz",
+    "sha256": "91da037eb883895ab79f73827196596b17563aa32ce88b036c5a43c24998500f"
+}

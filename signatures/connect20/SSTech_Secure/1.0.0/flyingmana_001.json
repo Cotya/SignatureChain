@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SSTech_Secure",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHqIACgkQZi3Wes40mG5fMQEAjhefhOZOhwrEqhKbVJUxh38u\nd+svyBEJEff3wmeD9P0A\/j3sqIk9kUr01I9HoVOiy4QDysRvKWq2OF4kRQSp8Xop\n=HaJI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SSTech_Secure\/1.0.0\/SSTech_Secure-1.0.0.tgz",
+    "sha256": "456bac2440aa317243856a6ca076109a55fa40d129bf85e850ce8c740ffbd37d"
+}

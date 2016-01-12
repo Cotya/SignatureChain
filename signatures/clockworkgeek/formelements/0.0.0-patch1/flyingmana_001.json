@@ -1,0 +1,8 @@
+{
+    "packageName": "clockworkgeek\/formelements",
+    "packageVersion": "0.0.0-patch1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/soACgkQZi3Wes40mG7JGgD\/e9lrFdFXWAtCDlv\/Iu2yAtVA\nnLdEYrsWu\/hrbOuILhQA\/iitHjZ1+uzPzo+tiXaUB2SRFJtFu8JSs14DEuLc6lqg\n=83U9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/clockworkgeek\/formelements\/zipball\/37aed9fcdf59530740eb800624a6c488e62a7598",
+    "sha256": "c58529b6fa33382adc4628a5ef96e4e266be545a85a4981f2fcdfb0ae3136c77"
+}

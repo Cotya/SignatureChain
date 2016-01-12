@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mfp_OrderTracking",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBSsACgkQZi3Wes40mG5chwD\/RKrZ9nbbSk1hrWT1LCgdZiPe\nWoEmhXAACe4\/m1PeBRMBALIKUwCTf+gs20ctJOWBo0ictdnFLLcd0NMvAtIrYdub\n=+l62\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mfp_OrderTracking\/1.0.0\/Mfp_OrderTracking-1.0.0.tgz",
+    "sha256": "9e9bfe3c8db78d0258c08220940576268b6c2ec8efc18ce869029b6be58c830b"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IMerchandise_Sync",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdiYACgkQZi3Wes40mG405QD+MK29C3LkylGeULMHG4EJgxx1\nsG6LMwiGhQns0FrYiMUA\/ie85FO\/AQQZeaEsrX5vrMvhCv\/xFzvn7Ikbo+k+8K5u\n=7NXf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IMerchandise_Sync\/1.0.0\/IMerchandise_Sync-1.0.0.tgz",
+    "sha256": "20d5fc1c6952faef8f372ef21db99905bc6b17287cf4e53cc771d09f4c1c18fd"
+}

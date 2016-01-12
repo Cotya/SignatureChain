@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/OnePica_ImageCDN",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUDhoACgkQZi3Wes40mG6NtAD4ufcB\/yaAbfkoe0KpDWxOZDRw\nBbXW8VZ3Rht7jOWB8QD+Kaq0f9BvGzNsSx7vLxWRor3Pfb\/\/pkSJY2LnFi35cBA=\n=n2MH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/OnePica_ImageCDN\/1.0.2\/OnePica_ImageCDN-1.0.2.tgz",
+    "sha256": "f01d2e32c3c36599f06202fbff689436a43db4e2f47a7654b1d641b84574833d"
+}

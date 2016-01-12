@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magento_mobile_assistant_manager",
+    "packageVersion": "0.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAp8ACgkQZi3Wes40mG76hwD+KzPwIB3fq\/Zpu9YTLYFzO7kk\n2G2A2vud+nBZr9WVgoABAIfeH5Cwp0lx3xT4PaPYZQwgtdXuZ+hC3SiVEj5xw+sl\n=B5eZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magento_mobile_assistant_manager\/0.1.4\/magento_mobile_assistant_manager-0.1.4.tgz",
+    "sha256": "33f34529bf33fc76c58cdcb2cf3205ceb36ce3148e3e1cb70219c3ae7b646cc3"
+}

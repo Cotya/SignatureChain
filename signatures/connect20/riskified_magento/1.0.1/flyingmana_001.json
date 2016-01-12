@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/riskified_magento",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFugACgkQZi3Wes40mG491gD+OJvrB5FAoNrYc\/Y9HA856eip\nhO3knk8H67R7bKourk0A\/jjlSALIurbGzUh7Ad3jEPfdxMt+Jn3cKNTVBNgz+PUx\n=RZxz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/riskified_magento\/1.0.1\/riskified_magento-1.0.1.tgz",
+    "sha256": "7433b34c22b480d50ecf66ce8c492017a252b74d36ce46bc00933b50d6336e8d"
+}

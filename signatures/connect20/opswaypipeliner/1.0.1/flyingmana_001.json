@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/opswaypipeliner",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDksACgkQZi3Wes40mG5hPgD+MrYaiWsRENH9r8YEnD25uYCt\nHmtsLn7W1fMRfv31eP4BAK9ZCsma5H2MSAIV2kyjLqs9xBW8Fu9EW+OVFVYmTtZE\n=CBVQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/opswaypipeliner\/1.0.1\/opswaypipeliner-1.0.1.tgz",
+    "sha256": "2a91d8f4e15044b3ce75ca939e12240b7184081170b3bd24e2caa67062b2d103"
+}

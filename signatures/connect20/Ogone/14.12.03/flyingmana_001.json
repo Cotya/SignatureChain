@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ogone",
+    "packageVersion": "14.12.03",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDXYACgkQZi3Wes40mG7RnQD\/e+No\/ky5bBqPWLQ+tRmJ50vY\nkZC2NbkwxI4\/rYTzurEA\/2vLIvec7aG6fNLoJksz2GzjqfOcqnYmlC1kKSrmsUCd\n=5RmQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ogone\/14.12.03\/Ogone-14.12.03.tgz",
+    "sha256": "cc68f03e322c272601d313a90f1870c7a382e615e7bf1b0d3dd6336988a7db18"
+}

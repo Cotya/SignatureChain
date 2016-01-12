@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Adyen_Payment",
+    "packageVersion": "2.2.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAYwACgkQZi3Wes40mG5S\/AEAjeXtLDA9Rz7K47wnj4OHFBw3\nibFYfUqzPHtJfjIpsYYA\/0lFYSk6iZWUEqWyQ4kW+iIDIjzPSn76y5Z\/XQyXqGQo\n=n7J8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Adyen_Payment\/2.2.1.1\/Adyen_Payment-2.2.1.1.tgz",
+    "sha256": "e448ac3ef3ffe418821346fc99cdd8fa53667b453e9fb24d6fcedd8bbf9dd4eb"
+}

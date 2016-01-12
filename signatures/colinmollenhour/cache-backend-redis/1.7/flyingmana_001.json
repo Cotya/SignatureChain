@@ -1,0 +1,8 @@
+{
+    "packageName": "colinmollenhour\/cache-backend-redis",
+    "packageVersion": "1.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/uQACgkQZi3Wes40mG62HgD\/be9ntBze++hVuVvNaXDFfJqm\nO5ACpifIAGB8aYQA8hEA\/jVGQgu8wcZU37e2WUEvd+X7+moNw72\/3TCiwweJKDqW\n=wwrV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/colinmollenhour\/Cm_Cache_Backend_Redis\/zipball\/415f23f9e859f14865821803223d13cd279ce71f",
+    "sha256": "aeeebb3c8b8fcf3e88bc37c70d543ff0e014200117d1424576822c9111e83248"
+}

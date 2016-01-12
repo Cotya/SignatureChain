@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Gene_Braintree",
+    "packageVersion": "1.0.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcvsACgkQZi3Wes40mG6iKQEAnmS0281GG7vz+y+bkqjJhrPh\nCSm2x7K+p1sHNnbsrjUBAIF5Y\/nacNng3ytvYM\/5sWDnk8F\/IMvDeZrn\/g9ata0e\n=M6qI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Gene_Braintree\/1.0.5.1\/Gene_Braintree-1.0.5.1.tgz",
+    "sha256": "71d976dfc71ab36d0b6bcd2739c0e49a60cc7376758a40f8a2cb3fb5e2ef4634"
+}

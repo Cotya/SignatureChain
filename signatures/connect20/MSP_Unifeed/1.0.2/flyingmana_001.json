@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MSP_Unifeed",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCD0ACgkQZi3Wes40mG55\/QD+NguA682MUdwpAKT9Cl445191\nLZbx2GC4crOJjQE6K2oA\/3kjxZZ\/ejPkpvvuuf+loUtz4w5RJY6U9yTeZahXHeDb\n=wM\/z\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MSP_Unifeed\/1.0.2\/MSP_Unifeed-1.0.2.tgz",
+    "sha256": "a8abf5878760884fae0f32baf46d9f6675abcd1151184dedb779e5af006cd3ea"
+}

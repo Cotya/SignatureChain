@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SecurePay_DirectOne",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF\/kACgkQZi3Wes40mG6rAwD+NFystfxT3yINvmFzmUaEfJrO\noovr+8vM2SZwobG2pMYBAJcoRmLcnl5x3Slv7fbAeH\/CYnRSuJXGWdostTD+CeLj\n=YUeV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SecurePay_DirectOne\/1.0.0\/SecurePay_DirectOne-1.0.0.tgz",
+    "sha256": "1510b27a0d117863d9a87f9c61064d9f16ac569203f43409c5b6565939e941e0"
+}

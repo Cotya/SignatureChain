@@ -1,0 +1,8 @@
+{
+    "packageName": "integer-net\/GermanStoreConfig",
+    "packageVersion": "1.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMDEACgkQZi3Wes40mG6VSgD\/c6pb7792izGP830R1Aggp92Y\n5T4sswdQ8KUMhSJRmsgA\/3qpkNwFpRq4eGir4fPHLMkSma\/ORggeg1FwmoSMWVLP\n=KtcL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/integer-net\/GermanStoreConfig\/zipball\/0a020bb6e53ffaca40deab0824295223f9f02556",
+    "sha256": "085d82ad4a3565620c3bbc97aaad5e3e1e1de9d3969994d47db170035dc0043b"
+}

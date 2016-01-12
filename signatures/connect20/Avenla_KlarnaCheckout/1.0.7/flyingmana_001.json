@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Avenla_KlarnaCheckout",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBT8ACgkQZi3Wes40mG58qAD\/VKXmow8MS+jPyeCcSr2jy5T3\nZywckmNffq+f6WHV4ZcA\/1j2AxyhYdIXGin5iQY\/uEBTNgjgv4pGxj\/BWC2bnDkF\n=yQPK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Avenla_KlarnaCheckout\/1.0.7\/Avenla_KlarnaCheckout-1.0.7.tgz",
+    "sha256": "b5cf81bc01670fdc680bdea0fe71f717bf89230cdc0899c8423d1347bc4d1095"
+}

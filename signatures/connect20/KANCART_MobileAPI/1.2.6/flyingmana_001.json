@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/KANCART_MobileAPI",
+    "packageVersion": "1.2.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeuAACgkQZi3Wes40mG7o8wD\/ad2HJL4RuQlgHRgTYZp+OJ2R\na1i\/XeHeQU5vuJBxea4BAIHdnr45FobtVd7kK2bCpZfBPYlFM+EazmztfjxqW98a\n=DYQa\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/KANCART_MobileAPI\/1.2.6\/KANCART_MobileAPI-1.2.6.tgz",
+    "sha256": "4f2f0f4c1f4995b3cdd2169aab15b4db109954072028226537af31f2bb95d8c6"
+}

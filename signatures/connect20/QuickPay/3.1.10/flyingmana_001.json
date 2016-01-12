@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/QuickPay",
+    "packageVersion": "3.1.10",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFJoACgkQZi3Wes40mG7FGQEAmui0uiNoWfYgnW6qy+myF3NW\nBiyB6rl2fd3tRZ5tB\/cBAKu52iIp\/boPoVP+k2qt1Uck1FsuaVAECKXphiXWhTFm\n=tr25\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/QuickPay\/3.1.10\/QuickPay-3.1.10.tgz",
+    "sha256": "c5099dc4afd368ca13dfd2f0e4c97dabf51c0183c34d9bb4f76404c648024296"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ltc_Komfortkasse",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgZsACgkQZi3Wes40mG7ubwD\/R0eQAe1wz0ztdGmSiBC5Uj4d\nIswjzf6bDR8krLOS+8ABAIxip+8qGZKO92qgpgCr\/l9P7gbLW5EF11bI7\/0lG0e2\n=RYOU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ltc_Komfortkasse\/1.2.2\/Ltc_Komfortkasse-1.2.2.tgz",
+    "sha256": "ac411d64e84cac6b07f6c6b3344ccf6b229afbee29fc569df1170c07c78e7bc1"
+}

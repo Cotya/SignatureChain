@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SavvyCube_Ecommerce_Analytics_Connector",
+    "packageVersion": "0.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF7kACgkQZi3Wes40mG7\/bQD9FdJDxSJyuiCC0m6Va\/9RkBUa\nEY4ujhKRo\/pdAH3P02YA+QFwN+QWeL5MbYjU\/h2BrPgeZTWJimzkrP9yndsO30tA\n=JxI0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SavvyCube_Ecommerce_Analytics_Connector\/0.0.7\/SavvyCube_Ecommerce_Analytics_Connector-0.0.7.tgz",
+    "sha256": "04b2ce479d1fc5bc51a32a968147a9a21584aecd1acc04a4cdf0752b0cd7472e"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MailUp",
+    "packageVersion": "2.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUA0YACgkQZi3Wes40mG6\/uQEAroA1AZIxAQwl7NdQKZXpPHhs\nKvT4HlP0FYKKYNPl2O8A\/R27h0q1Lh9FAbbZOP1FHWxJRK0hBForU7DegG0BIngK\n=s7Tz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MailUp\/2.3.1\/MailUp-2.3.1.tgz",
+    "sha256": "4136069c24b36cb778573135fa3b60701f343f3dcc52c5bda22fbecf96f98cf2"
+}

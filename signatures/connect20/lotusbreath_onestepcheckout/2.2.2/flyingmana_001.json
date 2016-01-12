@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lotusbreath_onestepcheckout",
+    "packageVersion": "2.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgWUACgkQZi3Wes40mG6ulAD+I+nGJ6e\/wqZpcSJnuiQs9mdh\n0mztOxzuSu4cafADi4sA\/2SYaGSH8R7qy5ha3GuWJM5VdVDgwqAnR7juFu0bNFin\n=m0vQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/lotusbreath_onestepcheckout\/2.2.2\/lotusbreath_onestepcheckout-2.2.2.tgz",
+    "sha256": "9faa4e77e08c8d65111a9fcaeed458eb9ff42fd962669b3fdf2b15fce637051d"
+}

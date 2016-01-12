@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ambassador",
+    "packageVersion": "1.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAusACgkQZi3Wes40mG5waQD9GY1FMq6uIrS\/LZekIbdF4l1t\n2OIOYrfVN0RA1ZE2288A\/iPHUP4kQ4lGpRFW6A4EiKnEvEaQjJw6OKoEOGFRI5gx\n=lEIM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ambassador\/1.1.5\/Ambassador-1.1.5.tgz",
+    "sha256": "41da5ecb73a61157dba6325ad81ad60edd1b22ec236efd073be0ab197dcf26f2"
+}

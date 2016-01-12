@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/xonu_PayPalInvoiceSender",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJ+0ACgkQZi3Wes40mG68RwEAlcSKljh4+kOCqB1Hon+L1bsB\nLKpeDbEoM\/EteQg16JkA\/1\/T+HH+xWKXQeOSaY7p\/sqNWFpWTXqTYHkZQzTql3S4\n=NFG7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/xonu_PayPalInvoiceSender\/1.0.3\/xonu_PayPalInvoiceSender-1.0.3.tgz",
+    "sha256": "dcbd69eeccca28f60f068f2fd929b22839fcf0f0a343fde309e7821e27ea5d74"
+}

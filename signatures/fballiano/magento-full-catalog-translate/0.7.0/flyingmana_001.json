@@ -1,0 +1,8 @@
+{
+    "packageName": "fballiano\/magento-full-catalog-translate",
+    "packageVersion": "0.7.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULwEACgkQZi3Wes40mG6dlAD+OzKlBNyZZ5dPG1KhVHMov5cm\nMJZNtrh9YO6S+C3nvPQBALKaykojdIp+eCLBDrwYMq6yWHCE4QqLavL4PQnsgBTe\n=Qznp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/fballiano\/magento-full-catalog-translate\/zipball\/45be606a0b22fa61d1b77c216f41122d0576d23d",
+    "sha256": "52817205f50b4216315e13bb3c71d6816a1bf83bf48bb146f0a64d102ef160ef"
+}

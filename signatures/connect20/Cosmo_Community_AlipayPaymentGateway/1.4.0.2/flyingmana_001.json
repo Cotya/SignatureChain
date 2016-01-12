@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cosmo_Community_AlipayPaymentGateway",
+    "packageVersion": "1.4.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDwcACgkQZi3Wes40mG7YEQD9GEcaQbgI+iy7cgZ9lay\/6hlY\nx6xzpteljY80Hop5\/owA\/AhrSLl4WcgOC7opc6IMHS4+PM1h31ztVobmACVV\/nAI\n=uLA4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cosmo_Community_AlipayPaymentGateway\/1.4.0.2\/Cosmo_Community_AlipayPaymentGateway-1.4.0.2.tgz",
+    "sha256": "10ae2ad503e714fe49572d803c86668d66f95e0c74a562bcfdd4868f0c562275"
+}

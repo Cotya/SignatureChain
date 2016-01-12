@@ -1,0 +1,8 @@
+{
+    "packageName": "kirchbergerknorr\/magento",
+    "packageVersion": "1.9.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMYoACgkQZi3Wes40mG7NFQD\/fvgNYz+Guc7yk3y2VY3dMp4O\n03S8LCqey+QASNZJBT8A\/3FzqXvrONPwFC9wkztF8lxqgEAI3pFCxQKJt55Jk5Qj\n=icPw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/kirchbergerknorr\/magento\/zipball\/5510d5de7e0ef13514a826bbfbc442a574c3de51",
+    "sha256": "2c049b2220c229ea04e0be1520ac186b81637b0aab54c02ed8388360aebd5020"
+}

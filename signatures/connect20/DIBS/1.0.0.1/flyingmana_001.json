@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DIBS",
+    "packageVersion": "1.0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTESkACgkQZi3Wes40mG7G9wD+L93l\/BJBc9Xb+K3+5KcmRmVo\nkww\/QIrnwHVR01q8WN0BAI6kvUDTz\/ZsZGm4rvYd4py8ALvyY5p7H+52+TSt94p\/\n=x0rp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Dibs\/1.0.0.1\/Dibs-1.0.0.1.tgz",
+    "sha256": "be3518debba7de159b2ecaa3ec89ffb0874190aa4f041e43e397ac8929dd1b33"
+}

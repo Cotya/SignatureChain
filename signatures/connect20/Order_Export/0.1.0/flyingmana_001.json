@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Order_Export",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDuYACgkQZi3Wes40mG6WRwEAoSSbdS+flCaiTIWHfBbJZIRl\nupAzLCilZo12dbipXAYA+gIbvBem8Ar6IU2vBjIwgfjIG3E3bLYQ0qwtogzHSxDl\n=qjAT\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Order_Export\/0.1.0\/Order_Export-0.1.0.tgz",
+    "sha256": "91f66671fba45fa6508bf7da28ee5dd23fc1dc7c51c82cc92e307d42c3e3d1bb"
+}

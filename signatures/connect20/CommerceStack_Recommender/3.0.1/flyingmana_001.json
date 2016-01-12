@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CommerceStack_Recommender",
+    "packageVersion": "3.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDWEACgkQZi3Wes40mG7DnQD+JaoYJeVTx8gzS+ESgqfvX9Rs\nj\/95oG7gQxpT1y7HDZUA\/1Vpskmoeq6EBcIORWnCQfGhm4h9AHSrq7rojucoqbq3\n=Izh\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CommerceStack_Recommender\/3.0.1\/CommerceStack_Recommender-3.0.1.tgz",
+    "sha256": "63c96d7a18ef1d39c4c3b1e160d5a63f14eb1b6ef82e05cbee73796962fc6145"
+}

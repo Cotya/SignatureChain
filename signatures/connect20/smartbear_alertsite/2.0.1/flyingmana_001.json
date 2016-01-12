@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/smartbear_alertsite",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG\/EACgkQZi3Wes40mG5uOQEAuIjTi8DUfquHY+RA11rJgbUz\nEIJyQXmUT2rdYBPts08A\/27JLzPVG6dz5CPTH1g6QWyYRwFnA7wLdggcvh1\/GBF4\n=vB1J\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/smartbear_alertsite\/2.0.1\/smartbear_alertsite-2.0.1.tgz",
+    "sha256": "e373f8fd479a3cc836b9dbd56810ebf5192a6d0091bb91d15143f0339c7fffb8"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Tritac_ChannelEngine",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIugACgkQZi3Wes40mG6fzgEAg8Rv7XGaXJDWdbgQtQfh2X6t\ntQWjVWTVQIckNdZ0orABAIzNKvIxkA3UYJdmzStmkn0wg9KABnPAwt8+CPvP2xM9\n=Wdrx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Tritac_ChannelEngine\/2.1.0\/Tritac_ChannelEngine-2.1.0.tgz",
+    "sha256": "4c81e1a8319ab4497569125fdcac9c6b63932bd6f9ec084be0e6ca5ab277a185"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AvailPointofSale",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBRYACgkQZi3Wes40mG4HigEAk+tY+x0ncBhSQ8o\/p4mR28ib\nornQ6qV9aSAulaILHR8A\/3VrTRcHNP5ocMM9NUTuKqZFPQsweP3SQRkYM1VAi5OB\n=arBn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AvailPointofSale\/1.0.0\/AvailPointofSale-1.0.0.tgz",
+    "sha256": "13bfa46a04ca8b57656bf274f6246960c7223f640939e54ce1a1ee79c625bd2f"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FileMerger",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaTalQACgkQZi3Wes40mG6dAwEAtCXOVLGa8Rlfe2kxdA8XIThK\njIRCFO2OJUmfU3a+8XsA+Jh6tYlNx\/xC7X7d7G1Dwe3OW7R2uGz4\/aEgnhsSPmg=\n=Knxd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FileMerger\/0.1.1\/FileMerger-0.1.1.tgz",
+    "sha256": "2ed0885ca4a9ab441022053fdd0ba9754b1c048f2c5bd2c2b685c7d896361e12"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "doghouse\/carousel",
+    "packageVersion": "0.1.8",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULAcACgkQZi3Wes40mG7r6wD+JNkdoMW2ytyWuUmwnP7q1OvY\nKAlnlwxXkMKz4w0SSMoBAJ4ZJxElCk\/6Uz5TvWFqBDl+Kl1MdORPJYPN3rUKi+pu\n=AQGO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/DoghouseMedia\/Doghouse_Carousel\/zipball\/9e683eea4d8bff577b3b3c3d27733dae449bc374",
+    "sha256": "528f607bfa6b1a6f483df259bef50779ba48dda6c8d2c17d92f76ef633b08a18"
+}

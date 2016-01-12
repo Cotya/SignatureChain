@@ -1,0 +1,8 @@
+{
+    "packageName": "gordonlesti\/lesti_fpc",
+    "packageVersion": "1.4.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL80ACgkQZi3Wes40mG4tTQD\/Yt4zDvi4qY8ny8BhziAPRWS4\nIUsi69uFsNEf7XaAxjEA\/0oyu5ex3yYxRJ9c81pQ5Rlan4QLH8V9vi6kiVK5BwiJ\n=w9gy\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/GordonLesti\/Lesti_Fpc\/zipball\/3ea3928d876968f52b4ded7d39163a0da0ca43b3",
+    "sha256": "8f53c6df8d2080645194ed5e8b0425260098675340c004b6eaffc2a0b3b8feec"
+}

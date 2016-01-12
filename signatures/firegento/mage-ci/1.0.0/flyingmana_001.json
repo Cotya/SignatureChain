@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/mage-ci",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULzAACgkQZi3Wes40mG6bFAD\/SernOMXf6192\/B3+XCzS5gBF\nzaaw0NDLbHZtcQKXFUkBAK543nlQaG9xAEclXWbuPjnPlXUtnnGUMUGDT8QAh1dq\n=8iE5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/MageCI\/zipball\/c92ff642948a8d6a45d1b8693ac57d0bf31122ba",
+    "sha256": "cf312f06232e95dd8db5dd5f68c2c7be631df0738bd7b94e1b2fd22a8b596c95"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mageho_Atos",
+    "packageVersion": "1.0.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAO8ACgkQZi3Wes40mG5AJgD\/XxIL\/MERzCtG1mlR1RbzIfRq\nPR4kT8aJyfkvdfCnBewA\/iZEYz8Y+L2NBZmOhNopUlBPRGWl9umWyHkLmzcT\/JZZ\n=uMu6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mageho_Atos\/1.0.5.1\/Mageho_Atos-1.0.5.1.tgz",
+    "sha256": "3129b3f52aa5a37be8024737b5ee7b8ada595cebc845b477593a0f048e9969bf"
+}

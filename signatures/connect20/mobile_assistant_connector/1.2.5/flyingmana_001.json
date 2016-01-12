@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mobile_assistant_connector",
+    "packageVersion": "1.2.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBrEACgkQZi3Wes40mG7KCgD9FmOXndu30Eahh3jsbKPzHXSU\nFF8Ckdl+DY2tW9mQE1kBAIAgAfheLsFxqNW503XjyMjkrPIkNyRejwNA+QptLDFd\n=0F40\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mobile_assistant_connector\/1.2.5\/mobile_assistant_connector-1.2.5.tgz",
+    "sha256": "dd3612bbac2822defc8053a24ee43ff79416b7d2390311176f02f86d6f427a2e"
+}

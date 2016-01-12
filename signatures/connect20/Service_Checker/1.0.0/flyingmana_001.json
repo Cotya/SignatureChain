@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Service_Checker",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGI0ACgkQZi3Wes40mG7D5gD\/aIcmlJ59mA2f+78E0wt9Kwwt\nQaZmqnI5FLyFBoFGkzQA\/A9srUGZjtEx\/v1VmMXPIq7zb0zUbzjPIrR8ZwJapQ7J\n=LGJL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Service_Checker\/1.0.0\/Service_Checker-1.0.0.tgz",
+    "sha256": "6e8996fa27c772d8d77adedfd41f1a1d74209a3dddb3b27c2325af64062c647c"
+}

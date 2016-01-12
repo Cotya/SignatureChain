@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/formisimo_integration",
+    "packageVersion": "2.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcgQACgkQZi3Wes40mG5AYQD\/TIa4GsVY1Nzn2dRlaRyplUJI\nkFvUop2cVNrTLdLG16QA\/j9XGw0kNQ9ASjr5NUDCXkMx4rlitS75ubOkVE9NaieP\n=oMWn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/formisimo_integration\/2.1.1\/formisimo_integration-2.1.1.tgz",
+    "sha256": "2da29f0eeee9ae97bac5bb46d6d9a57af1a7443435497263963f5b1e1a08e65a"
+}

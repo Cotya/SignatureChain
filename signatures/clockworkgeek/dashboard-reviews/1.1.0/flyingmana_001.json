@@ -1,0 +1,8 @@
+{
+    "packageName": "clockworkgeek\/dashboard-reviews",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/sQACgkQZi3Wes40mG5HrAEApSTZ+4SUc8AVuukJQDFVmZii\nj9SO884X+ujvrVqWdyQA\/Ax1amA62L3ZSd3XfQY8C66L5cQRpikjYZm5sGCjvZ0Z\n=TlZQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/clockworkgeek\/Magento-Dashboard-Reviews\/zipball\/e8a3067be99ee85dd782979badde53c73a61b888",
+    "sha256": "7c0d7a56defd8468f79993365b0ba354c564fa033bc48426d58055043ba5414e"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/shoppingfeeder",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGiMACgkQZi3Wes40mG7\/xwD9HLJDFbZ5SI7bY51fnGg5iufj\nAwyueSKKbv2yC8SqPvcBALik0xgNre\/XGMiUZtr1tBP9LoEz\/mY\/qE1FlZ\/lPv8c\n=RZdK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/shoppingfeeder\/1.2.0\/shoppingfeeder-1.2.0.tgz",
+    "sha256": "c37f631dfa575b7854d35e156dc591618df632248dc407e79004deaed784070f"
+}

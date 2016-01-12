@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Knox_Payments",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe\/AACgkQZi3Wes40mG586AEAsK5WQR3MIHOc0IxcDUoZvt5U\nySnUfNW+Ss5tJ4U01DcA\/AqGX8nxmBIYUY7EtS9KL\/lpwjbo2mSRJk4BUIrmrkVE\n=aGEO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Knox_Payments\/1.0.1\/Knox_Payments-1.0.1.tgz",
+    "sha256": "8faa5277e0df853ec74c7343f858b7eced76c0f4355418d1870b4dc634ad821c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/freedemographicsnapshot",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcn4ACgkQZi3Wes40mG798QD+KcR9prGU0+AYNfiRa\/a0Vxcv\nKNBx2y8nVUAKGp6sUZMBAJFUKM8T3ST8EyUJNnbztdTguUVyIycIfM1gqZVNZg1g\n=8fZe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/freedemographicsnapshot\/1.0.0\/freedemographicsnapshot-1.0.0.tgz",
+    "sha256": "dfea49ed7365f8f28fd83a961fe7a4307acbd92df76ea521af05daeb6a198109"
+}

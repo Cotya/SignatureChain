@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CleverReach_Connect",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDAYACgkQZi3Wes40mG6krQD\/UvCnV7yknPmUP4jmMJQrpCNz\nH9PEbKzC\/nSHmr7ZrnQA\/2Kcv5\/MLrVYmFkXgVo11+H6y0dVVrcMzwzs7ShQ\/\/yb\n=b3KA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CleverReach_Connect\/2.1.0\/CleverReach_Connect-2.1.0.tgz",
+    "sha256": "92b0d799feae09679c8a3e09f74a557ac785f62bd201def5367b8b261f895f76"
+}

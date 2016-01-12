@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/UnionPay",
+    "packageVersion": "1.0.18",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJLsACgkQZi3Wes40mG5q8wD\/cK861vY03Vmp3a1MfVxlCa4U\nKPqT4+91I3C+STac7vsA+wVGj4m0IGAz947BpMUZ4A95J\/EhS3xov2VQfAwndGmX\n=JEND\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/UnionPay\/1.0.18\/UnionPay-1.0.18.tgz",
+    "sha256": "513112dbbf17f0621bde8015a64f11e749c7bf3cf9478ad2eec6b21e14bed89f"
+}

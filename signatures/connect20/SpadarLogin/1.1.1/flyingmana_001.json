@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SpadarLogin",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHRwACgkQZi3Wes40mG4g6wEApRYDpDWcD5t6bQUGT1Emkxw+\nFhy06yK0NOMrZW3YwN0BAIdK2fY1qBN7Bh3\/wWX+n0RCqWiAUW+GvlJZFphOkiax\n=SDEy\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SpadarLogin\/1.1.1\/SpadarLogin-1.1.1.tgz",
+    "sha256": "95459f23e863c421a0cf7a9420aad1899c13882bf8bd22a25e86ecca177fd805"
+}

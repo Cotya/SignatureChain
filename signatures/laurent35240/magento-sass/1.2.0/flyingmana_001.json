@@ -1,0 +1,8 @@
+{
+    "packageName": "laurent35240\/magento-sass",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMi0ACgkQZi3Wes40mG48OQD\/UllWSJOh3aak2W\/ch\/4q393J\nQxH3Bi0jbd9H7HH97TsA\/0qwUsGdNE3BqkgPONuyAT6KI5uDxZS99lZObV+h3A3d\n=l+EW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/laurent35240\/magento-sass\/zipball\/dd11a8c9b4533c03ec49ec988148a629560ba740",
+    "sha256": "d146a321fef3c7e2f2ee66d52ad2a47060a5c21cd90b79a8972b11d8cfb7c669"
+}

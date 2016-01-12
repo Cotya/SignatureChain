@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mPAY24",
+    "packageVersion": "1.6.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCA8ACgkQZi3Wes40mG5WLQEAmzyzCETRPFb4fLZLpNiwRAxQ\nFEJigbHoDs462vFEkp8BAKd+5vTLNxCt6McDCMb6fv8RDQWz9Xk7Wk38b2wOkcv1\n=39XZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mPAY24\/1.6.0\/mPAY24-1.6.0.tgz",
+    "sha256": "655bc5203930a2a7602e10d56b7db3e31e339930fdff543668c1c89169f673b1"
+}

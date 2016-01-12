@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Prometheus",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUE9UACgkQZi3Wes40mG5DHgEAuEE1rxG0wK685\/WAEkLdx\/vg\nOjxwrwhKv2LY2oWivtcA\/0yGubE6T9MX1+SGP1liIK27GTNybTqRTQcjpLs7znla\n=C1D+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Prometheus\/0.1.1\/Prometheus-0.1.1.tgz",
+    "sha256": "720c69fdc17e894d46631ae049fa20f4d9ab033a6a6b69b50b2883230ef38f8a"
+}

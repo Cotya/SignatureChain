@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DHL_Allyouneed",
+    "packageVersion": "2.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTENcACgkQZi3Wes40mG7hlgD\/VSc+yDz7AFbODulG4ZNpR7n5\nWXKWVYRaqp0kVSutKWwBAJ3t5WTcRUUZbIYYGDFCczQcFWv33lSf+e04CGGrDZ+B\n=PAFQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DHL_Allyouneed\/2.2.0\/DHL_Allyouneed-2.2.0.tgz",
+    "sha256": "01e30de53aa5d10a97b81061d912c9e1a9db105b77c85ad809e32bfc82c6c544"
+}

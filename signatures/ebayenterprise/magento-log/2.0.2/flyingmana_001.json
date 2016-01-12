@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/magento-log",
+    "packageVersion": "2.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULDQACgkQZi3Wes40mG6FPQD\/WiDj+MP2GGXVwALsN4h8efXR\nvfBB8feSBZ6hj4Vzp3cA\/2n2l1eckAJARSRKU5krU2p\/PUVzEcmBWLxdGlUMSVPd\n=MXR9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/magento-log\/zipball\/5cc3c1a0e8a3fddf247fc27f804ddeb4e4d8f7a2",
+    "sha256": "a9baa3a5faad3a9f97f05504945ffd590ff01c6081520b427b61cb0e437a5660"
+}

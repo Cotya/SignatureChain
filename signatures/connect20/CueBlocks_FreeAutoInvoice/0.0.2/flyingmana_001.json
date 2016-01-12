@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CueBlocks_FreeAutoInvoice",
+    "packageVersion": "0.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD6EACgkQZi3Wes40mG7pFAD8DZHZPsdn7yItaWi+lBXkTJGV\nqd7rVxvlursNIBHGNk0A+wbWenNKba667Rn+lET3yBDRzkk6RUYfhLyf5SntwdTE\n=C3Tm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CueBlocks_FreeAutoInvoice\/0.0.2\/CueBlocks_FreeAutoInvoice-0.0.2.tgz",
+    "sha256": "5775316cd1e92f4e71b8cec95b2d8e78fcf9567d484d18134fefed4d05f91019"
+}

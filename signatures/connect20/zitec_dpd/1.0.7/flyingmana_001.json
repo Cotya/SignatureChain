@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/zitec_dpd",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKkAACgkQZi3Wes40mG6rvQD\/WgLb+CQ6CwZsCP3D+1477nyN\nP8CrydWatkgaN03a4gkA\/ifj4iDX7\/wAxU7qXajdxIM9UxnXGxrPkR6kEAMnCXGD\n=X0up\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/zitec_dpd\/1.0.7\/zitec_dpd-1.0.7.tgz",
+    "sha256": "33f254d8bef32dcb9e57ca0a9144e3e8f0ac929fc4901da7a8185065f502027d"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/sisowpayment",
+    "packageVersion": "4.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGqYACgkQZi3Wes40mG5rEQD\/Q200TqwvxhKoFUvteCMsytS1\nlZOjDVHPup+R5cDLy8kA\/3W7nH85SRZI7yEI5IEqM6RnZ3AaXwbl6hAHCv3C4O+m\n=EtUq\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/sisowpayment\/4.0.0\/sisowpayment-4.0.0.tgz",
+    "sha256": "4681a7155c51cac5f921a9bbb8649436eb94762f20535e8aa826edfbf2ba9d18"
+}

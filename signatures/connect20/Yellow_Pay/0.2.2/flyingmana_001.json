@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Yellow_Pay",
+    "packageVersion": "0.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKK8ACgkQZi3Wes40mG4CVQEApzyVxZOJCbMKEMUYzAj5fxbB\n6tQGD50M9vGSqjDV8IsA\/1o2iLU7Ezv9l8FIp\/YMsS29ABFtE3m41uBVZC3x3isN\n=ULvN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Yellow_Pay\/0.2.2\/Yellow_Pay-0.2.2.tgz",
+    "sha256": "9636ebec6a47978c5bd4f2702e07d196f9abec604c95e8f3d8ca63b13bb82dfe"
+}

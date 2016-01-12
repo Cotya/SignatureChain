@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/codistoconnect",
+    "packageVersion": "1.1.60",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDKIACgkQZi3Wes40mG5VbgD7BnrOiUSwH7OVsL8nHhn80Itq\nhiLqU3thRoY87t\/Mc84A\/0A0tzxgZpCvmwj8xxjmrY5hinS\/PIQojd8Tmz8ZfYFZ\n=O\/bs\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/codistoconnect\/1.1.60\/codistoconnect-1.1.60.tgz",
+    "sha256": "6e03c79761dd69130ebb1f664149463092f9744954be60ec51a195637cc66663"
+}

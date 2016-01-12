@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FreestyleMagento",
+    "packageVersion": "1.4.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcpkACgkQZi3Wes40mG64SgD9GwowoI+cM1F74Yn5JsO5Ix5J\nVxMWnThMIyVCLQeU\/0sA\/A2hd7f8NI0QlGAuzxQF8BEjHEMaWjOO9APLRbYdZZkp\n=EnxF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FreestyleMagento\/1.4.1\/FreestyleMagento-1.4.1.tgz",
+    "sha256": "252164290855aee68c51270f3d0c4e0f79320d9245e3fe5f4de59ac54d33cd65"
+}

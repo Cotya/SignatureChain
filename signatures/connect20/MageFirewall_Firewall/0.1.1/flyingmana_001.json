@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageFirewall_Firewall",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAHYACgkQZi3Wes40mG7C5gEAtNf+esZ4FTfosF+88kybUhhk\n6nR1YvFU4IAWHdz\/S38A\/3Hlqaff4ynsCwRrW3cpRk2b8Y983NMXjO9kGE5ULQhS\n=3EFc\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageFirewall_Firewall\/0.1.1\/MageFirewall_Firewall-0.1.1.tgz",
+    "sha256": "236bb17d0d2d8aaec81714d4ed92e92b71e9bff414cd5e5773785090538531f3"
+}

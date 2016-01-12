@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Pay_NL",
+    "packageVersion": "3.2.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUECMACgkQZi3Wes40mG5bMAD8C\/OcY9E3jnnZeUK8aOxASOOf\nux1BPO1kMp8z0+2tlP4A\/3jxctmIjH1\/Nl\/9sl340PPRG\/mced7wzCsI5f76Ii5f\n=nBKo\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Pay_NL\/3.2.4\/Pay_NL-3.2.4.tgz",
+    "sha256": "638a4fac352dd7460b4c4c047bbc3ee182ca589ef718cff203942efd31b24883"
+}

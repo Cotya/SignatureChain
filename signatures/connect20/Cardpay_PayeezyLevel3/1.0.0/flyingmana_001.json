@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cardpay_PayeezyLevel3",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCW4ACgkQZi3Wes40mG4iSQD\/VNELtk3W+ztlMO2LVIJX1D7h\nV5uVkB6+4Jg75msWOvoA\/RNQhs2Cn+80YpaM0BpWL62ontVNU90uXfl8w1wioryb\n=hRNE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cardpay_PayeezyLevel3\/1.0.0\/Cardpay_PayeezyLevel3-1.0.0.tgz",
+    "sha256": "99aeb4eba861d77ca01fd91009d55b2cf6f34a722f4fcfa68a572a9a26e231ca"
+}

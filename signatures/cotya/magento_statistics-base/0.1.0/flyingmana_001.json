@@ -1,0 +1,8 @@
+{
+    "packageName": "cotya\/magento_statistics-base",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKpMACgkQZi3Wes40mG6N5wD7BmC+hPzH29AwM0t+YFYnRNUr\nbTimJTMw68X1a+zH3J4BAIG4PlwW\/MojtQgC5Pmdl4StZHjhBg2JiKcb6rowkiVX\n=QRAH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Cotya\/Magento_StatisticsBase\/zipball\/fc992dbf79fa463f01516a6ac3f3c669296cbeee",
+    "sha256": "db4a55d6cc7606ae7a706104934aabf3267fbd5777953064f10a5c89b22af13c"
+}

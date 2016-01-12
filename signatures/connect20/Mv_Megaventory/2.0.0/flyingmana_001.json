@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mv_Megaventory",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCNoACgkQZi3Wes40mG4XiwD+O+LW0GzoZwjAQtyWl7qbkRS5\nUhlOfLgI5U2TJVzar8UA\/0WDgs9bM+32DTj5kTVP1GuvnHGmP1XQ5OOclE+pCCFx\n=tgXI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mv_Megaventory\/2.0.0\/Mv_Megaventory-2.0.0.tgz",
+    "sha256": "f5271f730b461228e0c234157be1345a593794b37019aceb91fede611c523d0d"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/VJP_DirectCheckout",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJYgACgkQZi3Wes40mG7AFQD\/ZyMAk1Q8lLw2txwPIcf8RHrW\nNzIuUF9gWrM2emqo8NIA\/iToCEXBRQtcE7Oh1J1HwUR\/g7icsLNk+vBvPulQGs8s\n=bRKG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/VJP_DirectCheckout\/1.0.1\/VJP_DirectCheckout-1.0.1.tgz",
+    "sha256": "37616da70ce0cb30604bd39b1b05f034c1c7b1b5898aefddda257c24bb16d147"
+}

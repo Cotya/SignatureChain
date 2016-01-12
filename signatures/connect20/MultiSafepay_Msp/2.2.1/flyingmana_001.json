@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MultiSafepay_Msp",
+    "packageVersion": "2.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCM0ACgkQZi3Wes40mG5RVAD\/X4DmKxVRXdyj6\/jNUK9\/g+rF\n8BMyhiffgtxFd\/EBM9EA\/1x3k0Y0AwicYapXgOd4KSMCgbMG4+B8hDLhQpArOVZf\n=MyEx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MultiSafepay_Msp\/2.2.1\/MultiSafepay_Msp-2.2.1.tgz",
+    "sha256": "9cb6b6384ae5183224788bf658527f1b90a2ba73d71ecda782ef78eaccfaf40e"
+}

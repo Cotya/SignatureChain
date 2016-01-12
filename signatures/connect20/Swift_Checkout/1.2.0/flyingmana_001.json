@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Swift_Checkout",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUH4AACgkQZi3Wes40mG7eogD\/f784SE0r9CrelWqPSCWQO7mu\nxBw06cYgccYyiDj8rbAA\/ROP3aSIAcw76srNIMblN1H3l7cVveAp6GyyUN4NA9z3\n=5Kio\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Swift_Checkout\/1.2.0\/Swift_Checkout-1.2.0.tgz",
+    "sha256": "06f4cf4cc01d0cb6cb915ff33da086bf683cfc8b11d616b314ef114e3d4d3230"
+}

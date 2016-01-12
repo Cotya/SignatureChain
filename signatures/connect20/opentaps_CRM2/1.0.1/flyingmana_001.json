@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/opentaps_CRM2",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDkUACgkQZi3Wes40mG6sCwD+JU\/xp0djQPjomJirsKVeokeY\nIC1KH1EF0sEuy00ax14A\/3DYKDYbW5dwhXfVPqhBGBSqcq26kQAGcDUofovJDBMx\n=++SY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/opentaps_CRM2\/1.0.1\/opentaps_CRM2-1.0.1.tgz",
+    "sha256": "9a92d09c50a603c1321eaabdba569e266630196205ff341bdb6686d7f1887232"
+}

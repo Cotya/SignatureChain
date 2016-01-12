@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Waterstone_Winvoice",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUJd0ACgkQZi3Wes40mG53sQD9GwBI+b+jZvw\/7iKNiQgZiqp+\nVQ+TJwql28uP9mnqOmIA+NwAnLysXgHrZyN1d87Z9dWA\/oDEn7z+BkLSE8irqAM=\n=nRwu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Waterstone_Winvoice\/1.0.2\/Waterstone_Winvoice-1.0.2.tgz",
+    "sha256": "19a7b49b3dea729c9e98d0caf778cef2c2da25511023ccb344d51652b0667fba"
+}

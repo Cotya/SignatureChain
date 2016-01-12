@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PayVector_Tpg",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEREACgkQZi3Wes40mG5cQwEAlunlvtQc+MDJ\/IjNm9QJ5DFi\n9ZlymQzs5k96GreRG7sA\/2ZBxddZhTVvYv5vsil8Knky02TcSBhoYoOYX6IC\/y3+\n=abPg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PayVector_Tpg\/1.0.2\/PayVector_Tpg-1.0.2.tgz",
+    "sha256": "d93ead2eaecea6ed0623e53d2bf650abbebc538898ca1d63433136268916419d"
+}

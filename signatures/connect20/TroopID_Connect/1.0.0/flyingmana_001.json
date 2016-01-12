@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/TroopID_Connect",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIwsACgkQZi3Wes40mG5X7AD\/QoMlaCxrplLtxkX3PNes9lUe\n5ILyCLmJjQdBpGTd63MA\/A6OUHgqKlrTBodDYGeV9zmubOa8pJW\/RslH+LmxDdN6\n=f1y\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/TroopID_Connect\/1.0.0\/TroopID_Connect-1.0.0.tgz",
+    "sha256": "3472dd19d9d43b004d5ce8499c7d5c10a0db53c83985d6185dc6913ea29ada89"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_Google_Checkout",
+    "packageVersion": "1.9.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfNoACgkQZi3Wes40mG6dOwD\/cEiAbKjbKgRh0LGEzIy5Dc8i\nKa5rl9iHfU5XUF7kc2wBAKFuVypyvlXu4ZRDKvMYcOCg4anmUvObXh5qK\/mvUu09\n=O55s\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_Google_Checkout\/1.9.2.0\/Lib_Google_Checkout-1.9.2.0.tgz",
+    "sha256": "5b8a09ca68a9d22646d017ad4e8b73a7661cdc957505a50643536f34c187efd5"
+}

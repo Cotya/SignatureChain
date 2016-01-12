@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Oro_Api",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDwEACgkQZi3Wes40mG5igwD\/Qwpsv6jls1J7XaA\/LimBATI4\np5G6l7PzSntEhhGSaWkBAJcutVuS3SmjR41V2z+m+U1jw8a+\/Igfm8pPAAlT\/0gQ\n=PvKp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Oro_Api\/1.0.0\/Oro_Api-1.0.0.tgz",
+    "sha256": "462c535137d368235222436a27704d9165fdeb5978a109b01b021909be31db41"
+}

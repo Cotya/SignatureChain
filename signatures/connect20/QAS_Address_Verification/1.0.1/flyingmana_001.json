@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/QAS_Address_Verification",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFEcACgkQZi3Wes40mG6BAQEArhaOA1X5YPXbiNUKcnsO+5cu\nqeJzrcznFPcByK\/6jlcA\/RmtDYS8dFx8NDR9ulmLus2S9V4NQ72bCfpUToRPg54\/\n=kfgY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/QAS_Address_Verification\/1.0.1\/QAS_Address_Verification-1.0.1.tgz",
+    "sha256": "f016125c94f9e22ebfeb80906873ddcb08c6c2387570b5cbd6029ca3b3db5506"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Modest_Integration",
+    "packageVersion": "1.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUB0EACgkQZi3Wes40mG6jLwEAtfPMKkRACJxfRcqe5Hv8XOuS\n6h2dWgJP0JzNpNvCrcoA\/37dut3gR3yTrhiGEeJ+CdZol9SEh63wmUf80++igwp8\n=2xg7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Modest_Integration\/1.1.5\/Modest_Integration-1.1.5.tgz",
+    "sha256": "fa90c8320cc3f64bbcf543bd8e7f1be3bad8feb454e4fd55c1098606d216359b"
+}

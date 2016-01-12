@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/rack_paygent",
+    "packageVersion": "0.5.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFPYACgkQZi3Wes40mG5sFwEAjkY8yfL93zhxuDYyJouDkOcF\n0cGg3qrG41Xb\/lmT4\/AA\/A5BLFJdv0y5bLcywy4mqXQQQdvydJzxOkEFIrFjO\/FS\n=4dH5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/rack_paygent\/0.5.6\/rack_paygent-0.5.6.tgz",
+    "sha256": "b033c1e03fe480d21fa908f87e3eadeea91d7be2a057d18265520b92fb986ce9"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/autoshipping",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBQQACgkQZi3Wes40mG6ENQEAjsCaEEaHs8lBVazVpSuvDowo\nvv5DDw52eFxTaW7LGAsBAIOXd\/JMHHzkB8ZUu6pFZ\/Ij0I7LpDhVa5gHwdcC7xt6\n=EArC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/autoshipping\/1.0.2\/autoshipping-1.0.2.tgz",
+    "sha256": "69bff96cb111c49bd22ecd7f9937b386a681881089537499efa06b8da628e52f"
+}

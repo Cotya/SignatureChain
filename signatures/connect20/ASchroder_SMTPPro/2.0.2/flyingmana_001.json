@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ASchroder_SMTPPro",
+    "packageVersion": "2.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTA8gACgkQZi3Wes40mG6UegEAszZU3RxC6eiozP1ZTAbm0IaZ\nr\/8pBvIJHgV7YC87d88A\/0czX1zCgyFPwXTIoHGOTyCaFxCgAVs9WIWupVD9oa5d\n=QcPI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ASchroder_SMTPPro\/2.0.2\/ASchroder_SMTPPro-2.0.2.tgz",
+    "sha256": "fc885015affbf2df1f0edda747fedd69e48ddfb366d78fb64044694a9ad3c4f9"
+}

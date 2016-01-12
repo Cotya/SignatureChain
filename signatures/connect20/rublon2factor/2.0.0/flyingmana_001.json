@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/rublon2factor",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFz0ACgkQZi3Wes40mG6k+wD\/T0KpvvWrzf5uKzzvnSRkTy7u\n2QKNuX26bJAUMY6B56IA\/iX\/SF4Vp6MjE8QqSipXpf2WaXzgcV0yX\/fXN6paFw\/1\n=p0Px\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/rublon2factor\/2.0.0\/rublon2factor-2.0.0.tgz",
+    "sha256": "fede1cde9c62ceb2a7cc4aa02d78999f988c9ba14e46e327539aa493139dfec5"
+}

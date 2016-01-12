@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/yuzu",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKW0ACgkQZi3Wes40mG5K3AD+JdsxvRy3nf3crDTbqmLj0BdG\ninjQ7aMoOm5uyDPzk+AA+QEX60KY8Ix6tmD07d\/d2JCuiCBUtpbRhTtdHysgJVPm\n=h6sj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/yuzu\/1.0.4\/yuzu-1.0.4.tgz",
+    "sha256": "bcb77c8c90555884aa9b5f236da4109b05168912928958353e1237a55b869847"
+}

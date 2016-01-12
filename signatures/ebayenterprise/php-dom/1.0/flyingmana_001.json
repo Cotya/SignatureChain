@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/php-dom",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULnoACgkQZi3Wes40mG6oLQD\/XHkRAmH0axxrsmnRHAw1neTO\nEXZ6y4ToXd\/Z5xtIKfgA\/3KUZyySRChwGN2hjuuGRop+Jzst40LKRoYQfYvmDSSn\n=9YNg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/php-dom\/zipball\/aa208d7658308d579864ca286b30c5449c151900",
+    "sha256": "b25a694898d80a2673457378fd095251b26c6050952605e72429efa75c0bb3fc"
+}

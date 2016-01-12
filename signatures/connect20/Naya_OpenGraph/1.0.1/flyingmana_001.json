@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Naya_OpenGraph",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCecACgkQZi3Wes40mG5DFwEAtaSqkKVwSEnq5\/YmWimc5ZP+\nLfciLghk\/pRMS+R4xpYBAJYK3rDaEk9xf7RiVtr07AqCI6HKjY\/54YAod7fOEQX7\n=WNRr\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Naya_OpenGraph\/1.0.1\/Naya_OpenGraph-1.0.1.tgz",
+    "sha256": "623bc441d601b74fa5094cecdae2538cdebd4227c2ca52eef8408a2627801f5d"
+}

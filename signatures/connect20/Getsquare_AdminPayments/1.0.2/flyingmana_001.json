@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Getsquare_AdminPayments",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcxYACgkQZi3Wes40mG6P7wD+JYxfYjY\/R9tkxvNHTAIWp7yL\nHYtMzPWYHODTzGSUYDkA\/2S8+UYZx2wVYZmd6T8IW0wkEHfJY\/PvlCeWjR5yW8Cf\n=EhrI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Getsquare_AdminPayments\/1.0.2\/Getsquare_AdminPayments-1.0.2.tgz",
+    "sha256": "c7cf2556b6bb4404458a51bc1b787b7d12e14a33f0ccd08fe976af2e1485be21"
+}

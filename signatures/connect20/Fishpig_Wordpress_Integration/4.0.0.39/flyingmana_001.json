@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Fishpig_Wordpress_Integration",
+    "packageVersion": "4.0.0.39",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcF4ACgkQZi3Wes40mG5yJQEAoEbtfxp1zJ4UH13LMlSBEPwd\ntbuFAnpmwVzddmJ9e6gBALUs0rIJH9xHbCwp8fgsVAeFniXZda+bLuV7toAuuqYD\n=tIAC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Fishpig_Wordpress_Integration\/4.0.0.39\/Fishpig_Wordpress_Integration-4.0.0.39.tgz",
+    "sha256": "7d84bf654475130547dd355815162e014d836ee64574d467b29ba264ec536992"
+}

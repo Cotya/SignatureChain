@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PrescriptionPayment",
+    "packageVersion": "0.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEowACgkQZi3Wes40mG5YCgD8DrJ22b4tO6ikRNmvEx6g7Oft\n+3WuWUNFMQhjImyFDhYA\/3iDQkvf91H8c\/ugsL9M+EHcKi0AyMiB1bCdfP\/+su\/5\n=Xivu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PrescriptionPayment\/0.1.2\/PrescriptionPayment-0.1.2.tgz",
+    "sha256": "e807464c99236767980f4c2b2c0c892095e1f7f2e2970f95a660da86cdafeba8"
+}

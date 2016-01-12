@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/slisearch",
+    "packageVersion": "2.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG50ACgkQZi3Wes40mG4BoAD\/S0BqKSTygQ+hzWVS1KlP5XEe\n11zblnF7I2ZmlDmgROcA\/0LVqBUtjxatt3HCOZwjH+SqPAEcKYLhhmm7fTkCO3oL\n=LACW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/slisearch\/2.0.4\/slisearch-2.0.4.tgz",
+    "sha256": "2f729f4016125152f21feea6640e3cc5aceb063bec25f71077915571fdbe43b2"
+}

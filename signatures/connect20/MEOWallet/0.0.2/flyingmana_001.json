@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MEOWallet",
+    "packageVersion": "0.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBQQACgkQZi3Wes40mG5uJAD\/QUuSKFFVhM7jqm0d541erRLs\n7L5rO6QugSloZ2OffKAA\/0hd3bgV6JPpHozTYnCYacaRHwFrkaQ9Ulk6uzTnuoKF\n=ipAD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MEOWallet\/0.0.2\/MEOWallet-0.0.2.tgz",
+    "sha256": "9ea81c8cdaa3ccbe7758f5eeb6c599da1cdd28bcd41ed61767418a35f2b45b1d"
+}

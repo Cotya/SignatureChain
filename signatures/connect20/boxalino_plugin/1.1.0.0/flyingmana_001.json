@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/boxalino_plugin",
+    "packageVersion": "1.1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCGwACgkQZi3Wes40mG4sogD9G9\/xmEZPII+jeBW5VLTjsDND\nEObBJTFhgt\/5SP32YcUA\/2NozZJHc8zLnGkqfIsAOfMQGCnvp2Q8qm\/TwmCPE0bL\n=eEb5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/boxalino_plugin\/1.1.0.0\/boxalino_plugin-1.1.0.0.tgz",
+    "sha256": "c8e40054ec65db5e79e9184a81aa76b634479d19635c2415969005ef1b5b1628"
+}

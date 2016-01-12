@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/paymentwall_magento_module",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEJ4ACgkQZi3Wes40mG6UOwD+Otw7P8D43bezyFk5iLLwhkfp\n9EKUdueruQvpq6brq7QA\/1vHjSnzt+tFngj1qj92t3nvN8MmAlcFqR9gz8AB18bU\n=IUat\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/paymentwall_magento_module\/1.2.0\/paymentwall_magento_module-1.2.0.tgz",
+    "sha256": "b292ab8448904631340147ece31284516083a32f0f07887f2bb18c8ab2ed17aa"
+}

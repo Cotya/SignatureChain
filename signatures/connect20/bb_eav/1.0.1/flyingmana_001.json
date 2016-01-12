@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/bb_eav",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBm8ACgkQZi3Wes40mG4PXAD\/ejL6eZQZAWQROq84i01tzzfJ\nITXcEJwVMvlWrGUoCWUA\/2chxlnp8Elp3LHrFrhGlkDE\/iMb8CncuXSVbowN5sLB\n=Mjpt\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/bb_eav\/1.0.1\/bb_eav-1.0.1.tgz",
+    "sha256": "b0fa8d59b68fd1451357ebf4f38515f9467dd1ad614d2ebcb8c547cc949981da"
+}

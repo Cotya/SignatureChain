@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/gomage_social_connector",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc3UACgkQZi3Wes40mG7F7wEAn9gDoavWerUC11Q\/Re7HBzJS\nocUvpVH85ZarMxfWC0kA\/i7DIWXXbI98f8H8gr9sQjCztr3F07bPIcvplaA4HknV\n=bX6t\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/gomage_social_connector\/1.2.0\/gomage_social_connector-1.2.0.tgz",
+    "sha256": "45683c253faca42472e32634882e33090db07f3632b2b8431ff141cfb513f089"
+}

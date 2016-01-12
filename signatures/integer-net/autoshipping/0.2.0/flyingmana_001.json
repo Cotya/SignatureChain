@@ -1,0 +1,8 @@
+{
+    "packageName": "integer-net\/autoshipping",
+    "packageVersion": "0.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMCEACgkQZi3Wes40mG5OdwD7BTXo5fLi17j5Q1U80r94s\/Na\n1DhHH5ixbBsxtn+dTV0A\/jZ7M7oAfOa4JewTzUTkZMg9YY0SNL+DHcRVM0vAF6Ud\n=SNOe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/integer-net\/Autoshipping\/zipball\/a73e9c81540c8ad245fed5c13a93bc9427a49e62",
+    "sha256": "6710331cc483ce03fd46e81982c20d9f3c8ff0f193123818820b74512fc35159"
+}

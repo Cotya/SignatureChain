@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Tatvic_Google_Analytics_Enhanced_Ecommerce",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIC0ACgkQZi3Wes40mG53qAEApO15fVGSyZOHV5NHCW+24eL0\nt5MTwC+WFY78JsObiS0A\/1ap+o8xP6ycawzPj2jOoUF4oRXcN\/iw3Vn\/SaT+RRgO\n=cmEg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Tatvic_Google_Analytics_Enhanced_Ecommerce\/2.0.0\/Tatvic_Google_Analytics_Enhanced_Ecommerce-2.0.0.tgz",
+    "sha256": "31b30013376c55018e858b871fe7a8efd4358bd7df1d253c30006adba94e15ae"
+}

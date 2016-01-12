@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/diglin_ricento",
+    "packageVersion": "1.0.15.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEd4ACgkQZi3Wes40mG4z0wD9G5AX5fLKzeoWnOf2KeRHAkd2\nAUVPGgzYW8kkgfMVujoA\/iVFcDP9oTuptUry6sULDf\/YFH7c7+V3K11+nkKlVDAk\n=Y\/ES\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/diglin_ricento\/1.0.15.1\/diglin_ricento-1.0.15.1.tgz",
+    "sha256": "46d858ef55d1ecac5e79b2eeb55aa650768967a873f878d31dd30393fe7f80e0"
+}

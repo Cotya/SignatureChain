@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Phoenix_Moneybookers",
+    "packageVersion": "1.9.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEWkACgkQZi3Wes40mG5qdAD9GEvkm03JvGXOOVuvqKVU4Apc\nBx2L+\/+XvMYp5n3Xzt0A\/1Kcma0v1nMhguEEENLtkcERZ41RVpnPCdAP4yZVuhVN\n=RA8x\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Phoenix_Moneybookers\/1.9.2.1\/Phoenix_Moneybookers-1.9.2.1.tgz",
+    "sha256": "146bf7f15e50c742141608a908147984edcc346edcf1b995f03a490845a5d0cc"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Securetrading_Multishipping",
+    "packageVersion": "3.3.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGBQACgkQZi3Wes40mG4u+wEApmRgR\/YBH4QrFUL9fSBdj8qx\nXjkZfg0RYd7eM0m8nRsA\/2HiUytXsSaf3vAUC8r0rnD\/FK45XnASA3lGAd8Q7MhU\n=328w\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Securetrading_Multishipping\/3.3.4\/Securetrading_Multishipping-3.3.4.tgz",
+    "sha256": "d32eee965afeb5b187429858f83a01932803e9741a908e8f8eaf9af9f66abd03"
+}

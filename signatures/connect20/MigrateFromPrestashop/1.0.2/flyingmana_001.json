@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MigrateFromPrestashop",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBVoACgkQZi3Wes40mG6eMAEAtflB3\/pJCSlLOhXFbFeC1SHS\nAQJcjyDJivaZir1P8ZsA\/3ZbcKWzh0TClm6PqBakhUNw\/0Vn\/Q+9a99dUx7kN\/t4\n=1JPO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MigrateFromPrestashop\/1.0.2\/MigrateFromPrestashop-1.0.2.tgz",
+    "sha256": "323087325b22d73a7c5607528fdcb4c2593ccc521ce922a0852fcef05c7ed41e"
+}

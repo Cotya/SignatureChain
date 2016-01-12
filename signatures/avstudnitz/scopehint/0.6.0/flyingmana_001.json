@@ -1,0 +1,8 @@
+{
+    "packageName": "avstudnitz\/scopehint",
+    "packageVersion": "0.6.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/rcACgkQZi3Wes40mG7CiwEAtNAtexTOqTCiEVDGaXNBMdVu\nwdYFTsNq1cTBkCnlcHQA\/2h0ET7pKvSOTNo6vv751w13GpsbAkB15BV0BLpeK8yI\n=S7GH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/avstudnitz\/AvS_ScopeHint\/zipball\/3e03924e59be89eddaff7be38cf2adb15cf1e24c",
+    "sha256": "613d6333abdfa25c9ee855e1846b9ccd738d305d103807727531bf2dca196240"
+}

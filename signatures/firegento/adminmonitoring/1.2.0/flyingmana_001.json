@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/adminmonitoring",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULw8ACgkQZi3Wes40mG6f7QEAlEXrZWAV+TG3eMXJOOeG1kwW\nEh7FSebAjGdn3Ve2DRkA\/16fvkFvI9ELMGpD4a7tcKCGk2gCNQqIxD2w2ViEJpxx\n=R\/F+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/firegento-adminmonitoring\/zipball\/4d0f718f97fb90952f188e97d9c545f0d411f994",
+    "sha256": "ea1b4654ce9c67f7b930c7844f457b410dfb597a49c3833aa6bfeb72ba2af637"
+}

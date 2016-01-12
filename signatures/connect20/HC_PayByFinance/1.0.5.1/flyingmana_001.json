@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/HC_PayByFinance",
+    "packageVersion": "1.0.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdCoACgkQZi3Wes40mG5iqwD\/VFhl1tOS9OAqHRDtmq8MppwO\ncQ0l+12tZd5YhFFN7BwBAK0Dv+2fhFd0qP9\/4lhfprH1yh2F\/Bd5cr49JUgWuN8P\n=srXp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/HC_PayByFinance\/1.0.5.1\/HC_PayByFinance-1.0.5.1.tgz",
+    "sha256": "268ee6c0c8ec5f95abf02452a7e0e715bac5573d064a126d1c65a70d13ba6b68"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "ecomdev\/composer_autoload",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULuEACgkQZi3Wes40mG7tpQD7BV7Mx9KI9MxtzKGTf4g\/on75\nHe4HBeCSrpQoLQw+lKEA\/A4IwPp9UrwsJgWwB+uJWjlDmjC497Qx8NLrc7jXxtDW\n=1F7A\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/EcomDev\/EcomDev_ComposerAutoload\/zipball\/e4c9397222a2ce3e978603b02e5b14ed9049a3d2",
+    "sha256": "93cdca0ae18aed91fd8f5f31c1585388f03136cb3e44a282094f4f35ad870f5d"
+}

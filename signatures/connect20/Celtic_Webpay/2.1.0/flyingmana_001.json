@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Celtic_Webpay",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCrQACgkQZi3Wes40mG5HJgD6A2gkQru6nwzxBusNj0TWFBRS\nNojBXga9TKuKJMP0whsBAKZ9okVY2i0xxHk9cMD9Iohf8uaBd8NM06iKsYFUk4Q2\n=7Hq+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Celtic_Webpay\/2.1.0\/Celtic_Webpay-2.1.0.tgz",
+    "sha256": "9470efa8e59257ed6ffb4940eeba3b6609fbd768e8c024ce3526a8bb450b6934"
+}

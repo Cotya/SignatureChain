@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Hipay",
+    "packageVersion": "1.0.11",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdKIACgkQZi3Wes40mG7BLwD9EjkZTHdUnFtmGACUN43WztR9\n\/YSoiX2sqgKTIlSvCv0A\/RFAdK3QkNS\/sYAsddb0WwEc40u\/NUCd1T7MgROGfQF1\n=xWp4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Hipay\/1.0.11\/Hipay-1.0.11.tgz",
+    "sha256": "421081d0a367872e014874604e0a8659c9cc09f7632289625bcebd019d63c5e5"
+}

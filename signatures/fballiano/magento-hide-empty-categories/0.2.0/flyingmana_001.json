@@ -1,0 +1,8 @@
+{
+    "packageName": "fballiano\/magento-hide-empty-categories",
+    "packageVersion": "0.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULwUACgkQZi3Wes40mG4eKAD7B9AKWtb9eK8+m2vGKfKuBvc8\nBku5bJX2WqKOTq98jfMBAI4Fl64Ygb6p75i8xhy4YDYg2e+IiFXwOiuLQhwAzBdL\n=\/Kog\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/fballiano\/magento-hide-empty-categories\/zipball\/821dba56db7fc5e605e0a0cdaa95a775ae1357fc",
+    "sha256": "7778beb8ffa2bfc96d403c7319368b24686cd6dfebb6c1b250a4edfa690803ab"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GoDataFeed_Services",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc3MACgkQZi3Wes40mG7yfwD\/SuuPkxmQfryu0UjW9pjsPdKB\nIvECShU7YlFJtzyQejUBALTLjty9Zj0h5p\/Vs4vfdPsSsJ2ZW2YWN+eJpla8klG9\n=8cOm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GoDataFeed_Services\/1.0.0\/GoDataFeed_Services-1.0.0.tgz",
+    "sha256": "2a27cff163f690bab2b7f0fd151b7b61c4e82a40831a54bb6748e933740852cb"
+}

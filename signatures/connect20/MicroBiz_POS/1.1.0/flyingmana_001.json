@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MicroBiz_POS",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBVMACgkQZi3Wes40mG4D0QD+JD+pzVDAi0MAettPLnN1+F+e\n7hoki9KEvf8SpDpIiM4A\/RT1a9cBIaIWECiFhwNNQg883vaYLjsONo7hWmPEhDUV\n=22Ng\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MicroBiz_POS\/1.1.0\/MicroBiz_POS-1.1.0.tgz",
+    "sha256": "5b44be68085c86b094a4b98db84c46140fa76b30ee9e2c0fcaf6db0f47e2c4b1"
+}

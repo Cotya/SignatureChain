@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Basket",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBkYACgkQZi3Wes40mG4WMAEAn3pya+taPrFckXSV4Wm9fy1t\n3YhmG1x4JWo3b507wIgA\/2GdJTn8vVNjLKEpGT20DsFtqszXjfHiMBKD4qr5hWbR\n=COlf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Basket\/0.1.1\/Basket-0.1.1.tgz",
+    "sha256": "d7fd224fa68c2a306c2d98d7898eb8559d9fc228934626f8b70c6166369bf8c6"
+}

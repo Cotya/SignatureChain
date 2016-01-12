@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Campaign_Commander_Transactional_Email_1_5",
+    "packageVersion": "3.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCUAACgkQZi3Wes40mG6BygD7Bb947JUCnXzO85R8kHo13gex\njhHdwpELvHjDH4H0k4UA\/Ao4WJblXt76DUD14xPcPOPOcJVkIQuqgqoVf71t3AZf\n=SKHI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Campaign_Commander_Transactional_Email_1_5\/3.1.0\/Campaign_Commander_Transactional_Email_1_5-3.1.0.tgz",
+    "sha256": "ae2a88727c772d929539b2e596fa3610fc3a5bfe1356bd7a82f8403cd321978b"
+}

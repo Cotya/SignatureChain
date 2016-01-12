@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GoMedia_Webhook",
+    "packageVersion": "0.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc34ACgkQZi3Wes40mG4hfgD\/Z0JggUiM5Cl3edAXxiF2FsYi\noxUoCpC30ABVFFkhrXEBAKjgUsQYuPP9KlWo9zPZ\/VPg7JhfOfElPCfgjtrFch3O\n=Ih0g\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GoMedia_Webhook\/0.1.2\/GoMedia_Webhook-0.1.2.tgz",
+    "sha256": "76b96f4a279f10b9b0a94cae7c14d9786101be02ef467615bf181437c88da634"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/pict",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEaQACgkQZi3Wes40mG4uAQD+J\/p1w0kQ\/f2FZ04sbYNHIv+U\nDowANV46wq\/4kbtU1UwA\/AnrJ1cs2x1ny5sAADOwvB9Q+YskTP+N4q9X9Aa9TSWK\n=YC8I\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/pict\/1.1.0\/pict-1.1.0.tgz",
+    "sha256": "ca57efbb1e6b0e52343b6288ac237846655911e33b897bbad9365637cfcff645"
+}

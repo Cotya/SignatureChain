@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Highstreet",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdJkACgkQZi3Wes40mG5a8AD\/dwxlGESfu6Ovq0jvzaODX\/pL\ncguxHdcJWepR\/bJFM4gA\/0SJLfycI8cdtUYJFXl3oBdBz5GOVXJ5+kotB3cOcWoe\n=2h4O\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Highstreet\/1.0.0\/Highstreet-1.0.0.tgz",
+    "sha256": "8e3dd54fa01ccefc81a8c740351eecd585a556b7d201b826bd812729247f6ec3"
+}

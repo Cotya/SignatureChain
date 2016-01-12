@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/giroconnect",
+    "packageVersion": "3.1.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc1EACgkQZi3Wes40mG7R4wD+Liai0eFkmQDMw5UNDRn8DYrz\nGKIOBX3QG+idBuOUVssBAKs9FZBwiBO0o8SnjaNrq3LR8WubgBM+Z4b\/wxoKG4Wy\n=V82f\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/giroconnect\/3.1.7\/giroconnect-3.1.7.tgz",
+    "sha256": "c8aedf0eacecc414255e9c68d936e8fe4e0b63778ba04b98bd1f1805b953dccc"
+}

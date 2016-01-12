@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NL2go_Sync",
+    "packageVersion": "3.1.04",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCycACgkQZi3Wes40mG5G6QD\/RWTez2Flh5lLL4Cj0x6ki2p5\nLBzWvgcOnuL+CZNQjiIA\/RdDLVKiBXHgGkjQcqb3JAVeM\/P46S9r6fadbk9qgzqm\n=BXO6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NL2go_Sync\/3.1.04\/NL2go_Sync-3.1.04.tgz",
+    "sha256": "679bde05437fc435fa6591342a34d76528b1e2e5876fe71bb1ced9d6230152e3"
+}

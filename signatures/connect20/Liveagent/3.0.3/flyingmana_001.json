@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Liveagent",
+    "packageVersion": "3.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgGEACgkQZi3Wes40mG6boQD\/diZC\/8f5556OKyXK0cGOqxqi\nBLi9WkpEGYLNJQ7bqiEA\/RNsHAi0IInzG7fzANr0Zwr6wXQKz+CIl8B0HBCB+OSA\n=Uqc5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Liveagent\/3.0.3\/Liveagent-3.0.3.tgz",
+    "sha256": "e8d1603b9b98edd53a61ca633ba39917132a6d9a7b88ec1f610f511e07b06164"
+}

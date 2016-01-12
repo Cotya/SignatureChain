@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ng_customer",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCuYACgkQZi3Wes40mG6XJQD+Og085FT\/uHdl\/3+vdw69viDe\nxu3pd2C08U91mWfBZ90A\/19qyTzz+BkgFjk5PL+azCKXb34ExjMqJ5Sn9Qarwmxh\n=ndvF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ng_customer\/1.0.1\/ng_customer-1.0.1.tgz",
+    "sha256": "85860500c4ca985dac2fe135001604f128ad7efb220aca86c5b21d9a709ecb9e"
+}

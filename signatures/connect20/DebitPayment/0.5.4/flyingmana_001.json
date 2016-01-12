@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DebitPayment",
+    "packageVersion": "0.5.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEH8ACgkQZi3Wes40mG5B8gD+KEnYwXmU0ZrfBLQo+T3F+L\/E\nnxDoGohqTw4BOzqPg9oA\/1kS+ICGIUaWVTm2D52sydVWvpPL6f4ZkcetIHHWsF76\n=oQXC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DebitPayment\/0.5.4\/DebitPayment-0.5.4.tgz",
+    "sha256": "6d555beea6b7ebf96b65a0eb85fbace09549c719da9cb5d38bbc9bfdd40d2a92"
+}

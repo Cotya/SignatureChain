@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MercadoPagoTransparent",
+    "packageVersion": "0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBQcACgkQZi3Wes40mG7FJAD\/Sula6\/EOcSi+hm5S5eKrqjYy\n4Q5XQFL6xOtLSVJvYDQA\/iEBuzJn7WzFnDlsHkrs\/9geqyfNFIEomXbTaI626yAh\n=RN2O\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MercadoPagoTransparent\/0.0.1\/MercadoPagoTransparent-0.0.1.tgz",
+    "sha256": "7da6ea3af108d242ac25bf53e98e88a711ab7e1e884de55ae9be2409ff996890"
+}

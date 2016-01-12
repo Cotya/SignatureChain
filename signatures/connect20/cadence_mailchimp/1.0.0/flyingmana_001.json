@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cadence_mailchimp",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCToACgkQZi3Wes40mG6ZqAEAhVfeZa8QEhzh9fekum6cXPxI\nwNzP5SmCagTxuc7duy0A\/3TBuuBjLrzh1PmSq\/\/xDIeAqnNg89wSpLKGKP0Ck9LY\n=0VXb\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cadence_mailchimp\/1.0.0\/cadence_mailchimp-1.0.0.tgz",
+    "sha256": "88c26516b25c60cdbfe14b262584e6c39f41b7c0174682aba94efa406c1d99ee"
+}

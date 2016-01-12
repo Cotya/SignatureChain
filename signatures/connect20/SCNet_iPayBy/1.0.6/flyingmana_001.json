@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SCNet_iPayBy",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF8YACgkQZi3Wes40mG7SqQD\/VaSWlfHP45jPJ\/O4\/Kh2tRkN\nmvRu+AQWVrDVPD04TXYA\/Rmp7K+mSoHcCMPXOTIzTBXfimJC2\/owQyoL8HDrE2gf\n=e7qe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SCNet_iPayBy\/1.0.6\/SCNet_iPayBy-1.0.6.tgz",
+    "sha256": "3068085ae6ef252123a18cb9b8cf08f23bce57aa5e07f5707d18e4b66c62c113"
+}

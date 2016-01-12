@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Payment_Reembolso",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEIcACgkQZi3Wes40mG7IcAD6Ao8gGvRnozpINE95j2YuVZQC\nLCFdP40VvgfdhVAr4yUA\/3cADWD7eiGo+TMg4joq8VJKV\/PRgr7qwINFxjfSHRjY\n=60yd\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Payment_Reembolso\/0.1.0\/Payment_Reembolso-0.1.0.tgz",
+    "sha256": "27ede5fc8558f8443f2c1d53437166fae962c5ccec84ba53efdc75dfa1d18349"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paypal-BR",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEMUACgkQZi3Wes40mG7pAwD\/VHzDuH6WcjRFmRZUaMmZSBDz\nW2utfz7hajyMDPIZ0c8A\/A7AcGF7cPc7L25SzzU05lw5sDhlqowolvExu8gPHGR5\n=+Uvi\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paypal-BR\/0.1.0\/Paypal-BR-0.1.0.tgz",
+    "sha256": "32af10c208651a9ae8c6884964d05e924c3b3d440ed227f6d39f06ed2bb54e1e"
+}

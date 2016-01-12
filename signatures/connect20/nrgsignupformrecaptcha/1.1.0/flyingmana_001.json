@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/nrgsignupformrecaptcha",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC60ACgkQZi3Wes40mG7zRAD8DvGHR+W+ySnTqEinqbU4UQTE\nZyCD6yBUS2gy6JmEKYcA\/2h3wIA9yyZPpNmhnM2l0NcAgCf4VYbi4F0BNcPmoc09\n=DiXN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/nrgsignupformrecaptcha\/1.1.0\/nrgsignupformrecaptcha-1.1.0.tgz",
+    "sha256": "607b862b5cc75950711e15768b55ea12eaee6f98a5a43527b5fd3d9a98f524a0"
+}

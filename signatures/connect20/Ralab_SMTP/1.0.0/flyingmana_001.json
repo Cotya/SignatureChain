@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ralab_SMTP",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFQoACgkQZi3Wes40mG7LTAD\/Yn5ntPOUyzIU5i5TtbT0sMbE\n8UgcEPQUSyU0IkbkpJ4A\/3\/1xnDv7svQ6TQtwRBs8NFZqBEUb7dQkEgfk1OtODaX\n=XDEp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ralab_SMTP\/1.0.0\/Ralab_SMTP-1.0.0.tgz",
+    "sha256": "2cf68ec2e0cc61f5842bcf23782437145a46643736ba3df38c88d031b5dd61b9"
+}

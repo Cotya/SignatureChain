@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IG_PostePay",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdeAACgkQZi3Wes40mG7n4wEAqpKUSgmurmpYySdEQOyP2tUr\nx8DCaAYpGmzGl5gpftsA\/iZOWQOS3DEsVZm6stEg8Y+xhCdTEhQp9CztJxfJ0J+a\n=kK8e\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IG_PostePay\/1.0.1\/IG_PostePay-1.0.1.tgz",
+    "sha256": "1aa570fc94f637d10079b398bab4e94f6bbcacbd00ece3880317b68443a5e006"
+}

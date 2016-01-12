@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/diglin_languagecsv",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKx8ACgkQZi3Wes40mG76ogD\/Y+IXgHiTdMVLT9clyBDVXvn7\n1ecw0F3jIzBgSFhdekAA\/RBJvzbLUW\/gELq9kNAWbxmRfsxGH4RgE\/UMrzXN58H5\n=TuAk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/Diglin_LanguageCsv\/zipball\/762d85a01652115d72de3490a130e9f60d64a1a8",
+    "sha256": "2be85728f7ffb01ced49abdf5879e3b60e5534216bd4f58178aa838afe7f1bd8"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mobilenow",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBuMACgkQZi3Wes40mG4nvAD\/R5NsfqHh3HX1SQeS1AOqHtID\nd1OxyXo2tbOcVMQv\/CABAJ5838jNTwIrYSb7x6LJ0l1bMBMEXkNskDn+hxaLTaEp\n=h\/Ns\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mobilenow\/1.0.1\/mobilenow-1.0.1.tgz",
+    "sha256": "49ac1b706b050226eb46f2941da9c0692f0796969b53570fcdeb52735fb8e3a8"
+}

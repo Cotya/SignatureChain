@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Webformat_LoginWithPayPal",
+    "packageVersion": "0.9.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJkwACgkQZi3Wes40mG6ZlAD\/Xm7RgpM7xC3NmW1VXNqiYsql\nNAcHlSeLXayyK5YIaCQA\/3uOovDIEHztGV9Hm3lJOjXxkB2gy76fplecrp6U3ktB\n=Uzzn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Webformat_LoginWithPayPal\/0.9.3\/Webformat_LoginWithPayPal-0.9.3.tgz",
+    "sha256": "dbb9d6d9035a2dc0ef2ff3c72e7fd89466d865da51a27e4d32f8daa81355a506"
+}

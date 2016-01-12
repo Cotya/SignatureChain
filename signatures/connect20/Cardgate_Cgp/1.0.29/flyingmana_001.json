@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cardgate_Cgp",
+    "packageVersion": "1.0.29",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCV8ACgkQZi3Wes40mG77ZQD\/cTUmjnaUhlhXr+5tdOKS+nLb\ngFR3K6OhXXuvIBuiNooA\/jb2XFrWEpeKEfTdGKSQZmeNUOwBmLvC7KocsmNIvaxA\n=cAPu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cardgate_Cgp\/1.0.29\/Cardgate_Cgp-1.0.29.tgz",
+    "sha256": "a8c46a75c303291f366fc463c628b428e9397d0f344cad6cbe45569340ab314a"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ACHpayment",
+    "packageVersion": "1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAIAACgkQZi3Wes40mG5eeQD\/REPYGk3EosMsXxVUaDeHDKeX\nedkF5DUnnoOiN9w5YL0A\/3IcainG\/zGznPgGK2lNWUsGDsuz60wU+Od7EBGm5qdA\n=dNOR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ACHpayment\/1.4\/ACHpayment-1.4.tgz",
+    "sha256": "218ec34d1863e9666939675b049f60281807ac0153cb1b73838c2e46bdb9c970"
+}

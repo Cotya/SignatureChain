@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/idealo-Connect",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdaYACgkQZi3Wes40mG4+6gD\/Ta\/RtsZ5AaU0QUKzNeFNAiQo\n0N4q8Ae8wvTzRkXk7ZUBAIGTps8r6emPSBYAdEOhA3lYBEhLpQFLvQdaqR2gL41S\n=QNQZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/idealo-Connect\/1.0.1\/idealo-Connect-1.0.1.tgz",
+    "sha256": "3cea8b5817f7b4443a9777693ae11368f6003af995592366522947688316f568"
+}

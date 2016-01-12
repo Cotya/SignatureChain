@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IntegerNet_RemoveCustomerAccountLinks",
+    "packageVersion": "2.0.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdrUACgkQZi3Wes40mG7itgEAsT+jWZyaFhIBW7TF8wYQURu8\nF0FiJI0UTwaT30yIbwYA\/0pjXIx6uwl\/Jlb7nx9jDPiSmzQLX5sgtCJjHd4Naa\/L\n=VS1t\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IntegerNet_RemoveCustomerAccountLinks\/2.0.0.2\/IntegerNet_RemoveCustomerAccountLinks-2.0.0.2.tgz",
+    "sha256": "0641cc599427e6ad2ab002f86fc61f66cd4ab50605086d12d940b0f7acda0274"
+}

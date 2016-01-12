@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Konduto",
+    "packageVersion": "1.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe\/oACgkQZi3Wes40mG6stwD+M\/OooWIyXaCFtmg2PoMmkXWH\nZceDz8LBD\/iYInkTtJIA\/iDNvoKG8KuhfG0ydpcH6CnFSbbcs2L67RFlCacxYYus\n=alh7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Konduto\/1.1.2\/Konduto-1.1.2.tgz",
+    "sha256": "601ac3f0982833dc2bab2b53765a0f76995dd4e69cd82d61dadd80460b87e7f8"
+}

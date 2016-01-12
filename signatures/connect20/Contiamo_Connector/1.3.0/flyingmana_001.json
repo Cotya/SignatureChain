@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Contiamo_Connector",
+    "packageVersion": "1.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDrcACgkQZi3Wes40mG7A4AD\/U9fn4uU9MiymAQOGtV2SAAEY\niF3GxR6jhFBVntvzq28A\/3EWPXzzPdpXjkrN\/pQrGh8\/1VesmmPx5ez7o0q2\/7RL\n=QZvL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Contiamo_Connector\/1.3.0\/Contiamo_Connector-1.3.0.tgz",
+    "sha256": "2d939d2a387c5c655349117bada1b83f1eb16d7def31902f0cc13f4d2280d49b"
+}

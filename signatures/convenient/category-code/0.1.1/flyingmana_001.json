@@ -1,0 +1,8 @@
+{
+    "packageName": "convenient\/category-code",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKoIACgkQZi3Wes40mG7l0gEAmh4dSH\/cBEaLQwNAzVHmaMyV\nalshAGIYXyC9a27aC0IBAKrLYwCzbU17Hr8X0bBEIwT3A1my8fcVtpz2rMPLFYE0\n=BouE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/convenient\/CategoryCode\/zipball\/c139f80e375d76245d299f123b5948866e242f43",
+    "sha256": "ec4c2fb6c0daf863a9bf4d5e50264269b78a41574f7a5646ade7437612190d10"
+}

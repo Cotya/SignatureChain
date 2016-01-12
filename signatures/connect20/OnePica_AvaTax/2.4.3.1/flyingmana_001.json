@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/OnePica_AvaTax",
+    "packageVersion": "2.4.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDgAACgkQZi3Wes40mG4f4wEAlISI9Y4UNlrnDtGedhLXUCSE\n7a7LI6GyomuHSdoJPuMBAKxVlqx6fGwV8VZcVGCjNkkoYu+PChMWAhNt67gIW3Oi\n=+3l1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/OnePica_AvaTax\/2.4.3.1\/OnePica_AvaTax-2.4.3.1.tgz",
+    "sha256": "ef119ba80048e0326a610e0c596dc5150c20721b0af84abc3b0a2a793cf6eb99"
+}

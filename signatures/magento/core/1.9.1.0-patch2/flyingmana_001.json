@@ -1,0 +1,8 @@
+{
+    "packageName": "magento\/core",
+    "packageVersion": "1.9.1.0-patch2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUNJcACgkQZi3Wes40mG66IQD7BoLCYPNVfEFcaJWPu+5lG8Nt\nI80nMvS4o7R+11Rc4ygA\/RlWVR0vVhOP8z5ikT\/dSH5ACX4fYvsX\/3CZgqV6TH9x\n=ZUkU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/bragento\/magento-core\/zipball\/cd5d6f25b5404aec04370f0ef521f2c281f370b1",
+    "sha256": "bcd45ab53d9ab320e7bd5798a691576d201e3bfc18b5683f60198171f0775e25"
+}

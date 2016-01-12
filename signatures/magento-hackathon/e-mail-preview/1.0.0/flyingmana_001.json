@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/e-mail-preview",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMlsACgkQZi3Wes40mG6\/jAEAqgmY\/Hm7wmq7CFsjxZfUuo8w\n07W5+N0R+7L0UD+eKlsBAK+kT10Exlr\/Zv6yZs6xzxh3GhqNyYQoR+evtUb+ZhNW\n=qut+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/E-MailPreview\/zipball\/5844e58526a79879d3e10aca28dc6901eb7c542d",
+    "sha256": "b0b3e57d92e2cbe4bb6d847f747a667a89ef1a1bf336f001b44a21de2497c945"
+}

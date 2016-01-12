@@ -1,0 +1,8 @@
+{
+    "packageName": "evozon\/magento_base",
+    "packageVersion": "0.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULukACgkQZi3Wes40mG4LhwD+NHWzaLVJO8WHXJ9jLRVF\/u8S\nh7Qdb3iCFTTNYBz5ghIBALXOewGqVcHkTJMMKW6luJs33CKt+3bGvN9Mzl8R6JEr\n=FwtO\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/evozon\/magento_base\/zipball\/c9aefe1f46733995f3dcf36702176d7593e65d07",
+    "sha256": "a2263660e069dacdecc31a7affd713093c85fd3cb31ee14c680fd7c157cb387d"
+}

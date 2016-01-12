@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MaxicycleCom_Connector",
+    "packageVersion": "1.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBCMACgkQZi3Wes40mG4TjwEAi8h9XeJ6Dg7yrm3Bb9es308Z\nAlLPEZwfpQANBsDyEaMBAJeEFAmMcp7cAiKtV2aLkzv8yqbgX9c\/7vyJ5DMYk+Ad\n=Z9WL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MaxicycleCom_Connector\/1.0.5\/MaxicycleCom_Connector-1.0.5.tgz",
+    "sha256": "5e637cee92dbd484ae639647a22200d9965523a847ef39b27a2946cadc3ff487"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lindbaum_backendpayment",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTf30ACgkQZi3Wes40mG5O+gD\/dnof9Bcg64A8h29gDSavWkSb\nPBiaX4BDNSC+TR27C30A\/jDBk8ZSAakVHOUuT3mErrN07ggWhWLEHt9MlzpIo2wD\n=\/kag\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/lindbaum_backendpayment\/1.0.2\/lindbaum_backendpayment-1.0.2.tgz",
+    "sha256": "3188cc0c630905aac5bc92da03d93293e0eb3d5a1449cd08e18d3ac78b0714a1"
+}

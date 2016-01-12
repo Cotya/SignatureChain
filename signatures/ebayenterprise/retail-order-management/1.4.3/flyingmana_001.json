@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/retail-order-management",
+    "packageVersion": "1.4.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULs4ACgkQZi3Wes40mG5Q5gD\/RPjwTl1oejwa4DARh\/0Ocbyd\nr7PLXnkVwZCR7fqnaf8A\/Ru5q4PX3PrvpfgP7dpSyKBbSzzo\/4R619bD39cmd0lW\n=9\/8V\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/RetailOrderManagement-SDK\/zipball\/84c999554c064f5878247251b07bdb3b4b16e885",
+    "sha256": "fea95002bb76a7df63caa45d6f70d2669fd47fe16d347495f265736ab50d29e7"
+}

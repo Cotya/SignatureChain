@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/magento-retail-order-management",
+    "packageVersion": "1.6.0-beta-25",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULVYACgkQZi3Wes40mG6AHgD\/Zigv+lIndbQhpiervC3mAsfi\n0L8A5I+Szfq9n96Yc5UA\/0zHXJUDcBLnkb3vJDHAl2UEHvQdd+phojG5prtR8UnW\n=FjCw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/magento-retail-order-management\/zipball\/9aaef21f950d31f5bba0873c56453a86270face3",
+    "sha256": "35afef13000f76eec5b0f5b6bae1848eb58879df18d3ff9a49642ef3e55eaa97"
+}

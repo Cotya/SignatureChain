@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Addressvalidator",
+    "packageVersion": "1.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAMEACgkQZi3Wes40mG4yuwEAnCiQ\/A8SmwbpCBkLH0s1ZcoT\nlbvZBPvahAhUOa9t4tIA\/jOt0N4aAJ\/iacJGBmzYN5\/AHX7tidexW\/CPTFCWaYbY\n=AAVZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Addressvalidator\/1.4.0\/Addressvalidator-1.4.0.tgz",
+    "sha256": "306a451f1324b24d8d44a1b315ca488b3e62f6424b593df83dd2fc644411c978"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/TriggMineCartRecovery",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIsoACgkQZi3Wes40mG6BlAEAoFXGBrc5qlhdnI+XISN\/OVk2\n6j5FpJq90R3KRwZpcpIA\/1JtDEBLAARWqqZt+w4Cje2qweJ0dMWgIDuRbTlWUbeo\n=p\/dW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/TriggMineCartRecovery\/2.1.0\/TriggMineCartRecovery-2.1.0.tgz",
+    "sha256": "869f861dcef1fb1d29aa8cd4f0194b70d8d053125786cc386a36c5bd79236b45"
+}

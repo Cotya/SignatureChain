@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/dynamiccategory",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULxwACgkQZi3Wes40mG6EMAD\/W8Fx8r8F380+qAQ+INfMhw7U\nNVafkhQL87H9AAuvCXsA\/0\/nARSMtPFt7N4UNG0bUOqilRO5VXELIZwqYaKV6Rrc\n=uqH9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/firegento-dynamiccategory\/zipball\/595d1e047711c28756d80807d9334b240e6dbdde",
+    "sha256": "52953603ad07a5753b5e6e8a7c66083b1ba03d38296947b0fb76f1ebe339a62c"
+}

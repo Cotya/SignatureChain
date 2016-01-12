@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SecurePay_SecureXML",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUF\/4ACgkQZi3Wes40mG7+QQD4k7lGa+S5mfMWt2w5WR+u1gbk\nRxMAizOr+goFz4AwlgEAstxgYhZ54YnWTAcxG8I3GNYlHUEs6wuBRuAyTDF\/KhQ=\n=UUNA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SecurePay_SecureXML\/1.0.0\/SecurePay_SecureXML-1.0.0.tgz",
+    "sha256": "732937c52481042a696d003b7ca78fc44361385a4f8cbc8c3fda467338cd287c"
+}

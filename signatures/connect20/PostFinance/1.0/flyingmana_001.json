@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PostFinance",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEmEACgkQZi3Wes40mG6RIQEAneV+2tzfPxM74NSlMTo1pl0P\n0UmQDCx+\/ZJAo6elHe8BAJUXQ7TSN5pigGcAWKKDMjpFAPc+1FfWDXNqNoYngZCx\n=dPB0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PostFinance\/1.0\/PostFinance-1.0.tgz",
+    "sha256": "5825b47579b7e6d4c4092c71bc2f009ccec3eb5ce6ab637f4fced4204c1778ef"
+}

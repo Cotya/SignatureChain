@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/VWOPlugin",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJcMACgkQZi3Wes40mG5vGwD\/XRrxRsUzFpNtAcgEZJtcCaXl\nvd+kcU2KbVVzGKiU1rsBALXcdO7NyuElf0kh6i9nSDYm+b+xpMTYr9bqxnWg21Et\n=wzjz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/VWOPlugin\/2.0.1\/VWOPlugin-2.0.1.tgz",
+    "sha256": "6d119c987b046ae1a9ba62f42c3adecfeaecb5942b50b11ee28cf4570840ea3e"
+}

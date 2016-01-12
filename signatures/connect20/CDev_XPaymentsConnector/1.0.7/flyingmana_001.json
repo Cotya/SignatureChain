@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CDev_XPaymentsConnector",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCfsACgkQZi3Wes40mG41agD5AdFzFNQuYLGF1zsQYi3TbAez\nZ4ytD8qJXJ24I8qEq9kA\/3PBitVIM1gG2\/T+GpSkmxImIxnNKca6bQBlnCtY0AQk\n=ggLB\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CDev_XPaymentsConnector\/1.0.7\/CDev_XPaymentsConnector-1.0.7.tgz",
+    "sha256": "c3e5fc7f93aecf5f4335ece4d7b944b341d966726b24647db335e2ae25ad87e1"
+}

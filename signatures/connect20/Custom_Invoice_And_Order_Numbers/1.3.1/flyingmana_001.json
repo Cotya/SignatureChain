@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Custom_Invoice_And_Order_Numbers",
+    "packageVersion": "1.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD7AACgkQZi3Wes40mG4EpwD+I6rqTIWXESEtWIBBYiDQ8TWK\nNY+kX1bymlsW3Lmz9yoBAJEarjwyIZkBpbe3cS+zRaTajxDN0nkQCg49qXQ4gky\/\n=DHlU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Custom_Invoice_And_Order_Numbers\/1.3.1\/Custom_Invoice_And_Order_Numbers-1.3.1.tgz",
+    "sha256": "ca8ab5f32f0ea6f95b5605a92ad516d1d3f58772af66dc4342737536b56d7f32"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GroupDocsSignature",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc9IACgkQZi3Wes40mG68CwD+IDPBKglOTzg5sF0px+NJ4Qkr\n95BGdaf\/eHbrc4120+8BAK10a\/uJpMb+FMm3Gn+hiPsItWCgiFa05xzXoFrc4p1V\n=2Ynv\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GroupDocsSignature\/1.0.1\/GroupDocsSignature-1.0.1.tgz",
+    "sha256": "9911d54d066949a3196c24967a7456a101e9919cc8c91bfc70d9030488ba0d9d"
+}

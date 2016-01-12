@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cart_inquiry",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCa0ACgkQZi3Wes40mG5z2wD+NzSrafj7nssQT6+j7NqtHmNg\nbhh+4DfmxvCm25q2vCIBAIkEmOQHrL+872MNO46eM0Mrb+udaxwcdyPUB4gHvgtJ\n=BQj\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cart_inquiry\/1.0.0\/cart_inquiry-1.0.0.tgz",
+    "sha256": "7a988982da10d6b471a8b87d0d1afbb09a05ccd78e21b534c38d1a09f8e38730"
+}

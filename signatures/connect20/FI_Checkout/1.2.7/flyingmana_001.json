@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FI_Checkout",
+    "packageVersion": "1.2.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTajYACgkQZi3Wes40mG4aMwD8CwRFRmeKLirashsc++KAOD9T\nWiT72qfkawY31MlVEiwA\/2a+bHgcJAWlErL+QX8yMS8HjNrqg8q8As4D6Ay74\/UV\n=Aofp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FI_Checkout\/1.2.7\/FI_Checkout-1.2.7.tgz",
+    "sha256": "19403e96144387a38b7bfab91e199edcc30efed8c94084017c98e3c673559b09"
+}

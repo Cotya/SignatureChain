@@ -1,0 +1,8 @@
+{
+    "packageName": "itabs\/logviewer",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMFIACgkQZi3Wes40mG614AD\/UwvB6rjRScwDIwem+JSWGxM4\n45KSO7nt5kplTzTohdEA\/26oLlwwoyosgAomm+4ezoYPGWEueFyn5JQGsmQDiejl\n=nW0f\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/itabs\/Itabs_LogViewer\/zipball\/af4d0610478b44cce558897d2dd1f2d74be89506",
+    "sha256": "94fddc5e59b7be4efc47e8a061c80d7c2974f0f3673c71262837967f668ab881"
+}

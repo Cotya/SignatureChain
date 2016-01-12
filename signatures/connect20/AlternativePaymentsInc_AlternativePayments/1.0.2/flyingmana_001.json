@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AlternativePaymentsInc_AlternativePayments",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAtIACgkQZi3Wes40mG6SxgEAk968KLh0BKtX+FeGFGsP8dZr\nmpbjGLYJMb3KRVHJqyABAJ5lwhx5+U6bmmn3eWcm6+PxHH5sItkaMXC2zP2vEW5d\n=8Urx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AlternativePaymentsInc_AlternativePayments\/1.0.2\/AlternativePaymentsInc_AlternativePayments-1.0.2.tgz",
+    "sha256": "aef30193c4f9f80cde9c14a9384b89a89cbea4136ab01b8fe0c7b8b92dfe6a7f"
+}

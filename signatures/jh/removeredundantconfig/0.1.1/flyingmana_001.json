@@ -1,0 +1,8 @@
+{
+    "packageName": "jh\/removeredundantconfig",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMHcACgkQZi3Wes40mG6oigD+LNOPxYNRJjfrQX0hp8451Pfo\ncCtaOtsy0iOMvJhAdpcA\/Ari4my6LLH0gtvMQ12rBJW9hKyCD4vphwEJQyt69j8+\n=dF4g\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/jhoelzl\/JH_RemoveRedundantConfig\/zipball\/89bc6b8354f8aee234263cc5235f534c063838b9",
+    "sha256": "10728600317976cc4ce8b2e7656701575a7c14ffd6deba5164f6f54b7b28bd68"
+}

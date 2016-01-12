@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/nypwidget",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC\/gACgkQZi3Wes40mG7mEQD9GErUMfLMh4+m+uAAdINFseip\n2fnBmKyZtEtaUJXQLYkA\/30vdn7hMlw0TOEwNJDcHJ8l3cdPrDMLPWa9tJzUAQO7\n=ZAK4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/nypwidget\/1.1.0\/nypwidget-1.1.0.tgz",
+    "sha256": "44e3d68b143f496a62158cada44e1833052c55e0c096ce0cca6cd49393dd9b31"
+}

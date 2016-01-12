@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AAIT_Payex2",
+    "packageVersion": "2.0.17",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/2QACgkQZi3Wes40mG7uYQD\/dc9ZB\/NkPMOUPQbPZV1eTkdp\nBF\/VKjgkIO+pmCcUJvcA\/jFQDQcXwSTOaZ9fmft6DgLLjlma2bhlp7ss+kRbd+11\n=OgWV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AAIT_Payex2\/2.0.17\/AAIT_Payex2-2.0.17.tgz",
+    "sha256": "86963251b4549044ddba005a4068d12f5c127514bfbd89dc6b7fbfc36fd65331"
+}

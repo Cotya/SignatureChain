@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Navadmin",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/8YACgkQZi3Wes40mG7g\/QD9EL3gE2CTQ19HELpYMp64WTru\nMZCs1+07NJkkzOewpakBAK6ZEK\/CyjoR2Yr6xYv8kJ2nMkOrGH6am3hSSBIS6\/rL\n=X+eU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Navadmin\/1.0.2\/Mage_Navadmin-1.0.2.tgz",
+    "sha256": "f6415683b1e10fb04adb20cbf0e97a8c30fc5f840fe048acf6cd913bce71e980"
+}

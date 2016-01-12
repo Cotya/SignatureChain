@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/h5mage-commerceapi",
+    "packageVersion": "0.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc\/8ACgkQZi3Wes40mG5q3AD8C668yHqdupRNDRQOoM7YyC+s\n74543HfyItgUclWIYI8A\/RXkpiVq0zwDIdHw9pcdtgjcmyZ61EWnk+7HLv2CMjSM\n=6dfy\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/h5mage-commerceapi\/0.0.3\/h5mage-commerceapi-0.0.3.tgz",
+    "sha256": "208cd636772b0728fd887f975a30fdef809369e524d672bdb927fac912584b66"
+}

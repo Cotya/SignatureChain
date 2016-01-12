@@ -1,0 +1,8 @@
+{
+    "packageName": "itabs\/customsku",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMFAACgkQZi3Wes40mG6kmwD+IPdOa844nfvWaOXbQxxLVQP3\nUicf4\/yiaB9C+dSgiMoA\/3alHZ0CEkgaYfAnkrbf5Y9kWskBuMG6ic\/F\/TsjQ4VT\n=eo3H\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/itabs\/Itabs_CustomSku\/zipball\/d19c03c1eb1c89195a4ce79830b68a6a4245561a",
+    "sha256": "8128d21cc963bb4d9983dac100cc1db336e7131021ce0d20babe78a84f3ad15c"
+}

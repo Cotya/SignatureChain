@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/m2epro_ebay_magento",
+    "packageVersion": "6.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgeEACgkQZi3Wes40mG4kuwEAiJLNzCZ1jVa4N9cTYj8JGib\/\nwnBm8xEh5ZYFcfZXlggBAIDdMq6UjjXlpyD4Rc1zj3xP4j8GsqwREX+TNJNU70f\/\n=g9W2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/m2epro_ebay_magento\/6.3.0\/m2epro_ebay_magento-6.3.0.tgz",
+    "sha256": "e1e551d6240f9c07bf1bc4b5fe032a6973cbd3b73aaa63e3a932cb0a121e295b"
+}

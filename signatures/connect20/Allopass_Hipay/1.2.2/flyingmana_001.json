@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Allopass_Hipay",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAsIACgkQZi3Wes40mG5ETgD\/VJD0aZxGmQX\/ihPpmmXdcbTW\nqYIFTacRnCKJ0M3K1XMA\/AssCcgcbf7J0842DkeQgyAqQ6jfBaRQ\/K0oUJf3U5tS\n=JE3l\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Allopass_Hipay\/1.2.2\/Allopass_Hipay-1.2.2.tgz",
+    "sha256": "bfa9e5b534f403858b9bf62e1f1275c9ee66bde6003a0c07982fc4a070716bb8"
+}

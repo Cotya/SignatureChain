@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ip_redirection",
+    "packageVersion": "1.0.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeW0ACgkQZi3Wes40mG6aoQD7B3dSMFUN1M7H5CzfuJ4iFmnI\nGSbbknnWWkDMY0w2tq8A\/2Knu7nNBRdICNe7iIeVrAguAhefXLRLorbSDdgEi8a7\n=pGf2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ip_redirection\/1.0.0.0\/ip_redirection-1.0.0.0.tgz",
+    "sha256": "5889d797fac7006aa8d926e69c0a460908963ca820f102fc6a80fc87c069e277"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mh_fp",
+    "packageVersion": "1.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBVAACgkQZi3Wes40mG4nZAD\/Yq\/Js9MjUAwkrXsXRWXfiMuQ\n1JhGvTm5sPbFNCHGLY4BAJeNKM06g8lmMx0RuXqF460e1tz9e5X690n7W9OShDhW\n=2j4l\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mh_fp\/1.0.5\/mh_fp-1.0.5.tgz",
+    "sha256": "7ec28c16df83e54be087d83c7f49945d447a1a2168e781bc63d8054122c06db9"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NanoWebGroup_ElasticSearch",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCb0ACgkQZi3Wes40mG5fEQD+IebJy7KMP91Bdji\/qNtespZM\nLllxBTGIZUXZr1sXzB4A\/02nB6\/OPLmNzQov9Q5\/dTKcbUZ0qhEmiywr9fSf1M0e\n=5cVR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NanoWebGroup_ElasticSearch\/1.0.3\/NanoWebGroup_ElasticSearch-1.0.3.tgz",
+    "sha256": "617a929c9be95a51c891c17dc2cea221a327851ba8c53e2edba40b92692f42aa"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NRApps_TSReviewManagement",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC6oACgkQZi3Wes40mG5tsQD+O4Y4jBeGtS++7q5tB59dxmHY\nzj0eIM3lDot4qhEIHZkA\/1sZ4rnkDlXUASZelApc9y4DuHFanZc2F12oRPavvPl6\n=81DQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NRApps_TSReviewManagement\/1.0.0\/NRApps_TSReviewManagement-1.0.0.tgz",
+    "sha256": "f30c28a8ccd823fff70e25d405ae83b802a67eb584c91278cae93dca2cdec03d"
+}

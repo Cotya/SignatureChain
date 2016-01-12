@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/antidot",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAywACgkQZi3Wes40mG7etwD9HE5jMHzSr4jTUjEJqNap9\/Dk\n3IVZzZA735GRVUcP3A0A+wexU+Zwo2ERLWqnxXdvGfAajEpmlw+fVKhs2NRSLO6W\n=tfPJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/antidot\/1.0.2\/antidot-1.0.2.tgz",
+    "sha256": "1301087c1e7336b2b86e66a0fc9b5e6a755d6be05136400eac1a66c9fc7321b1"
+}

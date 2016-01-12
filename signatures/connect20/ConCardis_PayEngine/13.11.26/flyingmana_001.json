@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ConCardis_PayEngine",
+    "packageVersion": "13.11.26",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDcIACgkQZi3Wes40mG519QEAqgu1NEsK4T3Bq7B\/sju1FbLs\n1eN2DPPucENLVtUCUPABAJVy2DXtwfZnkJIVYnSAC6hdDWnL7nJloF4rwEY\/ADMK\n=pAk7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ConCardis_PayEngine\/13.11.26\/ConCardis_PayEngine-13.11.26.tgz",
+    "sha256": "ce67d5d0e7ea38618531cc48972d34ae9ed35b2ae2826507116d6728297385c3"
+}

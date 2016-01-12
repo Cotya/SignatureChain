@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PayRandom",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUENQACgkQZi3Wes40mG6MgAEAssRSrHllsfyZ5Bs02MPFazSE\njjinhLSG+kP0U4A9bbUA\/jIfkm33PQJ8Zvnh9kI8fN9Xu8ZDaq2tTRswg2bbSEJe\n=gOqa\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PayRandom\/1.0.1\/PayRandom-1.0.1.tgz",
+    "sha256": "21b55ae5ad498a86c3cb58596cf901f21838f8f2539b2f0ae7c18bd262cafcca"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Google_Enhanced_Ecommerce_for_Magento",
+    "packageVersion": "0.5.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc4oACgkQZi3Wes40mG4DIwEAgMy3u0FuSWLRu60WPNg05ETD\nDTlQnX4ly9kxKK39+9wBAKMS40+MWU2WK1bKRIVE19yJmT2lr0CmP1pcEeJvhVU5\n=uCnV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Google_Enhanced_Ecommerce_for_Magento\/0.5.4\/Google_Enhanced_Ecommerce_for_Magento-0.5.4.tgz",
+    "sha256": "bc5dab429345c6764311bcba378e0c52e8c68626620a38fa8086a8b6819ca4b4"
+}

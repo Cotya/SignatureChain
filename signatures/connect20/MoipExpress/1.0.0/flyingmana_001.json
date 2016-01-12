@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MoipExpress",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUB6gACgkQZi3Wes40mG7MWwEAl+4YWArtoaOQwKzll7Chntz6\nlPBuhVx7t+O9BNnB82QA\/iCJKvlW1THOvAG+W0G90fjR3oTTfYaQjcCA28NaGaO5\n=Z9LU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MoipExpress\/1.0.0\/MoipExpress-1.0.0.tgz",
+    "sha256": "fec697572e556b8fc75981729d9f451113807403871276ef278581988f996bbb"
+}

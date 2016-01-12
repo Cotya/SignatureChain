@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Glew",
+    "packageVersion": "1.0.14",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc18ACgkQZi3Wes40mG4ZYwD+LsqmL4BJh1x1t86PrX0NoUr1\nNCnWA\/QxMneYzCGGma0A\/RBaO6bLfq8BamTdc3CC+2OPhpTAqGOoaa3yTvP7bHfK\n=tSn\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Glew\/1.0.14\/Glew-1.0.14.tgz",
+    "sha256": "a12869edf9b2be956848d3102b708243d37c233a3993771b43f523485cf77a48"
+}

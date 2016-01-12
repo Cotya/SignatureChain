@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/IdentityMind_AntiFraud_Magento",
+    "packageVersion": "1.0.24",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdacACgkQZi3Wes40mG4YNQD\/c\/uFYxkIdeP1zfRY2h3J8+8F\ncx\/+u2noF8R6AJokxh4A\/2cReS38RJbbG5H\/vdwrU4sf8\/XV60yRAWFpqjd9rRua\n=N2F0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/IdentityMind_AntiFraud_Magento\/1.0.24\/IdentityMind_AntiFraud_Magento-1.0.24.tgz",
+    "sha256": "aeb47debc54e28c2c0691ae5f7278fb5fd1f8c370d40b0c04b0a7c12bf3026d2"
+}

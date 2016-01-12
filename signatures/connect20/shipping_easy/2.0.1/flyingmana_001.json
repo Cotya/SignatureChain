@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/shipping_easy",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGQEACgkQZi3Wes40mG6qhgD\/Uz8pLsgxL4nPE2acZgz8OTFs\n\/RM9u+dqux4F+z+BpMkA\/0+j6fV48W\/i80zsjUTWwv3d1+besIALIwTf584r4f9n\n=43yq\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/shipping_easy\/2.0.1\/shipping_easy-2.0.1.tgz",
+    "sha256": "1038dfd2cec5cf842b9cbf1e2c6a41c2a9c3184e455d4a06d49b2d24ae9cc32d"
+}

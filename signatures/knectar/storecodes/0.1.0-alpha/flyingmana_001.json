@@ -1,0 +1,8 @@
+{
+    "packageName": "knectar\/storecodes",
+    "packageVersion": "0.1.0-alpha",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMgkACgkQZi3Wes40mG6oPgD\/fswbSk6BWNPtgUmHs24TuXE7\n4SvUEx8wFT119tEHXJ4A\/3hDlza2EzB2ReErc1rXIZMK5zVL49DfBiuGvp6WCjlt\n=eiJP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Knectar\/Magento-Store-Codes\/zipball\/9139b37ccb66ce3251cb562dee2bf25459195233",
+    "sha256": "2347cfe50fc362a60ffa93c36001144ad854601bd811f367dc27c7f6111c70fd"
+}

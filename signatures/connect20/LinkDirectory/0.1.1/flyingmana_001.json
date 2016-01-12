@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/LinkDirectory",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTf4QACgkQZi3Wes40mG6LrAD\/ZTmxbG1OCA29MRYZ21GIWaBx\nd6bIFvdM+TKVgDGCUNwBAJdVutCnJWJKs9PAxI0Zt1T6BZLq78A6GUgFk31k1lAy\n=NevV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/LinkDirectory\/0.1.1\/LinkDirectory-0.1.1.tgz",
+    "sha256": "288e1c2841b7c28db2c1f79311efe53076dce39032759be622db4f8beb2fda37"
+}

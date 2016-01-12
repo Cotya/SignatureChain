@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Payfirma_Onsite_Payment_Gateway",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEGQACgkQZi3Wes40mG69gwD7BpTVX+B2PWr4DDkmEkMhZi+R\nabNKMBtbq2h\/g0z3i5EA+gL5sol3fYIjohjy9LpQ\/RQqbJi\/HHd0rPPm9+AF6Rs8\n=zoOQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Payfirma_Onsite_Payment_Gateway\/2.0.0\/Payfirma_Onsite_Payment_Gateway-2.0.0.tgz",
+    "sha256": "7ef54023f4e897414a9a234e5872ecb8fe47074a2b59ef4fc6d48f1e006eb864"
+}

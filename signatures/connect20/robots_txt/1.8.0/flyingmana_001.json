@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/robots_txt",
+    "packageVersion": "1.8.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFyAACgkQZi3Wes40mG5v5wEAgAgvEwdn7PNSXWGKfdYMCf5U\n+tNyVs4sy4p4SQTQmPcBAJvkM+8F8FJDxX2E3xnEb8oRGst3khJk+KPw2ZWAvDVh\n=qEKv\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/robots_txt\/1.8.0\/robots_txt-1.8.0.tgz",
+    "sha256": "0177f2c3b2a9539a795ae9f6bac0124927cc478a7fa362ebf647252bd3c7da92"
+}

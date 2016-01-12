@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Springbot",
+    "packageVersion": "1.4.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUHk8ACgkQZi3Wes40mG4gngD8CIcG3BtzsoSe7bUIgz5aetiv\nCIwJFgpKSrWcPCPFcfgA\/RCE2ZHBu7OooiXro8VJ9DhHxBYWpkztp33Z86fJ0jgl\n=MGfR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Springbot\/1.4.0.6\/Springbot-1.4.0.6.tgz",
+    "sha256": "744845802850b457e2875cdbc6c1a78bd7ae6571c5bf02e6ee0b281db434ed77"
+}

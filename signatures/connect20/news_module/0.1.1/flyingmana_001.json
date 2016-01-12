@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/news_module",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCooACgkQZi3Wes40mG6jCAD\/dPOb8vEvTZkio6t1ZhKxErEw\nQLWSMUjuRXRUE7OmWW8BAI2bA4alffDMUySXd5Rvh6+hH\/COHw\/VkbVZCPelH79\/\n=aFem\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/news_module\/0.1.1\/news_module-0.1.1.tgz",
+    "sha256": "8548dd7ccdd0151b60406a61bc75b648eb11f45576871aee043111fbf6262783"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/proxiblue-newrelic",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFAYACgkQZi3Wes40mG7mEAD8CoDXjq0sv8w5mGG5\/RGvr3IM\nj5BBSc4oqPJkFA8CazYA\/iUI9qRCsSjBVCqKGOk835lfhg+uc+7nk8ovFBb9nti9\n=cHCt\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/proxiblue-newrelic\/1.0.0\/proxiblue-newrelic-1.0.0.tgz",
+    "sha256": "7fef17a32e511c58b5ddb612a653cb926d8dbb704fd23bc0377353dd06cd0eda"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "luka\/mage-google-adwords",
+    "packageVersion": "1.0.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMkUACgkQZi3Wes40mG59SgD\/VT5D7haIk6\/UbwQocH+0+pxZ\ncVpINDfmqGF1jemVpZgA\/R\/uDzDMDpC0vDgSO9Y7fTnauBz32iB9J7voo0X9EOI2\n=19wu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/lukanetconsult\/mage-google-adwords\/zipball\/66d8aa89ebbb7c94b39dd714c6455bfdfab0f6b2",
+    "sha256": "21a62255526b96ceac696670de0c09edea4a32d209b5fa3b4ff92acd2fd70160"
+}

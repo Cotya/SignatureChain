@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Adventos_OrderExport",
+    "packageVersion": "1.3.8",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAQcACgkQZi3Wes40mG7zJAEAlSX2s9Axqa+LdZr8xXBOdW35\nu0Klbxtfr80rm0dEDV4BAKH+HY2qXzL9SKmozI8sXZdnAj\/BDdhk\/XQAErAgkN6R\n=wE52\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Adventos_OrderExport\/1.3.8\/Adventos_OrderExport-1.3.8.tgz",
+    "sha256": "3c65d13b0bedb755faf3435545c55e8ccb1e172445bf47a0ce80b6426efe206c"
+}

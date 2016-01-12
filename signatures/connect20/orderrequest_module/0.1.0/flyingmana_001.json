@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/orderrequest_module",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDvkACgkQZi3Wes40mG5jngEAl3ed6oZbJMyZyeh3IwkHB4Dw\nsZo8IX1n6o2FJQ1XobIA\/i9wwiFXCrE1EGpfmjVObJpNzmjYRFapwJax1ECCTyQM\n=aVMl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/orderrequest_module\/0.1.0\/orderrequest_module-0.1.0.tgz",
+    "sha256": "0d54946a7df5665158f2615139b0918dc1ef7c66ef756dec667e27d587b9300e"
+}

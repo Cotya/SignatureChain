@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AuctionInc_ShippingCalc",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBEYACgkQZi3Wes40mG45gwD\/d5NX6tZRZNcKB59FPiAwP\/0p\n\/MMyu4Pr+tOA4p2M1kgA\/Reyj\/9rbvc5Uwv8zex7bcPUOLw5Fn3wV4fCcggD695E\n=9S7+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AuctionInc_ShippingCalc\/1.1.0\/AuctionInc_ShippingCalc-1.1.0.tgz",
+    "sha256": "470571d2d4defdfc7cfa3f5b52e609ce2e896077029d53c7595915a75bef7452"
+}

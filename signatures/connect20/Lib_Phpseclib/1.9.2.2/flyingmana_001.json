@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_Phpseclib",
+    "packageVersion": "1.9.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfZcACgkQZi3Wes40mG6ImgD\/QIiO1WvH0Rk883Du0QIKc8fP\nw2qZzE9wBOvixV32XEgA\/3IFFHGT1JMBRa2ICT+mhFfSiiXp7P5+FHyhnAsC5NmK\n=Z0P5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_Phpseclib\/1.9.2.2\/Lib_Phpseclib-1.9.2.2.tgz",
+    "sha256": "dd8cfdade900c9487a8809499185e3e69a5b77bfcc2373714d77f4daf892bae9"
+}

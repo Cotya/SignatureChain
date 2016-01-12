@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Kodecrm_Feed",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe\/QACgkQZi3Wes40mG4XdAEAnXfsuxRAkn2vB9YLJCSfjhbM\nxwLldGk5P1kAIGqvTNEA\/06Tx8FrQB8HjbD+4yHDBVJktlIpHyadbnvkiKS10Nf2\n=iN8i\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Kodecrm_Feed\/1.1.1\/Kodecrm_Feed-1.1.1.tgz",
+    "sha256": "1e159d6671f4416934b18ed23279e5f7884953dc9c9c53e1de6c3df6dc572271"
+}

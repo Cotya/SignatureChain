@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/freshdesk",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcrwACgkQZi3Wes40mG6VLgD9HUv9hwe1dWy+WmOc4x1CQkG0\nA5bjEjFjZ8wvfjv+isQA\/i5eyDVtrOo7omsYiu7xUbV9bRn2owEbY2n\/ot\/Fj34u\n=TVuP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/freshdesk\/1.0.0\/freshdesk-1.0.0.tgz",
+    "sha256": "00289e3ee95a69080d5fb0a17f523bb5d2fab83088e84b023be12245b12d2a01"
+}

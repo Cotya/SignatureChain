@@ -1,0 +1,8 @@
+{
+    "packageName": "clockworkgeek\/rememberme",
+    "packageVersion": "0.5.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/tIACgkQZi3Wes40mG6cfwD\/e4Rvh3OzJQOuJj5GSq5eX69K\n8C8Tk9o9uRHpGHxiT0cBAK68ji5K3ses97UXFoh0NW5AtRhdm\/TAxA7QQ5RVMm2d\n=H\/IY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/clockworkgeek\/Magento-Remember-Me\/zipball\/dac29c6717d84179e6f74a4f929155ddf3d45304",
+    "sha256": "1a5cca203f88fad348b71d86b9987da090a3a86fd986bdbd6210d52070281b18"
+}

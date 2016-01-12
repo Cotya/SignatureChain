@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mcafee_secure",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBDUACgkQZi3Wes40mG6KegD+MCKeObdmCP9YN+\/6vttALAkm\nFhhfNfxCt5Wv6YhOvbwA\/0bue5TIzh6DmDWvJYMLRcFwwLVN+e\/rcKP3fQCqzXXT\n=dRcj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mcafee_secure\/1.0.0\/mcafee_secure-1.0.0.tgz",
+    "sha256": "344dcf2c1483558cf42bf95c2de0d3848c7e55303589f9fa1c3126e19a9e1d6c"
+}

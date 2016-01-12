@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/freetrex",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcqEACgkQZi3Wes40mG7OpQD\/bLRYcadE1uqBvNYhu7uNH2F5\naneITYW9E4crnyIt35sA+QEfJEVGjFetGQ\/ysNDeGvSbcV2TllF\/F9IGn6h4n5FZ\n=jqw0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/freetrex\/1.0.0\/freetrex-1.0.0.tgz",
+    "sha256": "de55a09e4d94987e1d8223b7b57a1c71bd812c96b719ec710bb4f727ca585854"
+}

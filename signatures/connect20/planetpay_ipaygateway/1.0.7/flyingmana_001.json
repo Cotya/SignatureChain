@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/planetpay_ipaygateway",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEdgACgkQZi3Wes40mG4NzAD9HcUZgINMqqQ1AowKFNBrnFFo\nzFJbS+qGxcw1JOq0AW8A\/2rQdoabXsc0i0\/Ul2bOMRwrMILrgrSlpry7k43H0TCs\n=vq\/s\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/planetpay_ipaygateway\/1.0.7\/planetpay_ipaygateway-1.0.7.tgz",
+    "sha256": "57e60becea6257c97f79f4e5f638c939b5dd5fe5cc71010e47c3bb941cf08e5b"
+}

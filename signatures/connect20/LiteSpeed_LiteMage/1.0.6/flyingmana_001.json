@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/LiteSpeed_LiteMage",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgC8ACgkQZi3Wes40mG4jdgD\/eJH17t70RoTlmIBRmY5Fh9l9\nB8g+LwDHkDk0DKS1qKEBAKT4PKW\/w99pZ1VPhLbLf18GUIoGMFI7dsP5xKTENlrr\n=NZrg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/LiteSpeed_LiteMage\/1.0.6\/LiteSpeed_LiteMage-1.0.6.tgz",
+    "sha256": "d03f0f8b77aff1a402859da1600d87d56fab3648ca1b2e9efad34489f5da2026"
+}

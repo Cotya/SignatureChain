@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PutlerConnector",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFEEACgkQZi3Wes40mG5EWAD8CZF7Az1Unb6sTZUnWEDa83pK\n4UZMWy8HMuD1RCHK7wQA\/3VuUysQMLB55K+vaiFvm4FXfcXDmQ7mRcxyCDZ922VP\n=M9z6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PutlerConnector\/1.0.2\/PutlerConnector-1.0.2.tgz",
+    "sha256": "e7617589cd59fb5c8fa6601967b2e4d51fba562ab9390906adbb3ad502b06745"
+}

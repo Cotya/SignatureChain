@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/rack_jp_core",
+    "packageVersion": "0.9.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFMMACgkQZi3Wes40mG4tbAEArtNch53Uwai3kjbu9iHVnrQs\nI3A+19l+p4R0OiYSHVoA\/10HBp8G7Bcwtlmlp6\/VXS0O3t+HiPc5lB8UL+E1J3kL\n=\/PQS\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/rack_jp_core\/0.9.6\/rack_jp_core-0.9.6.tgz",
+    "sha256": "601ffd4bd662a652945aab71a6419dff8f5f2acf7393a1e85392f6b62d50c020"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MVentory_API",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCN8ACgkQZi3Wes40mG7r2QD9H\/lsx\/75cNLHgeCs0skJdH9l\nhtPgCksqEFxI7hwU6VQA\/0tG\/TqanUzi0ejVv653lI\/5WeqFN0naGrK3zCC+r7Pt\n=MJrh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MVentory_API\/1.1.0\/MVentory_API-1.1.0.tgz",
+    "sha256": "07900c9b2da991e3a69635092f7337790dce83019ae62afbaaf29bad72a36b3c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CashOnDelivery",
+    "packageVersion": "0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCcAACgkQZi3Wes40mG6YFQD+OUZlEl9kJGTxEUQgSb9dWaWD\nLFwSKrhBifYgfTTs7u8A\/2eiPvY7gE7bzMS9WpQJhQe8+YkwF811iVNT93wYXTI0\n=Q6DM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CashOnDelivery\/0.3\/CashOnDelivery-0.3.tgz",
+    "sha256": "5d1369ae854dd47928446da695ff249d7bebb7d5f3026bac7498008ffcf45965"
+}

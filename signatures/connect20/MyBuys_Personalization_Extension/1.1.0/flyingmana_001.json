@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MyBuys_Personalization_Extension",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCQsACgkQZi3Wes40mG6q5AEAoZy2eWMqpzbdOpvD0m7cykK+\nhbLBcV7lkZUAeQuynu4BAKaL2K4abdenIS\/EnUjv7wDP6SlWvEtsHoVAIy+Dsk0p\n=cQHb\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MyBuys_Personalization_Extension\/1.1.0\/MyBuys_Personalization_Extension-1.1.0.tgz",
+    "sha256": "0f878d6e813116aeef03c9986764e2c76022f60005ca31bca99231f1b1bd3e47"
+}

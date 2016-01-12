@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Woopra_Analytics_Event_And_Visitor_Tracking",
+    "packageVersion": "1.9.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJ3YACgkQZi3Wes40mG7WwgD+Pxuyk2xY+w2u6zt29ZVmk5Wv\nWdxZo91bXblCroKrwk4BAKMIX4310Krk4LBB\/pSv52V09eDFtdw7VVK1tkH+fyWZ\n=F8ZZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Woopra_Analytics_Event_And_Visitor_Tracking\/1.9.0\/Woopra_Analytics_Event_And_Visitor_Tracking-1.9.0.tgz",
+    "sha256": "8c2677a4ea372fddc5e04555455dc4f167bf406c35c9d6b48f54d453f775cf5c"
+}

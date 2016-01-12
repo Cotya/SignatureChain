@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Sendinblue",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGFcACgkQZi3Wes40mG6O7gD\/dPk1gKgpYq6AAApYXSQb2OK1\nYQaC3bIgqSa08bVgzK4A\/3bwj7PU6ekvyp5nGpfhJze7T8hNw6ZojinI\/x29sbEb\n=aqSz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Sendinblue\/1.1.0\/Sendinblue-1.1.0.tgz",
+    "sha256": "7234b5da41cfc60f605e0c3dbfd686ad732d83e8e5a5712b27a48ad3923d2f94"
+}

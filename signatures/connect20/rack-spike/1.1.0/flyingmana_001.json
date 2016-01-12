@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/rack-spike",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFLYACgkQZi3Wes40mG7K6AD\/TyftFnw5VaEGL93at9BZqqBt\n8j3pJZlZaLU+SZaWRXEBAJ17rr8gIh2p2nfSYYshYQYmWZhkVfpzdnrAz5o0j5Rf\n=qOSW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/rack-spike\/1.1.0\/rack-spike-1.1.0.tgz",
+    "sha256": "43ee2a921f37924f57c677796902e3d1eb26a035a7c1e5109bc054692c98fef0"
+}

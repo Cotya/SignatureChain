@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/aw_blog",
+    "packageVersion": "1.3.5+fixed",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBWQACgkQZi3Wes40mG6ZGAD\/ZeFc6x3B+0iDu7Ly6BlxDRnY\nHwboQztWTsSkxEljc\/IA\/A+Ft7nTzKFVI5UGmGdY2ba50kv4\/q4fHRz0jx3jtPoH\n=7UJ+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/raw.github.com\/magento-hackathon\/composer-repository\/master\/repairedConnectPackages\/fixed_aw_blog-1.3.5.0.tar",
+    "sha256": "227e50ebb45f14734b2315fb8398763579a2772400f4a05fbd80dfdec0276f45"
+}

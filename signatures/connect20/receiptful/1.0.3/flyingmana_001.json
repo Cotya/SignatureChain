@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/receiptful",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFbIACgkQZi3Wes40mG5G3AD\/QHRsyoNmESvDOlEgm+KZXPAs\n3jYbVt1NCCSUoTQLm3MA\/Ajalhg4ghtw9+ClBlWAhAkuhiWbWcfLZB\/cRpUgCxNf\n=GeZb\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/receiptful\/1.0.3\/receiptful-1.0.3.tgz",
+    "sha256": "e0f1f713099dc54821e899e88ccff0942db09ad505f575e3b53828f00e473b34"
+}

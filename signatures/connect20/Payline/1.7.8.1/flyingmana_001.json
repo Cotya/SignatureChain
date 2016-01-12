@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Payline",
+    "packageVersion": "1.7.8.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEHsACgkQZi3Wes40mG6jHwEAizMJwNvanET\/m2ldb9\/DOOWa\nTsIgd9B9RvVdU54S+DcA\/0B9CN\/5MMqxBWxNdvAYZeXYCJu+5O4lVx9n5wt1BGvB\n=t7Do\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Payline\/1.7.8.1\/Payline-1.7.8.1.tgz",
+    "sha256": "468b759d8ce4ae31e56df6d033a74fcff431c6db14ad99deaaab8cadcf6cbf87"
+}

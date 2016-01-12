@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Apruve_B2B_Payment_Gateway",
+    "packageVersion": "1.0.10",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTA50ACgkQZi3Wes40mG6YeAEAsVcW1kJ0bhDM0d3+GuXvbClO\nVIHF6mKyKYxKwej9PLcBAISO+PKpmlS6IK8C2y3j+dz2GsnJSoYaVRHian10FF5l\n=A8Xz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Apruve_B2B_Payment_Gateway\/1.0.10\/Apruve_B2B_Payment_Gateway-1.0.10.tgz",
+    "sha256": "c7b8c8da8c8b4f2c7a1ca8d20071caef2a4c458f4297fae98ff20ebc603a6ff3"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Payson",
+    "packageVersion": "1.2.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEOoACgkQZi3Wes40mG4DXQD9HI5ezzvqE4TWH98wmH9NqF4m\nPXY7uSjWOl\/YqVtAoIYA\/1ycFJlggOALJhz8cGlhGq72fJaAMesU6ZvA+KIbuAUk\n=L6v7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Payson\/1.2.6\/Payson-1.2.6.tgz",
+    "sha256": "fd1b128643d71d4f870ac59aedacf182807b97d60006dff175fb5b741d739721"
+}

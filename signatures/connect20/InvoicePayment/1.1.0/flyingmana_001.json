@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/InvoicePayment",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeV8ACgkQZi3Wes40mG4kvAD\/Tt71\/2NfFdMbaz61lcCrqQrw\nqc2JBgVMO4QD9DZr5jsA\/1DmJRC8IfyamxPkbq3eHhDo3z1fEE0AKZPbWEKi31y7\n=C20L\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/InvoicePayment\/1.1.0\/InvoicePayment-1.1.0.tgz",
+    "sha256": "46a72da6d67b58592ec0c56795b050c6322f7433cfc59212517ec3c1ed19c896"
+}

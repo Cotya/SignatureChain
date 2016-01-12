@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/heartbeat-extension-for-magento",
+    "packageVersion": "0.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdDIACgkQZi3Wes40mG5HvwEApDutRLOD58S3VseXPMWmcRbS\n\/M8Oivz8drnLnIptZhMA\/0LuKs+scw9aSD8oJQ7RvgzNEXiM837MeedRjvAtpHWW\n=zimD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/heartbeat-extension-for-magento\/0.0.4\/heartbeat-extension-for-magento-0.0.4.tgz",
+    "sha256": "bef8ab6c5180bb4ce8c8950204b9bf6625008267342db4177701a2f8ad479e0c"
+}

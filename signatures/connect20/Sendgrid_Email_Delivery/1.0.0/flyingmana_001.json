@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Sendgrid_Email_Delivery",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGFUACgkQZi3Wes40mG4elQD7BAikcOXMWVE8UktqmO+807hE\nsAp3HDCCKPLRi+XigKEA\/R08dz+L88\/JKqHIZM5K\/Zin23LOm1ihcVnPiWcB9EJJ\n=Quap\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Sendgrid_Email_Delivery\/1.0.0\/Sendgrid_Email_Delivery-1.0.0.tgz",
+    "sha256": "db0f39c4d6b02a59b15d37583bd25af30feeae24315ffa18e0791e7ac820637d"
+}

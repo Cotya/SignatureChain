@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/centerkom_scheduler",
+    "packageVersion": "0.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCrsACgkQZi3Wes40mG5S2wD9HrPJ5C0SiAV2kyfWhw\/oJSwO\nRLUfuZf7xIsgtGDOLoYA\/3pvb5oJQ5zXHbBvDsUEFSgkOZ4NdY05MB5a1gwY7XMQ\n=DVQS\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/centerkom_scheduler\/0.2.1\/centerkom_scheduler-0.2.1.tgz",
+    "sha256": "3a66c967b001b33e3f876d34d84dcd5510f6272ce2102edc7d724fca63b4ff8c"
+}

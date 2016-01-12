@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magazento_mostpopular",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTglcACgkQZi3Wes40mG5rcQD+PnykKwSr\/s478Ij2j0fNi7bk\nlXsS9kFieNguqJhU8+YA+gILzvky+KQEi8s+\/JK3ndF4WOXeelUz1OlggtcFXrFD\n=sOJV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magazento_mostpopular\/1.0.3\/magazento_mostpopular-1.0.3.tgz",
+    "sha256": "e6d788916baf99e095d9289602875e4c500343154a9725c9eeaa23574b75f99c"
+}

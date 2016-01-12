@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/HawkSearch_Datafeed",
+    "packageVersion": "1.0.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdBwACgkQZi3Wes40mG7iEQEAicJ2MzSg1Jss37UhquyR42iT\nM0+vnUUmDseTq5JOPHsA\/2Ld58n7xhtGR82Ge57z4W8Fl4V8y5eLwp90HXsdDd+M\n=25g7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/HawkSearch_Datafeed\/1.0.3.1\/HawkSearch_Datafeed-1.0.3.1.tgz",
+    "sha256": "3731dda7e08ed26cd1f8b105a40909ac7e042236bcb298ed76ed592c488f9d7b"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Posixtech_NetworkMerchants",
+    "packageVersion": "1.0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEkcACgkQZi3Wes40mG4I3AD9F0U0XkVp5i+a4JFMPV0cqt\/u\ngwxdvMnK7vq0sZRtzkABAKkDoRbd2nxzbfnLUeUY+PUI8CQLigAke1bFuQKMZznN\n=b1hR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Posixtech_NetworkMerchants\/1.0.0.1\/Posixtech_NetworkMerchants-1.0.0.1.tgz",
+    "sha256": "6d0fb1ae73b6d480d71accbb974fa7a15d5e5351ed8eb50f0b44ab34ac79c3ce"
+}

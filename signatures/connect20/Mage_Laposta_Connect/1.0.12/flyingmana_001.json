@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Laposta_Connect",
+    "packageVersion": "1.0.12",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/4QACgkQZi3Wes40mG6KowEAq4c3zGUbEdpiAVvam1Nk46cX\nUyX7AFMw+yKGO7rBTY8A\/RH6rD4EJ1DQDuVLcBcFZqdzRu8UNz7TUk9ShKF\/FLiz\n=0VPw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Laposta_Connect\/1.0.12\/Mage_Laposta_Connect-1.0.12.tgz",
+    "sha256": "be26bed60c3c5139bef5cce99e4d19f8db8d0c4c3437b9f2461226143b1c379a"
+}

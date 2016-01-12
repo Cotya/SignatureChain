@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MT_Giftcard",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCIoACgkQZi3Wes40mG6FEAD+Kyg44l76o8USNNYLiMXSeRRt\nDFrre7o1sqpBGJSS14kBAImXb4vkuPUtubYQRvqhOZapuQzVLABT7WeBEyNgze8l\n=LV3o\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MT_Giftcard\/1.1.1\/MT_Giftcard-1.1.1.tgz",
+    "sha256": "b90a475165a5de83bafa9784bd1f2668f23440a0d60d41bf0f07011979bcb94c"
+}

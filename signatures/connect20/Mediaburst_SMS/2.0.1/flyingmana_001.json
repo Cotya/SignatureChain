@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mediaburst_SMS",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBMUACgkQZi3Wes40mG63cgD\/Z4hA7gIMoXd8ourcJvJqCKKR\nwzN+6qMBPTc76huxOB0BAK8RKveIV70Q0+pSPlnD5lB0fM1IcaEi2I1XDcX4uiKV\n=c5XL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mediaburst_SMS\/2.0.1\/Mediaburst_SMS-2.0.1.tgz",
+    "sha256": "a62cf075a409e481cf47948450cad32615fa6e5e3c5945afbf61ea583e0ea855"
+}

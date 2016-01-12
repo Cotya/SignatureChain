@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Morningtime_Internetkassa",
+    "packageVersion": "1.3.2.44",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUB+AACgkQZi3Wes40mG4SyAEAkWkq7Kqk2tZQqewfNGdNeKtx\nA0v0E+rDZRlBD9ihLFEBAIMC+a24ePzbTl4yFLnn4nE7B+ntwHqoGXGuEvOnw5ny\n=SRRK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Morningtime_Internetkassa\/1.3.2.4.4\/Morningtime_Internetkassa-1.3.2.4.4.tgz",
+    "sha256": "13490f6a8c24556964b0da3b763e62aa03b6fa2b53ee7b4e79cb95e0bd76f254"
+}

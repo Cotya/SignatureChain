@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/hackathon_magemonitoring",
+    "packageVersion": "2.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMmwACgkQZi3Wes40mG4f9gEAndwB307tBGxYercPZ6M697EO\nWBbHGshvNBoCNiTtYiYBAJDnP87U+OmjZUtdjO0yxkkl3Qy9rWTF1QPXkCU9wcWS\n=5jEZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/Hackathon_MageMonitoring\/zipball\/27a9dfb95030130f50db06740c15edffca0928db",
+    "sha256": "eeffb169f1140a108c871e66fee6d647f8d2b309974495abc4c044a020ff938e"
+}

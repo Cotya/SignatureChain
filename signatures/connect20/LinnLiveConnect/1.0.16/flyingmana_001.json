@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/LinnLiveConnect",
+    "packageVersion": "1.0.16",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTf6kACgkQZi3Wes40mG7dAAD+N8rlYWabY2v5NeE4C4wUK4pk\nxCz+DqAT2LJY8EQOcuIBAJd+S8YxW4kToKjuFyWqMDMOxb3pvfl4m\/nI19C1cxqv\n=mNKR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/LinnLiveConnect\/1.0.16\/LinnLiveConnect-1.0.16.tgz",
+    "sha256": "427b73cbb47d6cb2e253f60f23bb2283fb2238522bf1a5fa5a99fe1c2b30b41f"
+}

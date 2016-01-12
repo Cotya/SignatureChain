@@ -1,0 +1,8 @@
+{
+    "packageName": "limesoda\/limesoda_environment-configuration",
+    "packageVersion": "0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMi8ACgkQZi3Wes40mG4bPgEAogVv99VVLymdI1HoUyLNtkUK\nswJ2BCOUbUep05JpejkA\/3ui64NWjPVZl35HS7dGjfINY6YFI3+LJglH7Ea1qtCM\n=bIyJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/LimeSoda\/LimeSoda_EnvironmentConfiguration\/zipball\/3d5543ad764535cfdec989c90a6642124004bc1f",
+    "sha256": "843e9c5f4819aae210f1fac447f9e75e1a1ef61185da652d4a699ff0ce3868a3"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mailigen_Synchronizer",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUA0QACgkQZi3Wes40mG6aHwD\/VkjDLNmVAqocyYw1xn4V1sc6\nHO\/sn3f+3EzZxwnQ4b8A\/1MmgM9dyZ9+g\/n0KydKjzJBonPZmoP7FelzdnmBr44D\n=rVio\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mailigen_Synchronizer\/1.2.0\/Mailigen_Synchronizer-1.2.0.tgz",
+    "sha256": "f11588b5ee2070892131b826ff672b94f5af274af2444c9fcf4aab3a4ca3c0fa"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CardconnectCcgateway",
+    "packageVersion": "1.0.7.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCVsACgkQZi3Wes40mG7YdQD8DhGeWIt2QQ6zHdVXP1AIlsnS\nGTxMzd7d13V9x1kf96UA\/2uOyidkWYT2upNpIQ0E7QL59qK+J9FCCa2JFcLIV6q\/\n=db4o\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CardconnectCcgateway\/1.0.7.1\/CardconnectCcgateway-1.0.7.1.tgz",
+    "sha256": "94f50cf48cc32dfb079edc4b0a00707fbc6bbf88e5c4fa5b747a924417819aaf"
+}

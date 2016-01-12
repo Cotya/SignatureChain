@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/proxiblue-recaptcha",
+    "packageVersion": "1.2.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFAcACgkQZi3Wes40mG46NAD+K9kVcgOUXMsdE5dVEwNzgcVm\nGOxQ0c9fdncmSrMeQAgA\/RzA24p5igQG8u5B9r9hc93IiC+NQm\/TaCNrIIZnPiPd\n=6Fd9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/proxiblue-recaptcha\/1.2.3\/proxiblue-recaptcha-1.2.3.tgz",
+    "sha256": "9dfd8ff2b1658a7e740ef95ae5ce279d1ddc8bbb6513d0fc57b87e26440ce112"
+}

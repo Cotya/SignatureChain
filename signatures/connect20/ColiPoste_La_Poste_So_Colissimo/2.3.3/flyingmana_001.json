@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ColiPoste_La_Poste_So_Colissimo",
+    "packageVersion": "2.3.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDNMACgkQZi3Wes40mG7s5QD\/VNBXZsaVFcu72GTwTVzrug1G\noojupeO1ahUMCmoWAVkA\/2dU09Olwghcwqsmkwb1mS+0T6Hu9Rx\/Pl5vpDe+gsGI\n=RM0q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ColiPoste_La_Poste_So_Colissimo\/2.3.3\/ColiPoste_La_Poste_So_Colissimo-2.3.3.tgz",
+    "sha256": "b93cf2f9656108dcb4c6bffb869ce774b7c4e936b8ba815db0d2ae09ae596ee1"
+}

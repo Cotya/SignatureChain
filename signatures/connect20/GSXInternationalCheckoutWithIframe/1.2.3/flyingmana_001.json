@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GSXInternationalCheckoutWithIframe",
+    "packageVersion": "1.2.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc\/YACgkQZi3Wes40mG6OKwD8DwYuOu2vu0N2omQa\/tszhp3S\nfPqZTsWZiiInFKrtFPEA\/AinDAW\/l+CZeZ8lDHZ52z\/GwP0eehXfQ93OFdxwQfuC\n=DBfR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GSXInternationalCheckoutWithIframe\/1.2.3\/GSXInternationalCheckoutWithIframe-1.2.3.tgz",
+    "sha256": "b7c8d9560089bad822469fac6c79e0c0caab2b82cb2971a356250253b290a239"
+}

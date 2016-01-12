@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/LoginRadius",
+    "packageVersion": "2.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgREACgkQZi3Wes40mG5OIAD\/UgEKVTl\/Iz5qJyn9oh7MJJ71\n411z\/K9LaTfUeOC\/y1YA\/1sXZ+K1rObweMaYX4\/6NyyM\/Dr1LuD4S5NQwOTk4b3i\n=ggr3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/LoginRadius\/2.1.1\/LoginRadius-2.1.1.tgz",
+    "sha256": "707a5d34866b0c8cd5f83edcbd336ea0ad15fccb23fe741d6709c69b593298f3"
+}

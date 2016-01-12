@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Billys_Billing_Invoicer",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTB4MACgkQZi3Wes40mG4kHgD\/UrwTR+bcQspWvqHVE9uoDEac\nEFganXTaMji6Gxk3\/KIA\/ig9wDmcrFB\/EgEtkBAw1kh7xe4POqUtTT0b9BEw3L\/V\n=mWR9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Billys_Billing_Invoicer\/1.2.2\/Billys_Billing_Invoicer-1.2.2.tgz",
+    "sha256": "a6fa597b2ab1a14d0e1c257a8e2b3ae4ac28292ffe2e160f77fa67ed19f0180e"
+}

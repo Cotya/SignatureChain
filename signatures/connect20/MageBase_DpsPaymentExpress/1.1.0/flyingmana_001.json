@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageBase_DpsPaymentExpress",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUACEACgkQZi3Wes40mG6RdgD+IR6Z\/NADQmDjYGbyq69jIxFn\nS+\/TY1S2UB1hENSCpb8A\/2m6ufgQa4tG49431qVn4nNuAJZrgCis8TjD\/H6mre7\/\n=g7yF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageBase_DpsPaymentExpress\/1.1.0\/MageBase_DpsPaymentExpress-1.1.0.tgz",
+    "sha256": "6dfe61dbda4952e8848715daece6c6b925271a2011bd70955eb2765aa8f174be"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "colinmollenhour\/redis-session",
+    "packageVersion": "1.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/wUACgkQZi3Wes40mG5N\/gD\/d\/5sxACf6yhHnFHUTiBXeE0n\nc\/5uaHtWhXX2m1LUI0QA\/2CzqvNBz9iKLknwnPT+UIYqKxsFdAd\/Yqjv6SebdF3w\n=0E5\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/colinmollenhour\/Cm_RedisSession\/zipball\/f67b34db4462bc8c88b36d9396a0e50a5f42151e",
+    "sha256": "41abc30271c26c488f6f9f8ff9f751c488512c93531761fd25d760989d4ccc88"
+}

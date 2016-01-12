@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Magecompany_CustomerRedirect",
+    "packageVersion": "1.0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAGQACgkQZi3Wes40mG5gOAD\/dtfer7NS7RK3YJSFfaVs7M5z\nJoiDLgKqiGN2nUSAbv0BAJlpBX2f2A5SC6g3kUkFGizoGYSL3AkvP7Wu95xwIsoq\n=SarZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Magecompany_CustomerRedirect\/1.0.0.1\/Magecompany_CustomerRedirect-1.0.0.1.tgz",
+    "sha256": "42b75db5e12a82ead07b8cc03843407f6c07bf2fb17e23d89e81604ce2fd3b19"
+}

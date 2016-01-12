@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/algoliasearch",
+    "packageVersion": "1.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAlMACgkQZi3Wes40mG77tgD+KdvoqF0wWrXghso6jCWdWGOA\nUQjBOiuF8lQlhnlEN+oA\/jAaR\/KdetUh6sFUciBGgy0Jl\/XCFANklr\/BuWwjYE3C\n=Hl5L\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/algoliasearch\/1.1.2\/algoliasearch-1.1.2.tgz",
+    "sha256": "e4d3b5c49d20067b582a6709fbc02c4cf01218c37239168f76720591c5afccd2"
+}

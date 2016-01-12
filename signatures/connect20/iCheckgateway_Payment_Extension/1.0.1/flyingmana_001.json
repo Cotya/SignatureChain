@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/iCheckgateway_Payment_Extension",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdZ4ACgkQZi3Wes40mG6OOwEAnosGH1Lgaw4pCbpHFNmz5UAq\nMfMAD9eMb+GRERFzfI8A\/3IwGGJqTgRmSjGbIsSkIOF5rrGU9nP4G6Hyyx+v5apH\n=w7pU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/iCheckgateway_Payment_Extension\/1.0.1\/iCheckgateway_Payment_Extension-1.0.1.tgz",
+    "sha256": "6954c0eef6efeb2338531630c04a7071f35185915839518dbd2a37997953112f"
+}

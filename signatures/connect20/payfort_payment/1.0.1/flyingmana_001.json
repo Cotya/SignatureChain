@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/payfort_payment",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEGgACgkQZi3Wes40mG7I1gEAnOU\/yKi91d3+\/1Tw4N2aDU4s\nU3w4vwbYvPidpv3vopcA\/i8XyiQtx64XgssruA2Nwr\/L7mRA2VbceLoXn\/ePE8Sk\n=dyBp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/payfort_payment\/1.0.1\/payfort_payment-1.0.1.tgz",
+    "sha256": "ea8c8aec3a0e30ec02cd4dc68ee7b3a2969f3103c117e4cf888b4049fa53dbbc"
+}

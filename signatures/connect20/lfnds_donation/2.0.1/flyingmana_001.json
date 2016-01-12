@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lfnds_donation",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfL4ACgkQZi3Wes40mG6JhAEApxix1o+KJ9JldSYvFvx6CdcP\n0FOgIXph4JH\/\/ObFZLIA\/AgoLOtrOcSjXoHWGOCvRNlPDIq4zZuDMv\/lBpJzDz77\n=EgyX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/lfnds_donation\/2.0.1\/lfnds_donation-2.0.1.tgz",
+    "sha256": "c59e24c1c2f63b5f098f71afd1ca8197c04b5014d84faac31666fafa2c203891"
+}

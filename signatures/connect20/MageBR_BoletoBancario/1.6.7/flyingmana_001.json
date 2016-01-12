@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MageBR_BoletoBancario",
+    "packageVersion": "1.6.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAEoACgkQZi3Wes40mG7cgAD\/YxOyd8dU1ouyM9Bj6Jwx\/CCK\nylHzd5OmMpVvMKiX408BAK77\/LZElCbtLYqSv8fYy4F+5NrLvOfiooEUMp0Y\/0BS\n=kZt3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MageBR_BoletoBancario\/1.6.7\/MageBR_BoletoBancario-1.6.7.tgz",
+    "sha256": "ef79faf5d8aa7b811391c59e76841319777108ec285e3b23fd220021dcf9c2a2"
+}

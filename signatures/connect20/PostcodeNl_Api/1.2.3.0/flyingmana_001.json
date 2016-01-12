@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PostcodeNl_Api",
+    "packageVersion": "1.2.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEloACgkQZi3Wes40mG5NgwD\/d1DYBCDMBkjKSv7AUP5VQab3\n2vOFDL54Bt0UyYwZproA\/3E52VrmLVvvlOVz+o6N9A1z2fyXsE7LPGjMfvCnHHyR\n=vkFe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PostcodeNl_Api\/1.2.3.0\/PostcodeNl_Api-1.2.3.0.tgz",
+    "sha256": "ab2ffe47bbb9dc519ca6cbc104a594664ce27bb7d0dc474c03348e0297bbf267"
+}

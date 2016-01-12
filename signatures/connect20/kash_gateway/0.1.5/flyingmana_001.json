@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/kash_gateway",
+    "packageVersion": "0.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTeysACgkQZi3Wes40mG5SNgD\/RUHTKJmn+5Gi6oFMe\/9Jg9bP\nADd\/rTj\/+Yt0ImvZ+cYBAIleJSOKSyKvB2NigFac2FeABFmviVrxK84Qk\/yc0fML\n=1kg4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/kash_gateway\/0.1.5\/kash_gateway-0.1.5.tgz",
+    "sha256": "1006e31fa9da392b8390d9c5fe2264e04be0bef494f8f16457e9279bdbd1095e"
+}

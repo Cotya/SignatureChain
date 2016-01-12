@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Fianet_Core",
+    "packageVersion": "0.7.9.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTakMACgkQZi3Wes40mG6riwD\/aLp+jFqWcSI4hyZgKZbWBd7J\nXiCXb2jH2GZ\/KzLp\/9oA\/R7kACnnyUTfsmVAauPybctWOEP55ec6FD2xZnJSBHlO\n=BWNs\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Fianet_Core\/0.7.9.1\/Fianet_Core-0.7.9.1.tgz",
+    "sha256": "276fc9e4ab42ed2396c140ddc5730658d678efddb52341490bb49180eef7f0e7"
+}

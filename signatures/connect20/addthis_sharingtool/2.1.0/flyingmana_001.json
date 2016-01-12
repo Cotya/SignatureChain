@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/addthis_sharingtool",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTANIACgkQZi3Wes40mG6F9wD+MYwqfvOdBvN+WG+zf82jXn5k\n1wXELY7LXzzMaNAz2HwBAKv0O5gV0vAUq6bmgYUDdL+ntFFiiLnk0matk+h2Tbzs\n=RrST\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/addthis_sharingtool\/2.1.0\/addthis_sharingtool-2.1.0.tgz",
+    "sha256": "616669c3851f5eecc7333eedc88a0038d42837e1ee5de10f7d953a53d91e3de1"
+}

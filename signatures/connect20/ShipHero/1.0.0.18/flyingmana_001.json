@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ShipHero",
+    "packageVersion": "1.0.0.18",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGM4ACgkQZi3Wes40mG7UBgD\/S3SrOcvas9bdPh+p6NdxeIqk\ncoLJl2MVwXOwFhfy9KoA\/1OPpuNBblc3ZLxsysW9jnwkpJ1nfaMw9L72Gyo2Uj76\n=s55h\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ShipHero\/1.0.0.18\/ShipHero-1.0.0.18.tgz",
+    "sha256": "c72f216a15a433c0e43d6b7f0104d3db331d91764c5659e9d5c9dc3ee80593d4"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "colinmollenhour\/cache-backend-mongo",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/tYACgkQZi3Wes40mG506gD\/U9xIjcyDmJ4nreNRI6FuIVQF\nNDuUQWr1UTuY\/Db2mfIA\/3sFmTbpm6oYC91v+P5CDUFWmEhHmMrU9eM7LyNnobo3\n=6rNU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/colinmollenhour\/Cm_Cache_Backend_Mongo\/zipball\/5088498b79aa8137a3df0cf691e60220814338c5",
+    "sha256": "5d39729a5f9a8ed848c9fed823ef439a2129dff9d92eee299ca5f724cdcd6666"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/optaros-traceview",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDk8ACgkQZi3Wes40mG49EQD\/T4pWtrADsUjwtvFQL7g5J0oN\nJmRfQzq2WmKsWszfEacBAKrP9LdxO0I0WLjHF84eKNbuXqnNbr+uNmAGMS1yfJlt\n=0SEp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/optaros-traceview\/1.0.0\/optaros-traceview-1.0.0.tgz",
+    "sha256": "41b7061045e8e8115bbe683a14061730f551dea7d276f90b0991326db9ff138e"
+}

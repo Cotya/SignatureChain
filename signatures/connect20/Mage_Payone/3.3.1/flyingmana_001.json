@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Payone",
+    "packageVersion": "3.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/\/AACgkQZi3Wes40mG5WWgD\/dt2eZF1Sx0wkJX7MhJYsQ7VG\ng3a0B0LvPDvYmEpQ768A\/R10SukSAUwzLmd96iH6Hkmlg7jIO41nL3R5x4mPQjSW\n=A3kz\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Payone\/3.3.1\/Mage_Payone-3.3.1.tgz",
+    "sha256": "398338ef179f930dc06981a969cbf8f5c7d0b6dc47cfdef24f16bd669572a232"
+}

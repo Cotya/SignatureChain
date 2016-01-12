@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/o2ti_moip",
+    "packageVersion": "1.2.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDI4ACgkQZi3Wes40mG5vpwD\/bo77fu8LV7BgWeLOaIgqfd2m\nhoOjPTDB\/6oT1fE\/s3IA\/20EQu8rANR0c4wdxi9b5Fw\/yROQ0J2KlWEep4YB+cbw\n=a8T0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/o2ti_moip\/1.2.5\/o2ti_moip-1.2.5.tgz",
+    "sha256": "c0981859ed64ef6ccb6106c13c4fb57d88d58e981e745a80709331a21b99f137"
+}

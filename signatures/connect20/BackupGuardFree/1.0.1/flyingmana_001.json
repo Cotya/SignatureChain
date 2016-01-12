@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BackupGuardFree",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBZwACgkQZi3Wes40mG6UjQD\/ZV6f4ChelSeuEsLKNdFFgcJ4\ntM8w8qYhEnnLKDow5U4A\/18QoHBpaUjl6mRywoaNWKVDrrOoOnQR7NcpVKM46I3M\n=UsrJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BackupGuardFree\/1.0.1\/BackupGuardFree-1.0.1.tgz",
+    "sha256": "278b0a490b70f825335a71b90dda0946d95bd285bef36bed3a82d7483166bc6a"
+}

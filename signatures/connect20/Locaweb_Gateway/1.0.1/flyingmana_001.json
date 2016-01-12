@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Locaweb_Gateway",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgOgACgkQZi3Wes40mG7VlgD+PnPPM+La5bGRrDbPD7luVL1Z\nvXWklD9qGs\/HXihGTgYA\/RUf1r52nHXeW2OsQhVx9PYH4Ur2WcSNw2oIaAUzofYP\n=G0KT\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Locaweb_Gateway\/1.0.1\/Locaweb_Gateway-1.0.1.tgz",
+    "sha256": "1847a20f1a241b7d2b7312b0a0a6e2574fb19e2f18c8591e9340383cbcca47cf"
+}

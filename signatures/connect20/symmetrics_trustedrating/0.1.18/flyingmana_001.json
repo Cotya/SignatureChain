@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/symmetrics_trustedrating",
+    "packageVersion": "0.1.18",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUH8YACgkQZi3Wes40mG4FgQD2NYY+jmsD2MLDPbKX7JR8z734\nGCXfN0OhMOD8Z295mAD+JOxKlCrVomNgvHUHJBGHg8SMTnd1RLeGKVfhJ0z+LUs=\n=InNW\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/symmetrics_trustedrating\/0.1.18\/symmetrics_trustedrating-0.1.18.tgz",
+    "sha256": "a8210b0d1291150ad8b406daaec5e8f87a4fbdd2387404607594504536dfd2a7"
+}

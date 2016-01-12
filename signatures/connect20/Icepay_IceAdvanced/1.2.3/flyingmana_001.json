@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Icepay_IceAdvanced",
+    "packageVersion": "1.2.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdYMACgkQZi3Wes40mG40wQD\/dg6umsxyVgoDbI57lJ68PlxL\n7iX2dbAwutIfgrxTocwA\/3WE35KudwhwAEGvbTqr9uwvD26as+EkYxY8LVEevC5n\n=lZQJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Icepay_IceAdvanced\/1.2.3\/Icepay_IceAdvanced-1.2.3.tgz",
+    "sha256": "039ef86ec67d7fa56aecb96d5ecfdd49d51b29d557d7edc495d767e71055631e"
+}

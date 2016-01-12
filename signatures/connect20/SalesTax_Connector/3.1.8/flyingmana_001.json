@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SalesTax_Connector",
+    "packageVersion": "3.1.8",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUF3sACgkQZi3Wes40mG40MwD\/ddrR56X09NLOhfotR1Qv\/zXd\noCxdjnLuMmjh\/7lfpDEA\/i45ffR6zUee3UV54DYW5\/rom0s\/M0r1GzZg60BUxHAb\n=5f3L\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SalesTax_Connector\/3.1.8\/SalesTax_Connector-3.1.8.tgz",
+    "sha256": "d4fccbf2e73b53bd3fc2e6a283ad6fde2ae4f2fe15d2d892811103864af6850c"
+}

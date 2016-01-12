@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FireGento_MageSetup",
+    "packageVersion": "2.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTamYACgkQZi3Wes40mG49BwEArxY7xc6ZZfI5YROdK7uUv8G5\n4DdmHfcIxSrqVs0AfVQA\/j\/OxkVMt2WaXYc6MjL7Hg3tFEWqSk\/OGog3\/GiliE8P\n=0jVQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FireGento_MageSetup\/2.1.0\/FireGento_MageSetup-2.1.0.tgz",
+    "sha256": "cf55eea0369bd090797cdcb7af33d1b19b1e4cb4e3b73c1d54fc389f6662293e"
+}

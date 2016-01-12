@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cashcloud_payments",
+    "packageVersion": "0.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCb8ACgkQZi3Wes40mG4tlAD+MuYii\/IgLCbibOtrMru41nJs\n\/wcneNs7sQ7BY3E6t40A\/A1MtmTYnacvT\/dsKdsQeU4pbLjsDOgX6gbHFwvaKMG7\n=7OUk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cashcloud_payments\/0.2.0\/cashcloud_payments-0.2.0.tgz",
+    "sha256": "37fe06013dff9e4460fc9f11d0c71ddf5136c50763a6fd4be81f0716a56bb9ff"
+}

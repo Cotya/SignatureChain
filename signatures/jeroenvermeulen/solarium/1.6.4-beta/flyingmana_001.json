@@ -1,0 +1,8 @@
+{
+    "packageName": "jeroenvermeulen\/solarium",
+    "packageVersion": "1.6.4-beta",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMGIACgkQZi3Wes40mG6+cAD\/aLzsZwZKesxtwzUljpJatP6S\n\/+UOBxfkbOPnkWkZlOcA\/16eO2TzfejEw\/DndEhyniTD4FycUJgPfgyEwQkbymdJ\n=7Jy4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/jeroenvermeulen\/magento-solarium\/zipball\/bfcc030010169e3d3d5838e4f6feae9f87ccb993",
+    "sha256": "23c4898454a411f52b93f3f36353f5ab343601a86e72d9782b2da663c10f31d6"
+}

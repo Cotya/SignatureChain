@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Apt_SalesRule",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTA6IACgkQZi3Wes40mG6bMwEAjYTBOQ2kn3e27RiBhuATulIt\nAZnhqmhRjLC0A16rLYIBAJSsbvx6tnYZ\/LWBPQ2lHn8YAM+1A191dsrxWxIClk05\n=QhUk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Apt_SalesRule\/0.1.1\/Apt_SalesRule-0.1.1.tgz",
+    "sha256": "66db02418a94b445bed6934f588754d1d5cc40dc69d00a635e979aebf0dbc636"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/diglin_chat",
+    "packageVersion": "2.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKv8ACgkQZi3Wes40mG7+CwD9F9U3f2WOR3UPr4bvVq4i+qHP\ntQJC5kawSuns6uN2azwA\/jbqjwuZ6oREjzbOF5dws\/aSVZ74Hl\/NfbyXyhwo+lOi\n=Lvoh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/Diglin_Chat\/zipball\/90835b7ca79dc57fb70c541d2ef9a34a7ae4129c",
+    "sha256": "5e1b0fc4026a2ff7316fdfeb047403bef50caa347bdf440cf34ea3214e600b82"
+}

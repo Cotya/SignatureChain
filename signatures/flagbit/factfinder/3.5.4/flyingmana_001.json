@@ -1,0 +1,8 @@
+{
+    "packageName": "flagbit\/factfinder",
+    "packageVersion": "3.5.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL3MACgkQZi3Wes40mG6v3gD9EF\/\/YM34ElqmyxuNtYO52Xb+\nKqfc3c2GK1a6BxtLM64A\/jSHddIOZ6NiVsstW2yyLNkkU5iZArxlhXpYWyT6rjcF\n=DSZQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Flagbit\/Magento-FACTFinder\/zipball\/29542f60fb05b6a5b59fb5a3689a0394160fd21b",
+    "sha256": "6e8057e03396bbef999866bc0f76cc091016cc58ba68214c20d70aee26baa879"
+}

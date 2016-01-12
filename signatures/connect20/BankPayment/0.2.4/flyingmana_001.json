@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BankPayment",
+    "packageVersion": "0.2.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBcEACgkQZi3Wes40mG4gdQEAqoIGyv8XUxmt52nOW7e5r8bS\n7NNVoIEuZAEM+Kr2ViEA\/1LijqvpQWk3qcpWK87gSkmhvJG8xixYs+hkenTd\/8f7\n=HNiw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BankPayment\/0.2.4\/BankPayment-0.2.4.tgz",
+    "sha256": "7f4088c97110f457c53af799ebabc4e49b50829468985ff96f0de4b7a60cad76"
+}

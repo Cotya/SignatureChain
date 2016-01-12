@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cdr_OrderComment",
+    "packageVersion": "0.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCjQACgkQZi3Wes40mG7ApQD+PuifcQOElYkJuejxUiMRKkIl\nj9IMsA3YJcVp4120jCoA\/2dMBE0Q7e3LngCiPARJxL1w2DKGhlCpW28y+d5WafHo\n=diDJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cdr_OrderComment\/0.0.3\/Cdr_OrderComment-0.0.3.tgz",
+    "sha256": "b55678de904918db3411365f665047001cb2973d57c1e62d1e3a2e41a6f6c352"
+}

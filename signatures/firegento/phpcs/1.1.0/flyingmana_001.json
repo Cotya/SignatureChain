@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/phpcs",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL2QACgkQZi3Wes40mG5hVAEAlnup25dkIl4aDDrAZ32YLfSV\nTZEIo\/XwqiGswHC4HWsA\/A9sVfjO7BUwclpBK945RsV4Ltx2ejHtnJnprNGq3VWq\n=UtRh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/phpcs\/zipball\/aa534990b0abe03e1e0ca90cd656b0dfd85b2a2d",
+    "sha256": "734a50ca708277bcce304b62039d831bd992d91ab2030dc32e175655792f937f"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Meta_Cassandra",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBR0ACgkQZi3Wes40mG7ALQEAnHlFYLGdbxf8zp7oA4M3BAi2\n8gyKj18Gp\/95cbcWJmQBAJoM5YSy0VCshdEiYlfeG55HLlfCuq7v8Ox\/5Ow6DXiw\n=75qQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Meta_Cassandra\/1.0.0\/Meta_Cassandra-1.0.0.tgz",
+    "sha256": "a75ffa91c22e86a4c38c619654ad759f07206f9af4026b2cd6dbbd1fe4bc5abe"
+}

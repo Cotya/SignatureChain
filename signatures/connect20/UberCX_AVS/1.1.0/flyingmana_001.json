@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/UberCX_AVS",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUI08ACgkQZi3Wes40mG6OqQD+NOga2kjZUjC1n8OKG5Tgxnb\/\nMAgop+2o4YdUyClwAyAA\/24RGVegz9SHVqgBOKd1qn9EObV5oeXeTHH4snvMPqaM\n=NMsb\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/UberCX_AVS\/1.1.0\/UberCX_AVS-1.1.0.tgz",
+    "sha256": "cf409432de799f534855ea720465b96d21ddb1e42fd3d8a80d03fe4f7ce32103"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/talkable",
+    "packageVersion": "0.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUH\/UACgkQZi3Wes40mG6YPAEAlqONT\/R9K7WEF0KUZff1ELIR\nECjJ3PQGWSOWfcgFrC0A\/0e8O8pW6H4A4QxhOLqrcf++umO4I\/xsj4XsnCZ0Jh4I\n=Gu+N\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/talkable\/0.1.3\/talkable-0.1.3.tgz",
+    "sha256": "f47c60b7cf1cf4e22169e107693d6d76945b035c758975bd20cabde54fb82c91"
+}

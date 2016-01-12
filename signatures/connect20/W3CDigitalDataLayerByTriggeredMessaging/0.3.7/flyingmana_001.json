@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/W3CDigitalDataLayerByTriggeredMessaging",
+    "packageVersion": "0.3.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJc0ACgkQZi3Wes40mG4MGQD\/RWdihMEBBVrAoGr5Pm50Mvai\n1sxjxEmIJTv6gmFEWSIA\/RClgby4YWZTiAhyOKu3w6mY7HTxBl8JHFTp1+bXN7dA\n=CmiA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/W3CDigitalDataLayerByTriggeredMessaging\/0.3.7\/W3CDigitalDataLayerByTriggeredMessaging-0.3.7.tgz",
+    "sha256": "52ab28039ba7e613de5952f19fda8bd7faeff282be686055b45566cb07c61cb5"
+}

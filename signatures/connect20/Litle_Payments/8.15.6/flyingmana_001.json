@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Litle_Payments",
+    "packageVersion": "8.15.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgEcACgkQZi3Wes40mG6q7AD\/T7JWkgLW5efE5+UEyrkwf3zE\ngTzvzjzz8GOANwrf5DYBALilxAdhKZ6DcweUK7UqVA1ApPaMoxC81Tp1eBlM7twY\n=fPAI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Litle_Payments\/8.15.6\/Litle_Payments-8.15.6.tgz",
+    "sha256": "20a9f3f36175d345d0d1e561850458282a887af625f9ab1b27583b9457ac9604"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magento_classic_theme_free",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAcEACgkQZi3Wes40mG4nkAEAjLaHTxpvx+wXeVvVpzkuMtDs\nU\/PFN0LRdFpcb6aWCYsA\/2uTqriB97PmcRsWq5OdFQtOEpFbNUiiSuWIia6WIn4g\n=2B+t\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magento_classic_theme_free\/1.1.1\/magento_classic_theme_free-1.1.1.tgz",
+    "sha256": "a63ff717e1e7a474f5316a912f9a3273c446c9395b1cb4c0ad888cc0f3a23bba"
+}

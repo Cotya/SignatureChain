@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Onecard_Paymentmethod",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDbkACgkQZi3Wes40mG6lHwD\/TLM+o3NQlWnlb53mMXJt82Os\nGJFe7uBLq\/HveIG3bI0A\/R9LWa3tPFK1w9UGjZfAgDIikdj0b3ywVCvjl44nd2sn\n=gW2E\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Onecard_Paymentmethod\/1.0.1\/Onecard_Paymentmethod-1.0.1.tgz",
+    "sha256": "902a994da9500a207f5aeba68059051e0bf4fa18007a41b48571a18a11da6a2c"
+}

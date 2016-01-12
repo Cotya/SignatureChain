@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Picqer_Webhook",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEZoACgkQZi3Wes40mG52SQD\/VhPyqAoQhS9EsR0O9UsqFmgC\nkILqM\/yRRqSAb5ty5fAA\/AkEs+4Lzik14yQioac638mRx9iOKC5iObVsXnjGr3Mg\n=WTSX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Picqer_Webhook\/1.0.1\/Picqer_Webhook-1.0.1.tgz",
+    "sha256": "a58882a88980965e6e088a710b1131a85b868866e828ff0989781e02d7941d52"
+}

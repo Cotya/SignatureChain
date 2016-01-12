@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mediego-recommendations",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBOEACgkQZi3Wes40mG7atQD8C+dXs\/V\/VQLH5xx9m0EZTkZJ\ng8OeMdjSg9dvHc7dveYA\/0Wt8Q642m5Khiw4z2uti4oXBFt17zOEpV0StMFlNVx9\n=EZnI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mediego-recommendations\/1.0.0\/mediego-recommendations-1.0.0.tgz",
+    "sha256": "6840e5b2424f2edfeac3b5b93677033b78300b2744af9cacdc560cc003b9496d"
+}

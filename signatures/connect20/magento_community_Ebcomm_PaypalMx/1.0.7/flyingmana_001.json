@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magento_community_Ebcomm_PaypalMx",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAjMACgkQZi3Wes40mG5JeAD+N83c3LuoaUHXd4EqHwn1uyGq\nucv9JQBHr9KFa4\/H8x0A\/Aw\/D+FjcuJTn\/B892+EnnhOfYjZpxvDjMDkElwA\/Elx\n=Txhm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magento_community_Ebcomm_PaypalMx\/1.0.7\/magento_community_Ebcomm_PaypalMx-1.0.7.tgz",
+    "sha256": "8f05e99eef094e2a8f99ff78dfe6deb0d08927505aeeeab1ca19e22eb4bf24e7"
+}

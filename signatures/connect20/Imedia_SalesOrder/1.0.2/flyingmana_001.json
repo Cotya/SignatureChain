@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Imedia_SalesOrder",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdiIACgkQZi3Wes40mG7jRAEAjhMHXe1cLMqxUrT7Fz5JGOdr\n4mCsrduQ1IFEQyqCoh4A\/2jv54jh84PLDE1TSUjEeJBIqWl57M9kNgmdZTT0ITHB\n=LE0k\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Imedia_SalesOrder\/1.0.2\/Imedia_SalesOrder-1.0.2.tgz",
+    "sha256": "0c90d6e76d18ae662d241faa70e426c639cf23f3d9e36b73b743daadeccaf5f4"
+}

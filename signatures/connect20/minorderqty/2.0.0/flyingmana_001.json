@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/minorderqty",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBaMACgkQZi3Wes40mG6eIQD\/UUsP5yE6HJsPs0vpFwu16tek\nIHfOEnL+XKzE94igAg4BAIrOG7apvuhIpAvzgT+5\/y0OzTuYhQJ4EKaIZBoItgRs\n=decC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/minorderqty\/2.0.0\/minorderqty-2.0.0.tgz",
+    "sha256": "a00a64d34b05721a1cb0fee1caed0fe6e9b1fc18da6474063813052803ba0b3e"
+}

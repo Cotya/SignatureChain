@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/recolize_recommendation_engine",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFc4ACgkQZi3Wes40mG6m7QD\/VGWKBUp\/g6Hs9zW9nVWndHif\nT3BiV8zZt+UAa++51PYBAIipd9QPBaPZ4trMZp7FZMiRYfX4SryOFEsR40VOcN5D\n=vByH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/recolize_recommendation_engine\/2.0.0\/recolize_recommendation_engine-2.0.0.tgz",
+    "sha256": "fe788084713966d2bcf0c41ecb4c50379ef314b2dc5d1a2d986df7d80cc81560"
+}

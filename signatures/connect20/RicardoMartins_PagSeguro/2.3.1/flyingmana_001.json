@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/RicardoMartins_PagSeguro",
+    "packageVersion": "2.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFqwACgkQZi3Wes40mG6hvQD+OqYRM1u0SBYTjRXQu\/xZLxeI\n6qHMjwzDNUT2SJjrzDUA\/RgLk5hNvSbmDPWjFPmSQ8EHSZPuMq1aUijos97PSq3V\n=tCHi\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/RicardoMartins_PagSeguro\/2.3.1\/RicardoMartins_PagSeguro-2.3.1.tgz",
+    "sha256": "9e349ac9fa25ca3f146c5a7609d9357bed4e7395257d9f6b2e014a480978e786"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/logicbroker",
+    "packageVersion": "2.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgPoACgkQZi3Wes40mG5q1QEAlP1IgkjfYfg+BD0u1FNVOpGS\n+UhK9J070YGNfxXDieQA\/2xhqL\/G9WrQvAoHHeN7fAyWS1nZ7gn3M6YPueWSWZUY\n=JRTc\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/logicbroker\/2.0.1\/logicbroker-2.0.1.tgz",
+    "sha256": "46a833526ea938c71e232f5b775334b4285342ab45d4471378e6976694d0e7c3"
+}

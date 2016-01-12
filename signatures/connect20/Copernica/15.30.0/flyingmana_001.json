@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Copernica",
+    "packageVersion": "15.30.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDtAACgkQZi3Wes40mG4cPwD\/SWYlMCj\/EsquySfdaPEFqouv\nDmBzitxYTv5XFoU+lsYBAIWqZHqsaelmNk6Xcmv0oKwilOYOg4n6qJHahHqBqcg2\n=Z1iu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Copernica\/15.30.0\/Copernica-15.30.0.tgz",
+    "sha256": "e8460d148cf25e291ba78dc9719ae24a27cf1fbbcf02a2768306691f1277255a"
+}

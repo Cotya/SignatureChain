@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Vconnect_Postnord",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJNAACgkQZi3Wes40mG4ydgEAt7btJMUwPcyS8l7oX5SIhRAv\nquMXJRThgcA9EIXnk9sA\/iu0mxKHno\/EEJzbdz3grDjuBwInHHExqJHJcJljiuIZ\n=JlVP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Vconnect_Postnord\/1.0.0\/Vconnect_Postnord-1.0.0.tgz",
+    "sha256": "02c7a0a8cec05f80f6a4b313c48de5463b7707a32ed22678b50c77eff9e85f90"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "defacto\/defacto_adminfirewall",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKroACgkQZi3Wes40mG7dYwD\/SS6YSniNgiWOX4Uj8wkXRnLW\nSNYSjr\/WhNUydGYOkJAA\/ipzBkOJB2irTKU+vYgFSzLcbr9PlH5yGDH8rHd0YMJZ\n=HWOs\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/defactodesign\/adminfirewall\/zipball\/477a4849b315f74f002c63b0e7f3c67eaef066f6",
+    "sha256": "b54582121f91eb1d4fa407523002d817347a67f7e3a47be2a92369e1b1152f7e"
+}

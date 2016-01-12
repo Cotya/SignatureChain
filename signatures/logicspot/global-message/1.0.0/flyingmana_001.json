@@ -1,0 +1,8 @@
+{
+    "packageName": "logicspot\/global-message",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMj0ACgkQZi3Wes40mG4UvQD+LwozeH9+k08cpPKbOUXcR\/kL\njB8tWUBtUC4CtWSwrpsA\/Re2wzIOSHoklmPnAMqJgRWyar+2wjv3JK9xascW\/wrS\n=ep+9\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/LogicSpot\/Magento_GlobalMessage\/zipball\/57f7ee773179f080fd9e9739587a2608c84e84bc",
+    "sha256": "b35bfc9c8483f49af830c4fd256353a7e16fb6fb24be33726c149ed7f681d67f"
+}

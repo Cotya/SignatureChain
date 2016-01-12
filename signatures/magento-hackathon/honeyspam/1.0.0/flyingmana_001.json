@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/honeyspam",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMn4ACgkQZi3Wes40mG6gaAEApVebxaTueuoTgkR\/ur855JqE\nUaBp\/gQEgEw48aqlxvYBAJRsr4yftLOfp0\/DIknxJEdw\/YdpgL6kuvC7\/kADePYR\n=oXdL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/HoneySpam\/zipball\/db0b8c476db43c12a7ca0ecb21994bf7584c6149",
+    "sha256": "b2f3d8d676ee93d167372b2d3f642d8c37f013f55a4cfad99a56c770975b4455"
+}

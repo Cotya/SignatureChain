@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Braintree_Payments",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCKMACgkQZi3Wes40mG7J8AEApvcWglGD8Eunf8EmRIJboLqH\n4C2ojANgbLG\/yhIJcQQA\/2zJEBnBdo7Oz\/\/9LEPbiPjGmSwPqmVGu8tQIgBwuNwu\n=BJd0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Braintree_Payments\/1.0.0\/Braintree_Payments-1.0.0.tgz",
+    "sha256": "f94b245dda152203bd27b931042d5205d5b8283600e9c3e13874059278e3f1f6"
+}

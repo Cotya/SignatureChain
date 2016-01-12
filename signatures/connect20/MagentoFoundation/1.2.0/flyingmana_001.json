@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MagentoFoundation",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUArcACgkQZi3Wes40mG4AMAEAh2nwTFGliezEvbFXo6D41YXl\njsp7IMg5NrPlm5O57\/4A\/3PY11rZ\/Hw4C85IPnzW\/78GrWe7fTxKNBnsy8nGLyxO\n=X\/1E\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MagentoFoundation\/1.2.0\/MagentoFoundation-1.2.0.tgz",
+    "sha256": "e98796124cab00e4dc6e7517134f6c2b987b4f7a95993a526f522ca3a9bb5985"
+}

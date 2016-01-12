@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NowInStore_CatalogBuilder",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUC6MACgkQZi3Wes40mG4sNQD+NXdvfe7MU8GbF3hDWVL8ho8e\n50qsBX4f5IDIEzHhmgkA\/3ZBAiDQ4eC0lzKhoMMw4mDoWhd2SNGM2z2fj2jQTY+D\n=fCZe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NowInStore_CatalogBuilder\/1.0.1\/NowInStore_CatalogBuilder-1.0.1.tgz",
+    "sha256": "7e3fd47c5bb2feb594637863b7a07c27a1dd97a847a90456036ae3d29425d6c5"
+}

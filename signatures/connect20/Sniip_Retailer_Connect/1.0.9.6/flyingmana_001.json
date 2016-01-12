@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Sniip_Retailer_Connect",
+    "packageVersion": "1.0.9.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaUHD4ACgkQZi3Wes40mG67fQD3cOwtmsYhLpVq2J6wNl5eOdcP\nZyLnVtTRANWKcj3AVwD\/Sx6hGWGIeSAvEHp9G2v3+owOTkOdOHmgui8grpAu7NY=\n=no\/i\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Sniip_Retailer_Connect\/1.0.9.6\/Sniip_Retailer_Connect-1.0.9.6.tgz",
+    "sha256": "813a4155622fab74acba828c660b594ce0dd5f03c9c42db01241e5f3166c7b17"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/txtlocal_sendsms",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUI0UACgkQZi3Wes40mG7w5wD\/ay5dBUMlvsxdLVEVd8hRRYcD\ns9w\/7c9ebYr8tBL\/DPMA\/0IVUSv+5xu5LZOKiXga\/Hkm1HmGgHD9buoUT0aeJtqn\n=6SwE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/txtlocal_sendsms\/1.0.0\/txtlocal_sendsms-1.0.0.tgz",
+    "sha256": "1d59600467e60471937458c3637fe88a6cfdd78b54305f902a46ed61d5667404"
+}

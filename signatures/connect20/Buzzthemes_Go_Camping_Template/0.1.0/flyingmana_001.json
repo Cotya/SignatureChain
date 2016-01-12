@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Buzzthemes_Go_Camping_Template",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCSUACgkQZi3Wes40mG5kkQD\/cbhZw6682G58IykNZTGdi1c4\n9UisXS0yEfSbESf3djEBALGP7mNLsW69yP0ZEAN+aeoFEW6askkSWfWwvbZG0nHN\n=plwM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GFSCheckout\/2.1.3\/GFSCheckout-2.1.3.tgz",
+    "sha256": "ab128cadbfbd0258bf699cbe55357934169e98de02637f160cfc3a92a5ca2149"
+}

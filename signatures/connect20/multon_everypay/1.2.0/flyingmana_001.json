@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/multon_everypay",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCNAACgkQZi3Wes40mG4UaAD6A07mvzlgfOwIUzM8\/mOubGRJ\nuKfz1DSGt52nRp+mSvQA\/0iiaH3P7elG8p0tT7FAdpEf0mdZ9XcT8oMd\/Gdio5nX\n=vHts\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/multon_everypay\/1.2.0\/multon_everypay-1.2.0.tgz",
+    "sha256": "bb2232cd8c115fda855bf7b155e366e1cc646073b0c6d73f140c28d02f1fff3a"
+}

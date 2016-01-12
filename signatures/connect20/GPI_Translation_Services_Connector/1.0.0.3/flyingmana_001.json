@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GPI_Translation_Services_Connector",
+    "packageVersion": "1.0.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc5oACgkQZi3Wes40mG4GnQD\/RlnAOC3Rx0hLy0ec7X9t2rb6\nM6bUPFsloqvNdeHI3e0A\/2c8DM173qMBhnt4\/I33TVLgRGLTyZs\/6Ydlh5QtJCnG\n=lD3x\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GPI_Translation_Services_Connector\/1.0.0.3\/GPI_Translation_Services_Connector-1.0.0.3.tgz",
+    "sha256": "dd1b1e469802a5530f42171575e526276e31ab8852d8374a6ec6d3327be093c5"
+}

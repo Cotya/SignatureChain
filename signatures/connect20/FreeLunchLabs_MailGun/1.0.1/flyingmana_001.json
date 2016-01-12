@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FreeLunchLabs_MailGun",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcoEACgkQZi3Wes40mG5kBAD\/Yfs9Olgl8mSFiMxsmOoY1jrk\nbW8pIUfWVq76q4ZBTnAA\/0YABnrqBucNNemdL\/Y9NawiLo5D8qoXkKFBSXT0szhc\n=fPKH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FreeLunchLabs_MailGun\/1.0.1\/FreeLunchLabs_MailGun-1.0.1.tgz",
+    "sha256": "5edbfda345c244c4d3c921fe1ef06bf1700763c594896cf710d5a6eeabd6e7af"
+}

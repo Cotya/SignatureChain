@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Thinkhigh_VPCpaymentgateway",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUITAACgkQZi3Wes40mG719gD+L8Oo5JW0GxwoUSGP4GiTqdph\nzs69fLoc31PkOZwU73MA\/0Owz2HMmKIiBMx7rit8CZNTQXM7JsHPnlp0dZeELITl\n=EDF6\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Thinkhigh_VPCpaymentgateway\/0.1.0\/Thinkhigh_VPCpaymentgateway-0.1.0.tgz",
+    "sha256": "5c1441e5933722383932f26d00fca1a4f16f5253a1ee69a3ab8dc9f5feb16ec7"
+}

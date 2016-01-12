@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Bitpay_Core",
+    "packageVersion": "2.1.8",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTB6wACgkQZi3Wes40mG4MAgD7BGRsv4cVmk5QVl0M6VzDDc2R\np32v0MQ\/Hig6\/UyUE04A+wZzmOUeCVG1C3DoDF5WsJcC0ebhEfpuwxJG9B22Rlmg\n=nT\/Q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Bitpay_Core\/2.1.8\/Bitpay_Core-2.1.8.tgz",
+    "sha256": "b9e0fd2e15c930f38a166034d9ff2340e03f9b781bc0651f4c4ff7051d17e4e2"
+}

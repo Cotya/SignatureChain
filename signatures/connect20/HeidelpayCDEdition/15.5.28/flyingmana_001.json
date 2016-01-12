@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/HeidelpayCDEdition",
+    "packageVersion": "15.5.28",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdE4ACgkQZi3Wes40mG6+WwD\/cMgeoWO2GfqR7nnx\/WlO0wZn\nsYPfmQQn2\/sD6BIS+UgA\/2OHYVJIhS5RrSoUKGCQ55iDqcinQPCeX9\/G6Jhrjo4T\n=yxCk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/HeidelpayCDEdition\/15.5.28\/HeidelpayCDEdition-15.5.28.tgz",
+    "sha256": "b53378cb4298f73b8bfdaab28d0062790eee423c1df03c552bfa2b039f44d309"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CommerceBees_CustomerGroupRestriction_v1",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDTwACgkQZi3Wes40mG6XvgEApZBiTtZghtI1OqBxodY8a8Ez\njWarSFh7LmXlwD0SXjAA\/1G63y+\/d8olUrdjEyHLWNaN713khk1mERuUe07NEl0N\n=JJKS\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CommerceBees_CustomerGroupRestriction_v1\/1.0.1\/CommerceBees_CustomerGroupRestriction_v1-1.0.1.tgz",
+    "sha256": "e5bc8ddd9a029c67111b156e3a0018a013ae15da882b56f873f81d92f5838cfa"
+}

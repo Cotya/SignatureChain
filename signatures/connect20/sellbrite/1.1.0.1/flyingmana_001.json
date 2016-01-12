@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/sellbrite",
+    "packageVersion": "1.1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGEMACgkQZi3Wes40mG7CHAD+KWozjTYeEOpU477MA1jdWyFJ\nJGJjuPi4PqhbVEJp3hUA\/i3ey2cYQ0fJ4GUzuqw3mJ84T0CKmtqDm+O6Dr0nUhAb\n=dpZH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/sellbrite\/1.1.0.1\/sellbrite-1.1.0.1.tgz",
+    "sha256": "65b82aae26a8f9255a10c0673be183171909daaedb10d4b4bcbaa2260d40e556"
+}

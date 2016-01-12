@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/desktop_notification",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEKwACgkQZi3Wes40mG54AAEAp4aoNOhnODrKzf4wUw90ILQk\n1LhZ+G7pc\/PK7OmUQ3kA\/0pNHJmqvcUXk5KOvhCOG4q6zbFRJ6LPuZi2NxMQINL\/\n=XNti\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/desktop_notification\/0.1.0\/desktop_notification-0.1.0.tgz",
+    "sha256": "ce7a32085794e982598a1d7a803289902dc860d25487d8ff20e73991d7a2c0e9"
+}

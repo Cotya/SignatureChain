@@ -1,0 +1,8 @@
+{
+    "packageName": "inchoo\/php7",
+    "packageVersion": "0.3.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMBUACgkQZi3Wes40mG7qYAD9HflcmyfQRYy9gVvnq7IwcvbM\nqstD4x8Yy79HCb4IyvMBAJ2tDMW238D65jRANFagm9U7Mcs+RkEJQMZ49O992cz\/\n=9oJf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Inchoo\/Inchoo_PHP7\/zipball\/42fb93c39993e896cac8571596cf4b022b1f8391",
+    "sha256": "45344a61d6785e4a6297c5e06615b355e537274df171adc3c63d50945b4e79fc"
+}

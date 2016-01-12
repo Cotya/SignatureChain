@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Netgo_Pricereminder",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCloACgkQZi3Wes40mG6jvQEAqvVuNcgWzjoRFX3DdvocPt6U\nydMxbcYmhGKyY6SIROgA+wZlGr4uAH8xG8jrc10yztO7ih09BJGZK0CRpz27x+fW\n=5ioP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Netgo_Pricereminder\/1.0.1\/Netgo_Pricereminder-1.0.1.tgz",
+    "sha256": "55b722383b33bb77ed65304401a50191c8a46827b2180d1c4b17ca9646a8f6a9"
+}

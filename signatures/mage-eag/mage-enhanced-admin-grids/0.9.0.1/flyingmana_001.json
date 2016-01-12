@@ -1,0 +1,8 @@
+{
+    "packageName": "mage-eag\/mage-enhanced-admin-grids",
+    "packageVersion": "0.9.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMk0ACgkQZi3Wes40mG6f1QEAkZ8Rb3WBai8Vs7yr6Ah95xD5\nwRSVGOzM\/X2IJruZWeQBAKSqW6DBMZU7+YmoTwUQX\/ps+IOS2rIDZrq+SiYArWfN\n=aJLP\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/mage-eag\/mage-enhanced-admin-grids\/zipball\/c2a041e550b2054bbe218eb30baff4f136532ff8",
+    "sha256": "047fa730439a25c5053c0deb290bcde89995c5e3c5bb97dbc8ab3632685278fe"
+}

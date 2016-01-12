@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/smartaddons_basenews",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG+IACgkQZi3Wes40mG4OigD\/dm3YSZ9wF+hWbvl5ARhOTVGo\nSiCMfemtv+UBSh6mk3gA\/jRhZSuUK4ehlbIVtuoURlf53IJi6kN+F8aGku7m+vs8\n=7K\/v\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/smartaddons_basenews\/1.0.0\/smartaddons_basenews-1.0.0.tgz",
+    "sha256": "a82d532e9215b4474009a1b63f58f41d59371651bbbf70029c3955bd1f1913fc"
+}

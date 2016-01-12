@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Koopzeker",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfA8ACgkQZi3Wes40mG5SwQEAipnbgavNZev3iJBfxN3izaT+\nEfEO66MQf5oHPZ+BT+8BAKejSP4gdV+2wuHsVwU+oOl8CDMq7lghmTbRRjXZAymR\n=4+k2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Koopzeker\/1.0.1\/Koopzeker-1.0.1.tgz",
+    "sha256": "e50748a415c9665ba2ff56d87fbd868d97389e8644d89cc2a8c91c577d2952fb"
+}

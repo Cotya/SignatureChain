@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ordermonitor_Agent",
+    "packageVersion": "1.1.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDvgACgkQZi3Wes40mG5rzAD\/ZV5VRKx2mAc7gnuuAnJKPadg\n4fxm3WW9LRvrpO7WFwgBAIdIR5xk4w9VhbBvzqDH0YhDEyGPc1hhduPW7x8cAQdy\n=ih2V\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ordermonitor_Agent\/1.1.9\/Ordermonitor_Agent-1.1.9.tgz",
+    "sha256": "49d6d1aa2e772ad0d3f7656ef97efab4cec708ae7142a2224d20c4ec2718bbfe"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cm_RedisSession",
+    "packageVersion": "1.9.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDHAACgkQZi3Wes40mG6\/VAEAjwJYdbuw5rZdvqYC+CkQD\/2G\nEBDV\/LYodVYRyQbxBnABAJw5NILPQqSNvvTEOzE4XQHFYwGFIsvW0wPb8x3koItv\n=H55R\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cm_RedisSession\/1.9.2.2\/Cm_RedisSession-1.9.2.2.tgz",
+    "sha256": "477c0d95ed76d3fef92eca40f49e36bcd99081e89f9163bb9aabfdfe0a312c6c"
+}

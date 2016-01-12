@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FuturePay",
+    "packageVersion": "1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTctMACgkQZi3Wes40mG6D9gD\/Yovy8dz74fXODzmByElnBWzD\n2ZEASsYnU4DHIc9k+d8A\/Ayk3x6mKu3wA61ldJXkLdkAklR\/KVDpghl0YPmUF3za\n=Bxgo\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FuturePay\/1.0.7\/FuturePay-1.0.7.tgz",
+    "sha256": "70d40f59effb485dcbabab48d5ad41654c8654ec5a41a140bcf209a58b375534"
+}

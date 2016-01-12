@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Openlabs_OpenERPConnector",
+    "packageVersion": "1.6.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDkMACgkQZi3Wes40mG6ntAD9EP+rU7AvWF6w2SNjRVnSZz0E\ns8PAtnB7mYXyHKWUR3gA\/RqMnzKObKMMrbci6pN9a4wNsDhXJV2zAPKS7xhwn43o\n=9H0h\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Openlabs_OpenERPConnector\/1.6.0\/Openlabs_OpenERPConnector-1.6.0.tgz",
+    "sha256": "28e23b7e633f718c2033f62b4dd050176d4a478d4c1d7fc8652b3b54c5a5be0b"
+}

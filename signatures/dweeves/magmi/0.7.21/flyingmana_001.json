@@ -1,0 +1,8 @@
+{
+    "packageName": "dweeves\/magmi",
+    "packageVersion": "0.7.21",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULBEACgkQZi3Wes40mG4lPQD7B4Jvvmogj3z4j3pMUugIzoQ\/\nB1nnU+lG261SsatZ\/EUA\/3e5ml6izZjLY6eh76MzjHJ4UvbLCuDdZv+l20wqLM9p\n=7N40\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/dweeves\/magmi-git\/zipball\/564856254adb129249d8b72ef68312a33756dfec",
+    "sha256": "21c1d1c7216f9a2f4dffb32dc01b1d1c68d427d9e211222aa2ceeeca04885631"
+}

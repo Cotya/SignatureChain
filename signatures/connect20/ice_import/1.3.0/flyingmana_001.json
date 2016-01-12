@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ice_import",
+    "packageVersion": "1.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdQ0ACgkQZi3Wes40mG4hIwD+PtQEKkL8zRdmyfxPi0MTVgkw\nFICBso3A9ZMzlhFBiOcA\/0DBz3+PImoHqJJ\/jC48jlFKChdnkeeQCplsUnUGJkdb\n=LeBX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ice_import\/1.3.0\/ice_import-1.3.0.tgz",
+    "sha256": "113384b16bcb48f411b6eda9b237d5beabd8aef2555b15e3943d521bf566d8e2"
+}

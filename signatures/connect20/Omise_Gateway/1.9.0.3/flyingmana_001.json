@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Omise_Gateway",
+    "packageVersion": "1.9.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDakACgkQZi3Wes40mG55LwD9Gzv7T1nePsoM19O3tQ4tf7yT\nXIrchi\/lVibp+JaNSiMA\/j1AMPjD2XlBXF1jaO3ParVyvdD94+DmHl5hWgQQgJKp\n=XsmN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Omise_Gateway\/1.9.0.3\/Omise_Gateway-1.9.0.3.tgz",
+    "sha256": "deb371add09f3a83bf2ea7f0e91999197c75ef288dcc267c7e710c1f926e8623"
+}

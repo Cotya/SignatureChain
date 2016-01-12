@@ -1,0 +1,8 @@
+{
+    "packageName": "inviqa\/magento-symfony-container",
+    "packageVersion": "0.6.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUME4ACgkQZi3Wes40mG7WeAD+I\/j4tZRXCdEsFho8nF86hbvM\nFrCV2ez4eWZC6\/I+I7sBAIHdeJ78aQgTDJPgHpEBz2YR8z0EjdWczg76LriSwIbD\n=KnkN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/inviqa\/magento-symfony-container\/zipball\/06a7e7abd6ee4b26d47e794cffe847e03e48827f",
+    "sha256": "0a519ca652765faced824f9bdb5910340faa5765e0ea625020f8342f81a57865"
+}

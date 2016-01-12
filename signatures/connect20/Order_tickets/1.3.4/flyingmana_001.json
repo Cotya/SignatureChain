@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Order_tickets",
+    "packageVersion": "1.3.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDu0ACgkQZi3Wes40mG6vywD+M0w2LfV\/asXDXSB6dVfexMBD\nggamWDPSeGkauIT472cA\/1g7rq53QEE1Xf56TTM33SeOcApZhxvFh7WmPX1kjRiN\n=yFVR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Order_tickets\/1.3.4\/Order_tickets-1.3.4.tgz",
+    "sha256": "71d3ad8e8a426e552a94a6bc13c1965387ce7d28c7ee17aae523bc99bc3060aa"
+}

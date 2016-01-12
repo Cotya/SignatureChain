@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/composer-command-integrator",
+    "packageVersion": "1.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMlkACgkQZi3Wes40mG6ragD7BYODMjMqGTzU88t3DMjNzM6m\n2Z2zCXE\/4O3gMJDHilIA\/16SCWLAFPisnZyrTKEBnkN5NfSC7iDd+aqlhpW7oPfi\n=O5gG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/composer-command-integrator\/zipball\/655bc290f901386a6199a4978dc360912ea7023e",
+    "sha256": "8ea55f3f1034d05dd84ba85df05aac59120fc087354553ed559af43d199fceaa"
+}

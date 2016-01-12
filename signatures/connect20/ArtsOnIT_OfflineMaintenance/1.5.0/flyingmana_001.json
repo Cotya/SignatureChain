@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ArtsOnIT_OfflineMaintenance",
+    "packageVersion": "1.5.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTA8QACgkQZi3Wes40mG4+QwEAkihBFDFyi6XgItsExaJwxlz2\naqHXHUv0Zzg+YF1oPAEBALN5bGGloi7nXK1UowMauWgvFz9cG\/XFXFltiOAsauXY\n=hqrm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ArtsOnIT_OfflineMaintenance\/1.5.0\/ArtsOnIT_OfflineMaintenance-1.5.0.tgz",
+    "sha256": "a11a430403be031e40f266314f67eabf61ce69dc589ff7804f14a525e5a6ff53"
+}

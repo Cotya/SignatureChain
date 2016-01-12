@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AdvertiseUpsellProducts",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAVUACgkQZi3Wes40mG42UQD\/dvfBDvyoce7m4VbKst6popJd\nzI\/p4PpTXOAHZ1S60\/AA\/A1aNoKBKUjMxI6rrWxMT9v1pniUKVqw3+S8BypTZXop\n=lVFB\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AdvertiseUpsellProducts\/1.2.0\/AdvertiseUpsellProducts-1.2.0.tgz",
+    "sha256": "b1557c6920bcdc05cb66f115b90c1c73fad9b4890f574cb590067bdfea09a5ef"
+}

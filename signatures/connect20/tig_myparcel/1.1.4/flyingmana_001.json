@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/tig_myparcel",
+    "packageVersion": "1.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIVAACgkQZi3Wes40mG5LsQD+IN3HwYAHIRG1FNwN\/3kUyuN3\nDAH+EIX5BxAjGvkHqXQBAKocKW3Cb5OogZ0jRQZyER0Q9SpA1N3DbgOwxAgv1CqE\n=70MU\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/tig_myparcel\/1.1.4\/tig_myparcel-1.1.4.tgz",
+    "sha256": "337fdb8641ebb40b33af4d328a10ca522264ae16bb9f74cd5c11a5b9813809df"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/minewhat",
+    "packageVersion": "1.0.17",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBXsACgkQZi3Wes40mG6SMgEAquI2zRdJ9RGYYmZSVxPcJIY2\nduKNXdesAZZd4vb+ROoA\/iKpaKleC8Z47+qGcyrP+GCuI+gHl5fn9B4L7kk1u0vP\n=GknG\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/minewhat\/1.0.17\/minewhat-1.0.17.tgz",
+    "sha256": "05e0222ce4f590046704e1c3edc6ea75614900ddab01fdb0b4d64d50406057e2"
+}

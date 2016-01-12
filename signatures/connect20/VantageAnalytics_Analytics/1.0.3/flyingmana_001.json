@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/VantageAnalytics_Analytics",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJMwACgkQZi3Wes40mG7oFAEAkZTnvHfpzWYqU828crkHp389\noqXK+iq7KnoBKSY0id8BAIxAz08YF4qVl2WdS\/7SobIE5nJdRIY+UhvWaD2Cc22f\n=KgF3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/VantageAnalytics_Analytics\/1.0.3\/VantageAnalytics_Analytics-1.0.3.tgz",
+    "sha256": "f57b439d5f70b23997cb8fefe31d2cf255316837e73380caacc8ca712cbc1bc0"
+}

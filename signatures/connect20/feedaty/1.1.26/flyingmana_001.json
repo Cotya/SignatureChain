@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/feedaty",
+    "packageVersion": "1.1.26",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaf4ACgkQZi3Wes40mG5cNQEApuhvmDfdjbzkYzk9M\/xn+1GJ\nvAZHfihqivfgAkEyR18A\/0uHpuZj\/HhptckNSpBw2o6e9ztlHfbpqR1Da7RDmgsh\n=CzHC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/feedaty\/1.1.26\/feedaty-1.1.26.tgz",
+    "sha256": "b1396fa0d98cbccbbed986a6696e9b8fb3de511369ea8e56d22d7aed8e795a00"
+}

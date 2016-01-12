@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Piwik_Ecommerce",
+    "packageVersion": "1.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEcMACgkQZi3Wes40mG5JRAD+P6Vms6jCZUWQgg6NIkRRUnMK\nLP0\/2RKb9ov81TuDMYQA\/2MsuBscQSVikE5GrWqshscD88v4kmshwMgqh74CQi7w\n=z5dc\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Piwik_Ecommerce\/1.1.2\/Piwik_Ecommerce-1.1.2.tgz",
+    "sha256": "46368dfc6bc0cc682c300ffa6099e86dec7cdfa2a6653eaa2ffd5d6702565a6a"
+}

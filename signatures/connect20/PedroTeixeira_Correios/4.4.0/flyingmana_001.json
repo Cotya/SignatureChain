@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PedroTeixeira_Correios",
+    "packageVersion": "4.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUESIACgkQZi3Wes40mG7glwD+McnUcfI40GjBw4DWmWc+aRv0\nMM60K5A8Dq8lfU03o1kA\/jk6Kac\/mUiCTY8PGfYQvMA8CgNrRyDMGG+BSdpA15M1\n=GkZC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PedroTeixeira_Correios\/4.4.0\/PedroTeixeira_Correios-4.4.0.tgz",
+    "sha256": "ca3ba16b47990cd66f548a2b231379c23929390df0621314ab40c51c90d135c2"
+}

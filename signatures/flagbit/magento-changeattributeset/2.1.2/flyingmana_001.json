@@ -1,0 +1,8 @@
+{
+    "packageName": "flagbit\/magento-changeattributeset",
+    "packageVersion": "2.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL60ACgkQZi3Wes40mG52DgD\/d4\/mOO47UStHzcbWRh5oMi\/z\n9ia023e4Bra6NjOgx2gBAIB+7OSRdFr8rpa6tLHX08anu6GKBhLVQFGCX4zIZRJf\n=vuBs\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/Flagbit\/Magento-ChangeAttributeSet\/zipball\/aa8a2f171e70d0d7c51942ceaeb02e16ef7dac81",
+    "sha256": "24257dfd1bfc01fb2cf1f4221440b6a62b8b0ce688095d2c6074d27235660e81"
+}

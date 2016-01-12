@@ -1,0 +1,8 @@
+{
+    "packageName": "limesoda\/limesoda_live-guard",
+    "packageVersion": "0.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMjEACgkQZi3Wes40mG4VwQD\/dWvFukPEld8uLqBumqyJs0NO\nvSij2EDgDKnic02GqwYA\/AgeP6v2462Xn0qgV\/GoMFqqtEuavjYQTMr20rLJxRsC\n=I7oN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/LimeSoda\/LimeSoda_LiveGuard\/zipball\/90dc457bea6ad8fdde9eff5cf10dedb594b4334f",
+    "sha256": "146bc8849c60bd4b9eb150f2625353828fcf551831bbcdc74d6d5f04c094ca85"
+}

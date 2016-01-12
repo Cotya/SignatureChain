@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/skulabs",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG44ACgkQZi3Wes40mG5TKgEAiiRKprmLoJkAxTdTDzcwuOOE\nk0zJ0qg0QgT3CfZj4RIA\/0lhIY8FlUTVwy\/VeOEqG8Y1w0JE9OInT22Bv1UpoZ8B\n=qslK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/skulabs\/1.0.0\/skulabs-1.0.0.tgz",
+    "sha256": "f059b2dc5d219b7ef62614f6260339d855f0183159c63793f7cf95b7e9982a2b"
+}

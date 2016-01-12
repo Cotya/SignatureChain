@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/TLSoft_BarionPayment",
+    "packageVersion": "0.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIbwACgkQZi3Wes40mG5iwgD+NNtYcQ+jjCclANvGbmV6TynI\nq\/JxyPeqYhvhc5xoUGwA\/Ama5gaI7Q6JAFBF3PlTCXgvFt86x6IeaXHXzwCde8tz\n=SVB4\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/TLSoft_BarionPayment\/0.5.1\/TLSoft_BarionPayment-0.5.1.tgz",
+    "sha256": "37625d405459aa9dc5a00c9bdec20e39456ee86cc7e55f6cfda0d5f712aab0e9"
+}

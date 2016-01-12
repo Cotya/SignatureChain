@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mcsagepay",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBDsACgkQZi3Wes40mG6kcwD7BvXw+vs55A0vV9am2Ysp4ICP\nHLAn4LNiIak0uflKDyEA\/iqZGyIHGk780UHlDN4FixnurXpsun5ng1\/iRfpM6n6n\n=qzci\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mcsagepay\/1.0.0\/mcsagepay-1.0.0.tgz",
+    "sha256": "4d685075f24fe9a5d181ffc6e7ff2f6f8c6a866c9d1b9dd87dccceb1e18be1fe"
+}

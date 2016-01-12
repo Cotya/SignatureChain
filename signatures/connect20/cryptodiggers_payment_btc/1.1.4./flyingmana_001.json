@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cryptodiggers_payment_btc",
+    "packageVersion": "1.1.4.",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD4IACgkQZi3Wes40mG71dAD+Jf7ICw6H76WcqpPmdIzQRYGD\nubzxJnb+DExod891Q20A\/2jpvsqQrQ6mqZUGb\/RW3tMwfQxm56IBiMbNQajDo+pp\n=a5Hp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cryptodiggers_payment_btc\/1.1.4.\/cryptodiggers_payment_btc-1.1.4..tgz",
+    "sha256": "e83b680c5c4a2b4108b43560d699fa987e59513bf2003794aacc6b41efc13481"
+}

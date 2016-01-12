@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Taxjar_Salestaxautomation",
+    "packageVersion": "1.2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIEsACgkQZi3Wes40mG6czAD+IWMWOzCpyWjvCi7OYS1So9lo\nkWCR0dPSayS0IstocbYBAIdPcMTFU8FZsk7KjPHkoFcIiGcrfdWflvV64eYbaVJF\n=szK8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Taxjar_Salestaxautomation\/1.2.0\/Taxjar_Salestaxautomation-1.2.0.tgz",
+    "sha256": "5604188dcdf88bcb285a528dd368fc99eced4cff704170f3a7cf7d8a919640dc"
+}

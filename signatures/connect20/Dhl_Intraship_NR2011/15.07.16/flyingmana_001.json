@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Dhl_Intraship_NR2011",
+    "packageVersion": "15.07.16",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEQkACgkQZi3Wes40mG5AkgD\/V1AyiguEmlY5YMuBFRYBScD3\nUx7jRlbZjn1t8BnCBvwA\/1+9o7oGKKMY+dQFDDKgzauz1LbTZTaX\/wvHKra2dgvC\n=6+bh\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Dhl_Intraship_NR2011\/15.07.16\/Dhl_Intraship_NR2011-15.07.16.tgz",
+    "sha256": "c3672046fb55384c4f655aef43bd00874f458e545e67af9f6d25c09de3d4b167"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/logger",
+    "packageVersion": "1.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULy4ACgkQZi3Wes40mG6nIAD\/SZcuBO2FAoG47TZjbeohLgqs\nrHZqz5rhsjZnpisKMtQA\/2F1RycIe5QS64thiKihmZKPRFuP8jSkfIoJHVkQ+zYW\n=hyTJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/firegento-logger\/zipball\/36baaf126d0d910e54a5ac9f7f34e44867a2345c",
+    "sha256": "2946aa870b8b1386d9ee3e243acc7d1819aac4f926a67f80bd4781a91e6f589f"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NightlyDev_EmailSimulator",
+    "packageVersion": "1.0.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCvgACgkQZi3Wes40mG5NpwEAhNh2TMd1jcfaAJ8Zd7Ys6j7+\nai7RCDSqgV8P2DCqw4oBAJ0OgL3foTiPi74lMxyX+jxwqCPuKKc1TxHMJDiw9wqx\n=5DbI\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NightlyDev_EmailSimulator\/1.0.0.0\/NightlyDev_EmailSimulator-1.0.0.0.tgz",
+    "sha256": "d560c39b5099b242650ef63ce5c71031344be655f74879653dee76c79dd73902"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cashu_Paymentmethod",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCcMACgkQZi3Wes40mG7c8gD\/SXfkBiRd3meIivj4VN49xsyX\njL3gwioVGY6LOnwTTosA\/RwG9U0xK3SmbtmV3+lMTB2qx6mfyS09sjrYLGqxZRYW\n=buqq\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cashu_Paymentmethod\/1.0.1\/Cashu_Paymentmethod-1.0.1.tgz",
+    "sha256": "d762e7212ba0ec9dd061ab5e8a009d8fc1498fd261c223eb190df1761d9caef3"
+}

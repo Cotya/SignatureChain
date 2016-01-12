@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Bazaarvoice_Connector",
+    "packageVersion": "6.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBlkACgkQZi3Wes40mG5JYwD\/RrpiS35sjpVze05D5CoJb6XC\n+FpnNhpZFjpVe3RFkGIBALaO+gzdsHB0NX8wl4oWZ++rdYSI1qA9ykUH\/GD4lEsN\n=OrKE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Bazaarvoice_Connector\/6.0.6\/Bazaarvoice_Connector-6.0.6.tgz",
+    "sha256": "c722f12d53d9c63a25e3347a998822988a6a2cfaefa2dcf4ccf95e665d0bf05b"
+}

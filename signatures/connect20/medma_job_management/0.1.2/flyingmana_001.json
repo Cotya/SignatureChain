@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/medma_job_management",
+    "packageVersion": "0.1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBOYACgkQZi3Wes40mG56WQD\/W1Ey3bWTs+jq6bXVtb9Q4dmC\ntRMjCFWncivNGSZkUaABALCTI0VYYMJ6DAFtsoLtPZru9yx9nVwY+Ls9Ycf57WMq\n=8VrK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/medma_job_management\/0.1.2\/medma_job_management-0.1.2.tgz",
+    "sha256": "33a94fdd53f3c221f86ff3467ba81d645c37729b8f4b8fe8758325785521439b"
+}

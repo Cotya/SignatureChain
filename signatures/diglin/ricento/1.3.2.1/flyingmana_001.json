@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/ricento",
+    "packageVersion": "1.3.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUK\/oACgkQZi3Wes40mG7WXgEAgFY8KtzVZDrp97oY7\/jiS5pY\nx3SQlsJgnPYk72QTFwoA\/RxXqZNz5rdQz5ynLIGxc9GrAZ1kuPE6l1u3inLaxmCg\n=uAfa\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/ricento\/zipball\/b15809d8252918f5cea5eb014eb7aa572f77e304",
+    "sha256": "638bff98137865f6c050d0fea26c82b13417ad1c37b8b93a328b974b86792b01"
+}

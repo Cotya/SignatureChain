@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cloudiq",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDEoACgkQZi3Wes40mG5gxAEAiYE5oMIuulFEZWPNj7we4erR\ndh3BYE3OG+KtDLho3OUA\/22YnNj0wdszrJw0ZbabGsMQNB5DHQSDx1bV33skqD9u\n=+JX2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cloudiq\/1.0.2\/cloudiq-1.0.2.tgz",
+    "sha256": "a6253c2e51b5893e8a20aeb6ece7bdabfbd33f6a49cdf60ba840db5195c556fc"
+}

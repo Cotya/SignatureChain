@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/F500_Xibpayments",
+    "packageVersion": "1.0.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaXwACgkQZi3Wes40mG6VBQD\/U5v4tSDfaaX12CpwfFwE\/0Vy\n8F0GMeBRVXmZXqTNTyYA\/2G3sDOhspYS34hf6SjdLV0jgyJCVF+9FoiyrbobeA5b\n=iAT+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/F500_Xibpayments\/1.0.6\/F500_Xibpayments-1.0.6.tgz",
+    "sha256": "f5fbac54fbde133b5ec7d9dfad74fac7cfb84182aed1a55bb12f7b59b6e542d9"
+}

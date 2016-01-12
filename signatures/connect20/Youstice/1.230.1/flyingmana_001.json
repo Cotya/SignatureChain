@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Youstice",
+    "packageVersion": "1.230.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKWEACgkQZi3Wes40mG7KrQD9HS0lfgqcXAq+htwwFdL3Hdbk\nrWcmlnzytY8VY+2p8D0A\/R+BeiQgEBTg5+cxvGze3F7OvIM1KbaIKUUcTkdsVrx9\n=wha+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Youstice\/1.230.1\/Youstice-1.230.1.tgz",
+    "sha256": "598b1c565e4a3451246734ee7faaa768772251e5eb77587c37db37befba86e60"
+}

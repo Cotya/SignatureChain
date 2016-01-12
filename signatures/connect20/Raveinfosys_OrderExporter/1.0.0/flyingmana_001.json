@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Raveinfosys_OrderExporter",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFVIACgkQZi3Wes40mG4bTAD+LmuIdMQBAQJFMWKV7wsiPdMV\n+T9V7Ebrbd\/54ER5nukBAJ1t98hn6G7ByyIV+J5Yruo05jB7CRBb9LnASxezbAew\n=qjq1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Raveinfosys_OrderExporter\/1.0.0\/Raveinfosys_OrderExporter-1.0.0.tgz",
+    "sha256": "fda641ba69882c1f83976b3605a55dfa04093186db65e50fd48974e433968a1c"
+}

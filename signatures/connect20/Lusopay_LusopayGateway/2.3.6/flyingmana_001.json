@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lusopay_LusopayGateway",
+    "packageVersion": "2.3.6",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgcAACgkQZi3Wes40mG7iqAEAsrm+A+1OL\/KXeKR9HLTSoD00\nscwzCZ+LlShKOswp09IA\/08+K3gLRS8hhECDlQxCWBHFdgwUzYjo3ic82Bk7oRJp\n=6IGF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lusopay_LusopayGateway\/2.3.6\/Lusopay_LusopayGateway-2.3.6.tgz",
+    "sha256": "e7c8b33d76b6f151883f72ab12d1832a7235e79b26d1fa656e84fe9851bf0b88"
+}

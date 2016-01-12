@@ -1,0 +1,8 @@
+{
+    "packageName": "danslo\/api-import",
+    "packageVersion": "1.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKrYACgkQZi3Wes40mG6iLwD+O+hpiRcqgdJCx8SuMdzp9jSR\n1K\/OlqKli0qZqeoIlZAA\/Ru5DPQkDfPiGXqWJPI9Oa4QESFD1Ssz1+HVH8ZDn1fN\n=nzK8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/danslo\/ApiImport\/zipball\/151bba1262721e87d41e93c29936a76e1afde612",
+    "sha256": "6be8e72c5e59916feb0f29a97efb0f07eeabfadf69d414f39633613c7491601d"
+}

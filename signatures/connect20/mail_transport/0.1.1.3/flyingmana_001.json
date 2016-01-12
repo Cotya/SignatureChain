@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/mail_transport",
+    "packageVersion": "0.1.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAzQACgkQZi3Wes40mG65IQD+Ntaka8jHX3rElEpfZcTTJZhh\npcmjQ0jhRpQqf6R4V8IA\/iaKN1oMPNZJ+tJmfqRvJ4UmRwlA7v0ekJUrIEmTsCYP\n=X2Ep\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/mail_transport\/0.1.1.3\/mail_transport-0.1.1.3.tgz",
+    "sha256": "ddea18d294f6e32942298c89ec27abcdf4c1705c55a38d57731fcf0c61c26469"
+}

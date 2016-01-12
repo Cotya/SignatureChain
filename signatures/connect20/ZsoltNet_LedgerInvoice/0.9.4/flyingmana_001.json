@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ZsoltNet_LedgerInvoice",
+    "packageVersion": "0.9.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKnYACgkQZi3Wes40mG4MUAD\/YHkheqIhU\/577p6v\/1AOAULA\nQhYkgsyE\/w448A9r3BgBAJA6wElAZgHC4bpxyIvts\/V3Jg\/21T2ohIX4CiegPUB8\n=X9n5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ZsoltNet_LedgerInvoice\/0.9.4\/ZsoltNet_LedgerInvoice-0.9.4.tgz",
+    "sha256": "0b0d730556517be67528e78f4468c56fe4f1ba4cef0f9ba0ebc3bd8e98f3bcc2"
+}

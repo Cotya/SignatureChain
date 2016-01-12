@@ -1,0 +1,8 @@
+{
+    "packageName": "deved\/magento-keen-io",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKsUACgkQZi3Wes40mG4bJAD9Gt9ZA0n76OOSHEFFxTZSU\/JY\n0pvsKwZA3DMl0O\/FrrcA\/RPGmeejJodaee2bQylaySaYbDnhh5pQgUt\/wnsNxekL\n=FNSn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/deved-it\/magento-keen-io\/zipball\/3b7016de1ea97dbcb0cb60ba07a3330e6a584d37",
+    "sha256": "c4871b42687daefa6e2d5c1b535f06bc8db6a587e44feea707bae5afc7481919"
+}

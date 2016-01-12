@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/psr0autoloader",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL2cACgkQZi3Wes40mG6v6QEAryYCvVGXGqluXbaXiOe7D\/3x\nVwazDAweb3sRekby4p8A\/3g2vMTYIlbEuSO32FjIZoUUFyMZK52HbE91zyO4pVWN\n=SCAE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/Magento-PSR-0-Autoloader\/zipball\/69f275ab0f61c99ccbdcca4955dc058660127e76",
+    "sha256": "e00497b00d4d78968ca493718477cfc2e1e91976f4a04704ed42a2b89f4ccdae"
+}

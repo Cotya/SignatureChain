@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DHL_Postpay",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTESQACgkQZi3Wes40mG63gAD7BcAMYn2cfo4K78Cu6NO8VayA\nqiAQIUDflhje4HhILnUA\/jh2yYUfpXXGFN\/yf9gieA+bfXPzqTHVT0o0w5R7Iu3P\n=FP9O\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DHL_Postpay\/1.0.1\/DHL_Postpay-1.0.1.tgz",
+    "sha256": "f88855bd430a3651cf689ee3395b649730b12eb3109ec7ab0e2ad1786aaf7a2c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paystation_Magento_1_8_ModuleV5",
+    "packageVersion": "0.0.13",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEPcACgkQZi3Wes40mG6dSAEAieRWrvPGd3lPxih2n8uSSwV0\n4tB5OMchZXIcZmqFRKkA\/R+q5isITLgGc02DUClHSmA7YnsKM8aJuPCqmvj\/J0Eo\n=gGHY\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paystation_Magento_1_8_ModuleV5\/0.0.13\/Paystation_Magento_1_8_ModuleV5-0.0.13.tgz",
+    "sha256": "8a316e1b68d2d7ba098a96a5fb80a52c16ec7c0ff4d6d0f67eb8a6960296f8a1"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "firegento\/magesetup",
+    "packageVersion": "2.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL0YACgkQZi3Wes40mG4NAgD+JWKJOeW1JAMBDW9CnSD8ONCA\nWZA3Qr5rSv4M0B1u0O8BAIfVoSJPC93BLKZawtiJ26fNfjWeDMs\/PNfpxUn8cxj7\n=vMMl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/firegento\/firegento-magesetup\/zipball\/6b3de2ecc0759165b5e11bd55f994cb4dd35ab7c",
+    "sha256": "b4947428872fbb8ee3c73bd8bafce90fa40cae60808436024c40795a147aab9e"
+}

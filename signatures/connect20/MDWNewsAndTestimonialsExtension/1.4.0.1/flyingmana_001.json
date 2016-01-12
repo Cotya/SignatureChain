@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MDWNewsAndTestimonialsExtension",
+    "packageVersion": "1.4.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBGIACgkQZi3Wes40mG7G9AD\/agP42clUU1eqt0qxalN7tDkZ\n7\/IfoYXEgIEMR62ejmQA\/RvXiQMyrBlVIuDDLvmtvruhhZxvs2hcxj0mJX3NxKcO\n=R6VE\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MDWNewsAndTestimonialsExtension\/1.4.0.1\/MDWNewsAndTestimonialsExtension-1.4.0.1.tgz",
+    "sha256": "d5d4658da2d2dc80846fec0b1e293d2948abb6fc90728a6f36a56b913298ac1a"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Slack",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG5cACgkQZi3Wes40mG5BSwD\/TKy51\/OoFd6vSKdP4UGNbacx\n4UmdWsQOeMEDJEMu4VkA\/3avzSE2fJ3MsbtMohqEcNDTIGkdX7XbwB+gI2Jt90SF\n=Vabw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Slack\/0.1.0\/Slack-0.1.0.tgz",
+    "sha256": "b4e88d9ca01777f10f45c4bffec0585ffcbb6fc1cf9c0bfa8030303e618a2cba"
+}

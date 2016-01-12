@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_Varien",
+    "packageVersion": "1.8.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfbAACgkQZi3Wes40mG5t5QD\/Y8R8QDyIB2oS\/kqzr0DaAWZ1\nDbc6jxUkhKTL6SeLyDYA\/RHJ7ojl2O1JOR76mlGXTuYOcvtcLZSla+5xQeYv\/KQO\n=dslD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_Varien\/1.8.1.0\/Lib_Varien-1.8.1.0.tgz",
+    "sha256": "a045c78eef5d1df9871ae71312f1ac66b068bd87df6ecd81fca1daf9ce69dd66"
+}

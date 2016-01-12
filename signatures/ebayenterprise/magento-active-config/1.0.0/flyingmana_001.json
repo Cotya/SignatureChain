@@ -1,0 +1,8 @@
+{
+    "packageName": "ebayenterprise\/magento-active-config",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULBUACgkQZi3Wes40mG7jrQD\/WbUUOZvM+CqNOMUOZ8Bipw04\nQIsMM120JHUegV\/saCYA\/jZYsuEEMtKNLRNlv\/fYmLiYbtPYZkjWOYp7F+RN\/K7g\n=r45p\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eBayEnterprise\/magento-active-config\/zipball\/02abd34115ad0b8ae0fde46a32f39af30a7ecc14",
+    "sha256": "9068e8f05739c645bd3f3b8be2cc731f9af88fb7a142175a43483025100d414c"
+}

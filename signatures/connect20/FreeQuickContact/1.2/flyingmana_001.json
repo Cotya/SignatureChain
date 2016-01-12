@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FreeQuickContact",
+    "packageVersion": "1.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcpcACgkQZi3Wes40mG6SMgEAkoCf9y32kPrwJSft0q4lI6mD\nuQ+VPfgWTYz+ZWDr5mMBAKIQRsMZ0ORmoyoNHdUIE6+l7Q6RXUvNdyu8EHOSOu8c\n=I3N8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FreeQuickContact\/1.2\/FreeQuickContact-1.2.tgz",
+    "sha256": "06a9ca0280b743efddf89dba23723e4a77c128b07e066c020698e20f8e1cc6eb"
+}

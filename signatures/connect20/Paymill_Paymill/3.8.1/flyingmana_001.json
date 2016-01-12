@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paymill_Paymill",
+    "packageVersion": "3.8.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEL8ACgkQZi3Wes40mG4SJgD9G6tZ9I+Ow2rBP3GfV3G9MSyO\nqpDtS3agOk7d0FA65KQA\/2ngFvBI5pHAiBssSPysIbKPpMuIdbNdcIiXFRBGEyVr\n=5cOp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paymill_Paymill\/3.8.1\/Paymill_Paymill-3.8.1.tgz",
+    "sha256": "ebb76d11398f68c80078b8c3dea18dfad1f603fa187c44ac088bd2f92b04e6d5"
+}

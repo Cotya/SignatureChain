@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/faturahpayment",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTadQACgkQZi3Wes40mG5eoQD\/dQxNiDptqvb3NiWMJOHo6vt4\nDh9D8QQcI2AGr\/I5XEkBAKi6fP6+lK1LDAuzgaakctz1f3F22KiCOjAsrRFeFJye\n=8cl7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/faturahpayment\/0.1.0\/faturahpayment-0.1.0.tgz",
+    "sha256": "d9c566ffa00b668a5b229732913961a68ffe3e840c5f12e9d1588692d6f86fea"
+}

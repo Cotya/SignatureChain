@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Shipwire",
+    "packageVersion": "1.3.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUABcACgkQZi3Wes40mG5PXwEAln0taFRD3f1rMMwxHW49hvPA\nv6dNdRqxg0Om6YLh7Z8A\/jwd9GF1eG4dbF8xS0\/LcgV\/kvkeBiiB1fmCM3i18TDw\n=hjcN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Shipwire\/1.3.3\/Mage_Shipwire-1.3.3.tgz",
+    "sha256": "ae260d58364e02a60483ab8dbd3f10329209af95226fd4eae33c2eb0b864dbb8"
+}

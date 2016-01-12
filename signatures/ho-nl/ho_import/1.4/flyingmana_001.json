@@ -1,0 +1,8 @@
+{
+    "packageName": "ho-nl\/ho_import",
+    "packageVersion": "1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUL+QACgkQZi3Wes40mG5fVwEAhgSI\/b0RM9uENj0dZTynUwpr\nwDYZJu2v4J3ceLu\/E74A\/R6GtzPAaabOTm97Zue6ckuOsil+iQm52q2WwEaXfoDu\n=CNZZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/ho-nl\/Ho_Import\/zipball\/d2cfbb076fec37d61e2a5b479fdda7b2e7217456",
+    "sha256": "bdb6a17df6661f976e58ce68c3daaa81133aeb8f28d5f2611200ba99161d729f"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/lib_google_checkout",
+    "packageVersion": "1.5.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfN8ACgkQZi3Wes40mG7KNAEApRcLXgwc\/FQq2qwbCH\/O\/rc1\nr81IB\/A6zea0tDuq5T8A\/ApkCKIC\/PyF7X3vD7sUaqtQwimd9KTv+lz869V30Qx7\n=wlo1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/raw.github.com\/magento-hackathon\/composer-repository\/master\/repairedConnectPackages\/fixed_Lib_Google_Checkout-1.5.0.0.tgz",
+    "sha256": "9b88fdc3c77d57b0d362f17ecace8dca97ffc1b55bacfb741210643e9be84b81"
+}

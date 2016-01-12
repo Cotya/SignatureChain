@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/zeon_news",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKfsACgkQZi3Wes40mG5dYwD\/YCP1yiVs+12GjvR8fXMcplpu\nV2U1xMzvxTQ8pQJqoVIBAJC1zaz2Vd2cKrqPsHWgUzSje8qscTfmvqXCWWCxVIms\n=sr45\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/zeon_news\/1.0.2\/zeon_news-1.0.2.tgz",
+    "sha256": "93e74d16459afc31ce99371db0e1a63ff2f373aabcfc21736f8a561b24d8599c"
+}

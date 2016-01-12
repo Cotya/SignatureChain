@@ -1,0 +1,8 @@
+{
+    "packageName": "magento\/module-backend",
+    "packageVersion": "100.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUNbsACgkQZi3Wes40mG4FRgD9FLYYCfqvkRbZHKPNczEiF2SX\nA4OuMhVpJm2+\/clsbgcA\/0sdWFw82B9TfOMaAO2jXJrGnOAZJpIpXRDnp8sdd4nB\n=RUj5\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/packages.fooman.co.nz\/dist\/magento-module-backend-100.0.2.tar",
+    "sha256": "cb9e94778970a9ac955f7766ea281437f7a768eb0d46ae1a13ee97b0e9f3f9ec"
+}

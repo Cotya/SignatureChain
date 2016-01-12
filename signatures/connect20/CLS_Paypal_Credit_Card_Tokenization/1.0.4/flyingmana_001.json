@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CLS_Paypal_Credit_Card_Tokenization",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDFYACgkQZi3Wes40mG5NSQEAtLWR07TkMEcUmPyJqxjrh4W+\n\/R2RJ6NxGwFaIjP\/7ykA\/29Cqv2fdz\/VQYAmgC+XLKmVhz1obtjinOnSensQnLzo\n=nuGn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CLS_Paypal_Credit_Card_Tokenization\/1.0.4\/CLS_Paypal_Credit_Card_Tokenization-1.0.4.tgz",
+    "sha256": "315718311906303f90b3ed2475b04d9ea06cb6835ad538b62640137f01d31c64"
+}

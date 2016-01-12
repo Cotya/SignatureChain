@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paypal_InContext",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEMsACgkQZi3Wes40mG6klAD\/QkCQSEtYIbakJ84p7u6N\/odS\nflx5YtCftWcKfubYV2MBAJnCvCLqj9iM4mxn0nJZ9bp9DrDm3yd4OwAgVhrF8paA\n=+sne\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paypal_InContext\/2.0.0\/Paypal_InContext-2.0.0.tgz",
+    "sha256": "2f8d9090e568721de321af32b20ef5b73ab1d6b4590cd4856b28b7266e783c31"
+}

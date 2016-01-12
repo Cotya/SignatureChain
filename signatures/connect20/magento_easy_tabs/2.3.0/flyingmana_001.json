@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magento_easy_tabs",
+    "packageVersion": "2.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAjwACgkQZi3Wes40mG5sSwD+I4F3Wq+8mJyrv+NJvzTmmKVj\nH+YeJbVQl7UaRRSV+goA\/AoB6K+t6GAPWlfVnwE\/K+Kk2vtnPXXLrMM1HA+9MVdX\n=ttEM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magento_easy_tabs\/2.3.0\/magento_easy_tabs-2.3.0.tgz",
+    "sha256": "f370a068fb4734b1404df69579e2281e8eb180ea9b79dfcb4bbd9c393213e143"
+}

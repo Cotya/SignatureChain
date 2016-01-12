@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/trusted_shops_buyer_protection",
+    "packageVersion": "0.5.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIywACgkQZi3Wes40mG6GawD9HStvD3c0+foGrUT51cR3yfyR\nxOE8fTtxahepWVWH7PkA+QHCdslMle\/SFqhBLarMFZGqDCXkMsJGoduy8C23hdkP\n=ETyA\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/trusted_shops_buyer_protection\/0.5.4\/trusted_shops_buyer_protection-0.5.4.tgz",
+    "sha256": "7f07167aea3c1527b267728b953c03fc921eabe397e425732e9bbe07157889e5"
+}

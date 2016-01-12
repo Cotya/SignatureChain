@@ -1,0 +1,8 @@
+{
+    "packageName": "magento-hackathon\/hackathon_magetrashapp",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMnwACgkQZi3Wes40mG5WcwD\/c8splyqFMeHp0BYNuOOfYEPy\newLqbtpcvy2X10umdxQBAI+iDOcGNlTHfcEtu9EDPbltFnMuGYZKzxp1EA1vBpyL\n=6\/6H\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/magento-hackathon\/MageTrashApp\/zipball\/83af103a94c5fb90edd20f0beb4d11fa670a6be7",
+    "sha256": "77311052c312d0200e9a70065791e69a230ba6fae5f069df90218ceaa3bd94a7"
+}

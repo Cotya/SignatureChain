@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/MagCheck",
+    "packageVersion": "0.0.7.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgmoACgkQZi3Wes40mG5Q0QD\/ZSyUx1+XwWaXPOTO1lBC0Hx0\nkVgyATiCYRDV3ZgcphUBALT2CBN1xl\/634ng+CrJrIEkU6zIxojbLzv+QowadS1C\n=tHzl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/MagCheck\/0.0.7.0\/MagCheck-0.0.7.0.tgz",
+    "sha256": "f6caa7ea66beabd70dfcfec6cc95bccb8d205417246bf70db6ce3a538f3f5919"
+}

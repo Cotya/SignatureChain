@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CP_GeoLock",
+    "packageVersion": "0.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDw8ACgkQZi3Wes40mG4xWQEAgacKVjsEnucSoodH3AlRPKIl\njU4ZC40zAwJhuOYGzW8BALNdeYxRDJn3ux91iAalAAPu8TLali9Ep2oFTZZOJPg7\n=wGpl\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CP_GeoLock\/0.0.3\/CP_GeoLock-0.0.3.tgz",
+    "sha256": "e38415ae00267eb8eb0ae5850a9d28d8bd517591b9eb684c5975e60c9d020907"
+}

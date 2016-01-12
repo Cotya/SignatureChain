@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/estpay",
+    "packageVersion": "1.3.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaGsACgkQZi3Wes40mG62FgD+ODE+sNHOP3uWzUDin3q5sG9a\nz3dHI8\/7ih\/4nCRjaIwBAJ+BkZa8b2QoFPaVPmIsG4xZzTobKHgYkVjd\/r\/7FhSj\n=8klj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/estpay\/1.3.2\/estpay-1.3.2.tgz",
+    "sha256": "684a85ff96a2fb0e617444313dda7eb1b3be187a3b871795bc3211fb19c2a85f"
+}

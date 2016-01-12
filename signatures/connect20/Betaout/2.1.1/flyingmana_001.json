@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Betaout",
+    "packageVersion": "2.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTB0EACgkQZi3Wes40mG6kVgD9GzHYfSooNPXM6pqhdLEJjZwd\nnvCNyv7pLXhmh8scZX0A\/1sL78d3AqMhMCWiuiKuPFSrsNBheIxzzHLI7\/NEzIol\n=HxhR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Betaout\/2.1.1\/Betaout-2.1.1.tgz",
+    "sha256": "171366217579e3f48abf72a5a7b1771816778c0ac1c72965b81b81e7cab63a31"
+}

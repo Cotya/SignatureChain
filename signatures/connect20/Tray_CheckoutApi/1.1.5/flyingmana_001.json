@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Tray_CheckoutApi",
+    "packageVersion": "1.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIn4ACgkQZi3Wes40mG6D2gD+NRaBpAd0ZgTQ1DG2koKB4JFB\nAKc1w9YSPnWihwsIpoUA\/1T7cInuFSVOdQdSqZRut3R+Yqi9AExLC493Zhdt+Ubg\n=Qq++\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Tray_CheckoutApi\/1.1.5\/Tray_CheckoutApi-1.1.5.tgz",
+    "sha256": "9db0bb010c979df8066e4bf41458a2cbc8f89fbeb039fd94e3b497932d267ffc"
+}

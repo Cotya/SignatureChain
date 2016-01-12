@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Payair_gate",
+    "packageVersion": "4.0.0.31",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEFkACgkQZi3Wes40mG6HygD\/QC1iqBLSRo5tRRVWDWr7itmP\n49TNrFRgARZdMuBrcO0A\/jum95PlOASJ8ZSowLKNMvVTr9\/+OlfPiDXYFRaaemF+\n=0bv3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Payair_gate\/4.0.0.31\/Payair_gate-4.0.0.31.tgz",
+    "sha256": "0d39a0bdb0609aef05ea4218ccb139a05012765fb6a82b61c6770ffffe7e12ed"
+}

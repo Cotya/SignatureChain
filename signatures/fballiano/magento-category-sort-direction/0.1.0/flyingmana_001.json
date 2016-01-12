@@ -1,0 +1,8 @@
+{
+    "packageName": "fballiano\/magento-category-sort-direction",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULu8ACgkQZi3Wes40mG5IdwD\/Z6RYSCZugqXAwLeZtSi01nbV\n\/67vtSuvKpibRe3oEzEBALCEnAkaYCHXy61Q8U6RWUdtS6BvdzFLFMzr9KuDDY+N\n=3id2\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/fballiano\/magento-category-sort-direction\/zipball\/1d6112100cf6d39acb70ea7fe1521948f07589ad",
+    "sha256": "46b11f0f62a384647a82d59093ae0ee53fc22309b567cc9332faeb5f4d9b667c"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Jira_MageBridge",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTelEACgkQZi3Wes40mG4z8wEAgZUVQhCqhGuuCIS+WXeuuGtd\nru4XpoWU1VV8npSvV\/ABAILtBTn4BpnHW3091kEH73LDeXNDBRAk\/KDaJv+P4Ctr\n=yBeH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Jira_MageBridge\/1.0\/Jira_MageBridge-1.0.tgz",
+    "sha256": "d41b9733af06698a80fd112c7f355317f7a0d7a52f7a9a32019853640401fb70"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Usaepay",
+    "packageVersion": "1.1.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAB4ACgkQZi3Wes40mG75YgD\/bm5iErbr6kkkNU19KHgzl\/lL\nYLmv+PfVVHJavZTJUngBAKw3oHOLX0Sz3G8xSQ8J99VEenGBZ6UsjbmjTVqkoiR6\n=DKJ+\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Usaepay\/1.1.9\/Mage_Usaepay-1.1.9.tgz",
+    "sha256": "3c9b551d7a4729d776332591bc7d6fe59d23d24cddf68a9feab618755e36838a"
+}

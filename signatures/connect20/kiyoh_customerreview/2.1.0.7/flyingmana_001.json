@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/kiyoh_customerreview",
+    "packageVersion": "2.1.0.7",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTe0MACgkQZi3Wes40mG5uhwEAqsQ6ZFbGHgMU8Bep+Oemyhdc\nM\/MjpcI6Zypilcs18+MBAKwbvkQXQS6eA25UuKupML+czwBNX26vT+1MCVL2tYsx\n=U2tu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/kiyoh_customerreview\/2.1.0.7\/kiyoh_customerreview-2.1.0.7.tgz",
+    "sha256": "24590c8619c73828c3283a8d7b968ad8344b4e31cfe7a4a175fc646818ea79a8"
+}

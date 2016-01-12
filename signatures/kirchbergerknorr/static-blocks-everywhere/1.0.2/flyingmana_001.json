@@ -1,0 +1,8 @@
+{
+    "packageName": "kirchbergerknorr\/static-blocks-everywhere",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMgAACgkQZi3Wes40mG6mggD9FmiRqkvjPL4NzDsyix3dGftX\nAFDaxmxv2M5G4egnzw8BAINQgKrxL06pDWoi6CJRbOZzSLOn\/bCsz57c+zAkW8nj\n=T5ss\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/kirchbergerknorr\/static-blocks-everywhere\/zipball\/ef4c1a2595e427de60bbca9bc89e424481fc8367",
+    "sha256": "07130945888f360be022323f81475f375d81f44d18d85c3bfd4ddcb7f399ef4a"
+}

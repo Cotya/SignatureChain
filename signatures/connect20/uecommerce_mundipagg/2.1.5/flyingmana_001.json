@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/uecommerce_mundipagg",
+    "packageVersion": "2.1.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUI9IACgkQZi3Wes40mG5g3wEAq1K9oC0XxzpQPFgWx+qr8Rje\nQjGeJb8ecGmD8YfPDkkBAI+BQpTBCOuIzV5MzzqrPDAVhdHzVy3k7lQ9G8T3vtX5\n=NjQj\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/uecommerce_mundipagg\/2.1.5\/uecommerce_mundipagg-2.1.5.tgz",
+    "sha256": "86a879b6df9714aef2685918b50d2332e6b1340ed09b93b063596be159df620c"
+}

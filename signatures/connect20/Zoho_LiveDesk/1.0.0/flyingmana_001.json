@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Zoho_LiveDesk",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKlUACgkQZi3Wes40mG4IaQD\/fIbNcneNyx6zGVDsZaySorK0\nHBTQf1IWKefFQeCODBgBALZhgK1LCU4a5z7IXm\/QAm5zI3cNGXJAdM\/uERzUhd\/z\n=IJph\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Zoho_LiveDesk\/1.0.0\/Zoho_LiveDesk-1.0.0.tgz",
+    "sha256": "c714366a9f7427760b7aa4aadbd44f4f666489b6f21f7a982f7b152c8de19c93"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AdvertiseSuggestedProducts",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAU8ACgkQZi3Wes40mG4LoQD\/XhqMziTk3Czr8PXvGYaDTaW8\nbBhs4VixgjegFu9CZMsA\/AwhNghYZP7BZggNGAYZFc\/pxuhe55rG8t+n9ov9e2i9\n=pnIX\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AdvertiseSuggestedProducts\/1.0.1\/AdvertiseSuggestedProducts-1.0.1.tgz",
+    "sha256": "0e1f062fc8e8eee191d5557a82b22b4439c661830df9e6a40426dc9cc1eee191"
+}

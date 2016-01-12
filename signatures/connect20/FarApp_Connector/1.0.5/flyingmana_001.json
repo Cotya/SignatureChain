@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/FarApp_Connector",
+    "packageVersion": "1.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaasACgkQZi3Wes40mG689AD+KGZ5FbhUaWYKZd1WhKc\/oU\/E\nIagc\/3aWcJO\/20okMmUA\/RJrSwta+wJRoalKgsQKPBm8QpE4Dv392CzYMD++26Kq\n=FnqJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/FarApp_Connector\/1.0.5\/FarApp_Connector-1.0.5.tgz",
+    "sha256": "5ad0a6e5471116e7b88d77ccb6f01f5480fd9be740a10d06245c54f1c46c5304"
+}

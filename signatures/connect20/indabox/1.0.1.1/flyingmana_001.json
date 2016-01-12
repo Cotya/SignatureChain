@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/indabox",
+    "packageVersion": "1.0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTdjIACgkQZi3Wes40mG7WIgD\/dCdN9h2I\/FpXnAnV7fQHI0K+\n2nzX9pTZ9jZjjcrLP6sA\/1sIfrQSx8FNL\/BEYQKzoJ2UekP6n9vmX0LEie+NX4Qx\n=beD1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/indabox\/1.0.1.1\/indabox-1.0.1.1.tgz",
+    "sha256": "f8c2391ba23b5409c47980a6d8bfbeac1e727a56a2e1fb83eb9d2c9f4b403c44"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Juicy_GeoIP",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTerUACgkQZi3Wes40mG5jawD\/TMx+dfHvfDzaxpq2aNXMoLs7\nQKepScWUSTcML1eLl\/wA\/iKmlhu6A+UcId3QTP+3W0mJ3qNoNk71LuuLnT6trebU\n=qgPD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Juicy_GeoIP\/1.1.0\/Juicy_GeoIP-1.1.0.tgz",
+    "sha256": "d91a98e329c7af383e1adf7234130765c07e0da0edd05a369ed245f702674e82"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/viveum_ops",
+    "packageVersion": "15.06.08",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJXsACgkQZi3Wes40mG7NuAD+LncAY6Sx0zeRh0fLnCjrLxm0\n51qzIwXJorWvvrn5Lk8BALd2wyClhr5z7l\/P1Q0LY2EM4fqPKMpHXoUT4OyJEmhs\n=gjFN\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/viveum_ops\/15.06.08\/viveum_ops-15.06.08.tgz",
+    "sha256": "26043084890364350fcdec01071f1852a51dc14df5bb770d1f0c3a50a554d147"
+}

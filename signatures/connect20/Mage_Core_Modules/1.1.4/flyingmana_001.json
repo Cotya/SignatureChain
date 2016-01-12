@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Core_Modules",
+    "packageVersion": "1.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaT\/gUACgkQZi3Wes40mG7lbgD\/UFoUTpqTISsZho36HHV8wWCb\na+Ij+jhb1lRef8bkk3wBALYO96Gw+UsuQuh3hdwyZOvHPXJZcS9unKUTIRngkTd2\n=pwSy\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Core_Modules\/1.1.4\/Mage_Core_Modules-1.1.4.tgz",
+    "sha256": "e0b40a77c6e6e54df58296a6d293788fe131dc682b4d604f415d78176c29cd82"
+}

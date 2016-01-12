@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/fermopoint",
+    "packageVersion": "1.2.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTahwACgkQZi3Wes40mG7CKQEAlv7Oy2gOUwZkJodILfbTl5mP\nWkzgLGR3Qz3L8GMgxB8A\/A84kRzPaNagAAe4n0z+AvRrgHJz\/rqcmSB+o3bb929r\n=Ug7d\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/fermopoint\/1.2.2\/fermopoint-1.2.2.tgz",
+    "sha256": "ffc267943bf382d3a4f6e54444c51cc88fda532f2fd6804fa0835d768194e01b"
+}

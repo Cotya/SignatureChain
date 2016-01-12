@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ksv_deleteOrder",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfDQACgkQZi3Wes40mG6b2gD+M8yAxQbULtRuajVqnusPvbb0\nWx3XKheQgUyyjP\/amGsA\/2w4CwZSqTjNWNNY7Ube8iA2r8Pa6IqICEa9IbWHw+X6\n=WxRf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ksv_deleteOrder\/1.0.1\/ksv_deleteOrder-1.0.1.tgz",
+    "sha256": "837117f2402ba52fb9125e52db624a6a18f89f1119bbe11eedae298fdbfad399"
+}

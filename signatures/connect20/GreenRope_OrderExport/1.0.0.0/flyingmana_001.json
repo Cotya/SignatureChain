@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/GreenRope_OrderExport",
+    "packageVersion": "1.0.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTc8EACgkQZi3Wes40mG6dNgD9E1\/Pby7s1i1s26nARhfCxCNM\nzBBhQP7FTbFPcvzPYMEA\/A\/HjeJdMgDYeanU5OI9onQXIR\/CwCSwNp12nzzaGx3m\n=ZMLR\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/GreenRope_OrderExport\/1.0.0.0\/GreenRope_OrderExport-1.0.0.0.tgz",
+    "sha256": "5e7f1f39d053ff813498d384d426ca3e1ae9e2eddf97e3150b0185210e73c0a8"
+}

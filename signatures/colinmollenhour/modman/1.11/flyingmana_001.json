@@ -1,0 +1,8 @@
+{
+    "packageName": "colinmollenhour\/modman",
+    "packageVersion": "1.11",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/usACgkQZi3Wes40mG7hDwD\/czMcBsA7\/ydv+icIJTBbCNwu\n3l9jffjlbvjh1boyHXUA\/305hFgoIhG08xiXhzts6PLzMYQ1dz28ZDaS6yGyZyeT\n=\/XUZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/packages.fooman.co.nz\/dist\/colinmollenhour-modman-1f7167c17ad5d05ef2ec995c93f54f2993dca808-zip-79c826.tar",
+    "sha256": "7db1929e8e5d90b2013247b6612c55d462e71318133fc0bc832d37d1ecd90f11"
+}

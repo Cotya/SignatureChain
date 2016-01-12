@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AgilOne_Recommendations_CE",
+    "packageVersion": "1.0.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAfMACgkQZi3Wes40mG6ZhwD\/b\/oC2p2E6HLpQpMBKC969iID\nkKEgGnwET32iStJWr1wA\/RA3KaODlgbq4ir2MKKMGN2ul3bA3gQDM5oiYGWCTtcm\n=WvSL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AgilOne_Recommendations_CE\/1.0.0.0\/AgilOne_Recommendations_CE-1.0.0.0.tgz",
+    "sha256": "fd58dfad550fadb6cc8cada2d3ccdd2f301c1a602b20761bac335cf2bae61c7d"
+}

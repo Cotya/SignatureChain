@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Cybersource_Simple_Redirect",
+    "packageVersion": "0.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD\/cACgkQZi3Wes40mG521gD\/UAdPhIbVVpraCWggGwZXwJKl\n7SKrv5TI0qhtIh27OkIA\/3CH3OOkaI\/LH3JMiEmlirkwPIpYGR3AXjKY0FoMtOX4\n=vueg\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Cybersource_Simple_Redirect\/0.1.3\/Cybersource_Simple_Redirect-0.1.3.tgz",
+    "sha256": "fa828c02b7c86b8b2bc1f0e952df0d93d455c75637e1012c811612546af5b0fb"
+}

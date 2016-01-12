@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paytoo_GoPayToo",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEQEACgkQZi3Wes40mG6pXAEAorPJU16KftgDYZkt3jDa7aq4\nzPB5j7LJfFtAICd5RpIA\/3rAZNu0Vj\/GfJqZeWN8+uVRkPkSNXl8je2ge0SAQqYq\n=Ogke\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paytoo_GoPayToo\/1.0.0\/Paytoo_GoPayToo-1.0.0.tgz",
+    "sha256": "24d29c9215f8395cb2aebd4586062fe214a9b6d6ce6c35610ac1502f5c93ecc3"
+}

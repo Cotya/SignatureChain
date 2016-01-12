@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/orderfeedback_extension",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDvQACgkQZi3Wes40mG61gAD\/dQqrsE17UkLt\/LTix+NNK+QD\nFbdQAKVRxEIp1VOFEWIBAI5feZk7wbFWFr+1v3TkHov3JgOJGBfrjuancboAmDo0\n=ABp3\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/orderfeedback_extension\/1.0.0\/orderfeedback_extension-1.0.0.tgz",
+    "sha256": "7fa146df755f7a6e18f19b931ef1639144686021fb3ea65865a08b39b7e1f025"
+}

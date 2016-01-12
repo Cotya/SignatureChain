@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Accept_Bitcoin_Payin_Local_by_Aligncommerce",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/6wACgkQZi3Wes40mG5iHQEAtfU7nGriQ6r+WvCa\/yzK\/51F\nI7eRMHnb+JQeyBAWENcA\/0ucxVEsuNwtPxV8Yc7C9SoekLN0u++vGgw5uHKBIYOw\n=oY7W\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Accept_Bitcoin_Payin_Local_by_Aligncommerce\/1.0.1\/Accept_Bitcoin_Payin_Local_by_Aligncommerce-1.0.1.tgz",
+    "sha256": "a3da7e11a78f1ea262b6136858bcb0e32ab1bc0ea4643349718341e7ab600c33"
+}

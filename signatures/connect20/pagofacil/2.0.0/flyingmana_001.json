@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/pagofacil",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUD8MACgkQZi3Wes40mG5IYwEAsYUkSVlLfE3\/oJ1am8cjKCme\ndOgpGZdUESror1qkQ9cBAJlGQ9f8qvMHyYV7z7psoyASMz24FbOhfpZoabh1OsIj\n=28aV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/pagofacil\/2.0.0\/pagofacil-2.0.0.tgz",
+    "sha256": "918d6f2932ee941448e2635aedb55b6efc73dfa51db995a1bad13c461340280a"
+}

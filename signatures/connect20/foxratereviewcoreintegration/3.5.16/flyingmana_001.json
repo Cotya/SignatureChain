@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/foxratereviewcoreintegration",
+    "packageVersion": "3.5.16",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTciMACgkQZi3Wes40mG4NsAD\/VnfF58efcLUN5X5+lrRkEFKH\nzHvX5+jhGjDO3PwBlEEBAKBy\/KTchQ56xOEM2Szu0rGx6ap6zEG\/DvPyLLc2kBzp\n=1\/bF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/foxratereviewcoreintegration\/3.5.16\/foxratereviewcoreintegration-3.5.16.tgz",
+    "sha256": "95e519b0a9123404b24169a0235033edbb30415ea98897a8927abc1aa343a9ed"
+}

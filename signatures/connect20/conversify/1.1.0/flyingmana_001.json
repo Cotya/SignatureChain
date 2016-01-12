@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/conversify",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDrgACgkQZi3Wes40mG47mwD\/UupjKSBOZyKvooNMQLZ8NJ\/O\nvGGqJbDNc55lVR0b2SwA\/1xdgQl6Stowm5Qd8+4KCGZ8Snq98LW9b6W4wDAL0k99\n=k+kD\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/conversify\/1.1.0\/conversify-1.1.0.tgz",
+    "sha256": "56c458f35d326ba26170d2bbab0dbddd7b49c172c93284e28670982ccb8571e0"
+}

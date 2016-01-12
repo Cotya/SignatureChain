@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ferratum_Ferbuy",
+    "packageVersion": "1.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaiYACgkQZi3Wes40mG7jWQD8Co9NmJlHm0Mv\/xe60wGa8iBN\ndhJAMnUn09K\/XJKkyhsA\/jpleQuWs8DdQmnklMya8jAsdFUfkQ5mqa8xQcBdg8dW\n=ll3R\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ferratum_Ferbuy\/1.4.0\/Ferratum_Ferbuy-1.4.0.tgz",
+    "sha256": "ce8a5dfc2c37a5467208403764270515a857bdb129b177c85bb6738ed1cb7e56"
+}

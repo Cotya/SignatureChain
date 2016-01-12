@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/OwnedIt_Platform",
+    "packageVersion": "2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUD04ACgkQZi3Wes40mG4KmwD\/RmJd7CgaQlY\/A7YYAOs0J7B0\nb+6Or05goOGgkyY1a0YA\/RtRTNrUfPwkHAJ3MUl+Qohrn2A2WOfpSyvjFxSwAaI1\n=mevK\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/OwnedIt_Platform\/2.0.3\/OwnedIt_Platform-2.0.3.tgz",
+    "sha256": "bb30ed1a794d2f384cad66e4c49f53b95250f6d11adf78bdb8f6686ed11e7679"
+}

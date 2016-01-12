@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Plumrocket_Print_Order_Confirmation_As_Guest",
+    "packageVersion": "1.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEf0ACgkQZi3Wes40mG5Y0AEAlpRuxrc7aUNImSQoypndBz6G\nEBz5\/9ZkfhnvBErSJBABAIdvr9Xu9lPChDAwBDl3ZJ4d0TbwVRQTPcSISncOJr30\n=ywYJ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Plumrocket_Print_Order_Confirmation_As_Guest\/1.0.3\/Plumrocket_Print_Order_Confirmation_As_Guest-1.0.3.tgz",
+    "sha256": "da8610aab375acb222f5a00a77a652d95b32248c9a642f3531dbe2025076f11d"
+}

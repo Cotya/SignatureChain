@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/taply",
+    "packageVersion": "1.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIAQACgkQZi3Wes40mG5f0gD9FaRvx+2QJ\/zn4+dpbxVEQXqp\nBSszANwgSy+698LYXA4A\/jPD0T2od+H7zS0xSJe3ir0cLdocF1cPjJQeVrHeoE1v\n=rhQp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/taply\/1.1.1\/taply-1.1.1.tgz",
+    "sha256": "35441b08e468c65cf77578da1c81fddbb51b219d0e4f32dd49aa2b53a36d4ca9"
+}

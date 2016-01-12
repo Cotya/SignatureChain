@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Wholesale_Customer_Activation",
+    "packageVersion": "3.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJyYACgkQZi3Wes40mG7QQgD\/fpzOW8+\/05YY6E0vOM1CInbW\n+IqsdLDN4bvTN8v7o3ABAIb4acoEkAam\/GTE3HmfyaN9mnodkoNqGVtGG9SBBW3y\n=HzMx\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Wholesale_Customer_Activation\/3.0.0\/Wholesale_Customer_Activation-3.0.0.tgz",
+    "sha256": "5fc794fb87687a6c8e0a9010a759a89c6488188045b2d324dbf168afa5be005a"
+}

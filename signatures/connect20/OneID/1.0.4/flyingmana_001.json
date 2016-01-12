@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/OneID",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDcYACgkQZi3Wes40mG6A2QD+LLoSqTjpxYhl6Ic2L+oohsrO\nNNTHDgBkVp7fyar6h\/cA\/A3EzpKJQBGydhjWWEL0njEhYlTPwCQO+MI7deLjKQZy\n=A\/4y\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/OneID\/1.0.4\/OneID-1.0.4.tgz",
+    "sha256": "21921af9dd808d1585692bc9a2daa9f8c0effd56777bf00777719d4901bb474e"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/acceptance",
+    "packageVersion": "13.11.04",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/+cACgkQZi3Wes40mG4iSwEArJ7OSWW1pUVb12cz8W5FUbr6\nP1PU\/gj6gZaxbNe\/PQ0A\/RlRVxKv+aQ6XQIt5vAeqMN5ZMItnGSSNEM3K56mmyp6\n=8OWv\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/acceptance\/13.11.04\/acceptance-13.11.04.tgz",
+    "sha256": "41f65faa827c068b085d6c4e69f0bbf1ebfe5f0b542eebf11f2da68b390122a5"
+}

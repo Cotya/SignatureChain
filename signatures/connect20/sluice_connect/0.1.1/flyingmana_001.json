@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/sluice_connect",
+    "packageVersion": "0.1.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG6YACgkQZi3Wes40mG6t0wEAhnRjDGh1QvfZqA\/g6OpEaQkY\nJwvc+ROJ1ikx\/WCWzSEA\/173k24QzgLS8Wcl6Kxxf038GkhXLBQHTLV8ULDdm+5R\n=CsY\/\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/sluice_connect\/0.1.1\/sluice_connect-0.1.1.tgz",
+    "sha256": "b2a19af5ba361402788441da4d0abaf4dbb8dd9f350a7a4f7b0129f2a7b7c082"
+}

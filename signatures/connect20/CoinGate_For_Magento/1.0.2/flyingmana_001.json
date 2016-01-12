@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/CoinGate_For_Magento",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDL0ACgkQZi3Wes40mG7LtAD+Lt+8JAN7wcYPm24+wxfpxjGc\npwB6o9JeogRW5GUWVkAA\/2pw+WKluCre2MsH0FgNqfqwrNQQnun26rwjXc9RwVy9\n=UADF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/CoinGate_For_Magento\/1.0.2\/CoinGate_For_Magento-1.0.2.tgz",
+    "sha256": "1e3434e8d310de9dc99ba68658763f5395ed92054ea937cb43d46333dcac157d"
+}

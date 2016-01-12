@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Debitway_Interac",
+    "packageVersion": "2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEIcACgkQZi3Wes40mG4S3wD\/axBv3xoToX3\/NCm6wEMkAHwR\ncFvvLkjD4oWrapv3n9oA\/3L\/CCAawtMicgURRp+dY4Z7RAobGiNHbb+tX3ojiewT\n=xOGk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Debitway_Interac\/2.0.0\/Debitway_Interac-2.0.0.tgz",
+    "sha256": "890092fce2e28749f3c628ffb36ca6c872c34a167eddc72890dc5c3382615b27"
+}

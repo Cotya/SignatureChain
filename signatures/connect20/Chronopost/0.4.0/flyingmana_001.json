@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Chronopost",
+    "packageVersion": "0.4.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCwwACgkQZi3Wes40mG4gnAEAj3WXLbeYPT7L7Qy1Yo9Qh6xH\nsFYRr\/kGlJIi7v+rr9sA\/jISqkNGXqeQ4RjwuSqgfE5EcqxmZmunUlfGXrFlHygc\n=mP42\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Chronopost\/0.4.0\/Chronopost-0.4.0.tgz",
+    "sha256": "315cd67c40ca01a2132a841fd8fc17201753f50aa5fe441224945f5ea0de340e"
+}

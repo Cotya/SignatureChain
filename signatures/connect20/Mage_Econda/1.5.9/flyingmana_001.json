@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Econda",
+    "packageVersion": "1.5.9",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF0EABEIAAYFAlaT\/2QACgkQZi3Wes40mG7i0gD41dcxBVwyhNKYjCzpdKJFJr9A\nPOkuoTD+n3TUyDoRLgD\/ZtAROwmPf7HSqeRPf+5F4irKf1ncd\/xBlyJ7OuVRg28=\n=58gF\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Econda\/1.5.9\/Mage_Econda-1.5.9.tgz",
+    "sha256": "2f1d91828f899afa432b659dbc120b7bee2819c19bb5eab6f3b630d98840a7d6"
+}

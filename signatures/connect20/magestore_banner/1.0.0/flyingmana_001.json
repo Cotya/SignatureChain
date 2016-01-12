@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/magestore_banner",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUAugACgkQZi3Wes40mG6KMQEAjnaV52s9XuejmHsw1m094dJv\nP03UnNcnSjKsnAIMI4IA\/23OW7yHQTWOPd+Bzag3q408q5vh2WDTlI\/+CTjcfJrj\n=bbHt\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/magestore_banner\/1.0.0\/magestore_banner-1.0.0.tgz",
+    "sha256": "dd733ac44f7ebac020b092f79475ccef3d0e7a6efe32cbe5629db5d9a552de82"
+}

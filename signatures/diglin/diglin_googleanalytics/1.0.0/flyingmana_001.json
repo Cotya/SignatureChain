@@ -1,0 +1,8 @@
+{
+    "packageName": "diglin\/diglin_googleanalytics",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUKxUACgkQZi3Wes40mG4kDwEAkobf3r1VE3eL96+feNfgnAXO\n7rtBrLQ7kqYkSMYUOC4A\/32TWergdMVOj06mRYoe24s1YLl0kwmZsl6OEkKd0BPj\n=x9hH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/diglin\/Diglin_GoogleAnalytics\/zipball\/45a43f51e7f91f322cd98f78aadd5c9f721a23a9",
+    "sha256": "adfc28d06d839132fa6d0d828b0f7006a3c3ebc127649f88210512eb98aacb83"
+}

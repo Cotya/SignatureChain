@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Paay",
+    "packageVersion": "1.0.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUD2YACgkQZi3Wes40mG69YAD\/dkj3ZvJXjfw8rJuAG\/yoSph8\nIBtpy+YT9tFDKjiBCj0A\/jS8OWuymvk4VFEs0tPvLa7pA3ZweJEBozKBwgfx\/+UV\n=IHLQ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Paay\/1.0.4\/Paay-1.0.4.tgz",
+    "sha256": "58448675b508b4d05ee1946d7f484ec08be59924d4bcfd5354a457528bae5f37"
+}

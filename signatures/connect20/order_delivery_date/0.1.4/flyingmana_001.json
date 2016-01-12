@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/order_delivery_date",
+    "packageVersion": "0.1.4",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDt8ACgkQZi3Wes40mG70DgD\/ayytwRqCXF+qGMcKZVAQoOoJ\na5fb8NtFWiAFRu9Z5mIA\/2MX4dMuksrRuLL5Tj3Cbxgs\/5y51LuhJ+cW5Sjf2Nr\/\n=SU83\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/order_delivery_date\/0.1.4\/order_delivery_date-0.1.4.tgz",
+    "sha256": "471288d2888f919b2f09a67443f8935f70e34f6a664c67c4b8718cfe99f685a4"
+}

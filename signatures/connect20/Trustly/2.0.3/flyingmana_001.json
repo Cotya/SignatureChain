@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Trustly",
+    "packageVersion": "2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUIzQACgkQZi3Wes40mG5sSgD\/RZbqjxnk4pOXVQ\/BIDVrZ\/1W\nytqRTgwx9nXBnc8lZt0A\/1aZJ92X4YnBQIq+VTOQCoSqPoDxJ2VaaOG2E14Ye9z\/\n=iKsk\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Trustly\/2.0.3\/Trustly-2.0.3.tgz",
+    "sha256": "754756d34c08cb923832772ec2a90869f8892d5f36cb4d1999f4dd37905cf1f8"
+}

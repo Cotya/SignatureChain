@@ -1,0 +1,8 @@
+{
+    "packageName": "integer-net\/attribute-option-pager",
+    "packageVersion": "0.1.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUMB0ACgkQZi3Wes40mG4dewD+I3QS+jZaj5E5cLn5fBxq2yJq\nBiIo64DYdfz5IRjOGWMA\/AtFc7ejXVsdxmY4rsKuC9I2LJSihgAcpW4JLBjzK7\/y\n=lvMV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/integer-net\/IntegerNet_AttributeOptionPager\/zipball\/36a80eaf58e2fbc095f98ab6ab5b59e97acb7298",
+    "sha256": "1bd90286ae7fa7946213b5949d5bd94cb23f079f234ae6ee401a0e369d2ade71"
+}

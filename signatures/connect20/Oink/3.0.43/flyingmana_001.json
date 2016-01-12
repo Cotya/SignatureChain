@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Oink",
+    "packageVersion": "3.0.43",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDYoACgkQZi3Wes40mG4R8QD9EMtokUSC+BuFsmNo6YoXljEq\n2Vh56G45GjqUxO9q1OgA+wWSL6Apop8HhoTj594ZCzxsDugFVsUQW0EWDCOwkH+M\n=iuN1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Oink\/3.0.43\/Oink-3.0.43.tgz",
+    "sha256": "29ba6eaac8adc28fe0f16fb1f050259911a381633675958388eb6e726d4b6abb"
+}

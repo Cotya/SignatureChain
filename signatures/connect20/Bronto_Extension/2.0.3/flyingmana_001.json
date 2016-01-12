@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Bronto_Extension",
+    "packageVersion": "2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCNMACgkQZi3Wes40mG7Z4gD\/TU9TKRK\/iENJhFRv1Unl0SR+\nLQoJ9hknGUFq8vCTxPIBAIWfvzEM05NCOzxcjN3cJkBJ1dO7ve9rDy+tjBntae0j\n=b1sV\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Bronto_Extension\/2.0.3\/Bronto_Extension-2.0.3.tgz",
+    "sha256": "48d731c309e263dbfca82fd0aebf9e2c210925d723139319b1f4edf68c8f3ade"
+}

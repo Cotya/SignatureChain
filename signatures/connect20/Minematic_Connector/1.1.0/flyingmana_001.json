@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Minematic_Connector",
+    "packageVersion": "1.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBV8ACgkQZi3Wes40mG7IewD9F0PfvzlWJ\/q95xg60OI5ptiU\nMfsoofwyVWfGrcMrObcA\/0HQaIcR+wXdhSVsc\/5YbGW5zuzmadleYVphfJ0O91N5\n=VZ88\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Minematic_Connector\/1.1.0\/Minematic_Connector-1.1.0.tgz",
+    "sha256": "7d9833986319df26946565866e1a6746aa77e7f9fbcd2d3c46da35bf7503b3c6"
+}

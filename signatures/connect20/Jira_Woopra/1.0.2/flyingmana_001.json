@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Jira_Woopra",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTelkACgkQZi3Wes40mG5I0gD9FU1gF5WpGWyTGKWPU4F5bO+U\n4yYbPzQLfm32h3zEKeoA\/AkULsX0EKPRUckxCyTHuswibDZFPQsnI8SjppVkjCj9\n=MjDw\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Jira_Woopra\/1.0.2\/Jira_Woopra-1.0.2.tgz",
+    "sha256": "845e57009293b3dafdddd253646d28166787881df9e9eb2f05ac78b01c1b92c4"
+}

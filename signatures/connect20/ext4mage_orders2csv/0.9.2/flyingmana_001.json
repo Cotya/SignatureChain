@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ext4mage_orders2csv",
+    "packageVersion": "0.9.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaRUACgkQZi3Wes40mG7SPgD8CO6qpNuAbl7Plvdcoyl64dHK\nQKWId5R3aaGDhA9CgjIA\/2rn4+59omizIrDsTQgcmHzohjblMXktTB0vu3ZKQEnp\n=Ub2V\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ext4mage_orders2csv\/0.9.2\/ext4mage_orders2csv-0.9.2.tgz",
+    "sha256": "e1bed87b390d4c551a33eb3c982edb7e96c429dab8161c8123cc75807a4a4df3"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_IDNA2",
+    "packageVersion": "1.9.2.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfOMACgkQZi3Wes40mG6BJAD\/Rw\/m9KAp+HNKhuorGvgOuyP5\nH4KMn4Wsq3ZaR2kpeMwA\/0\/XuQTo+OeJD5CkNLoV0ja9+hGqtynWFtlA5etAbZEB\n=cbYT\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_IDNA2\/1.9.2.1\/Lib_IDNA2-1.9.2.1.tgz",
+    "sha256": "ff87ff9c911b2c301a7c3229b98b4823464aab02db89577c8d3537e71530328c"
+}

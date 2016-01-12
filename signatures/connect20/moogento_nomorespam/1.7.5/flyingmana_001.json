@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/moogento_nomorespam",
+    "packageVersion": "1.7.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUB9MACgkQZi3Wes40mG6gdAD+JuZ6kYg999T5+U0ducTKeupL\npmAckppYIEcSQiAAppsA\/1oV8mMhZnNadRbnvf46lXV8\/VMtWptr5vy41MY\/kW8B\n=opsa\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/moogento_nomorespam\/1.7.5\/moogento_nomorespam-1.7.5.tgz",
+    "sha256": "ce7da618ca0b0b7e0f2d649c68a5e566e2a196be55773e0b93318988f8fccfc6"
+}

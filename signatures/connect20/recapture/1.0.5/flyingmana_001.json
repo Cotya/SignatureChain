@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/recapture",
+    "packageVersion": "1.0.5",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUFZUACgkQZi3Wes40mG79WAD+IeWR1B2nD7nOLTOpIFF1orqq\nF2JdVjO0upGzk\/hsFbIA\/2CHZ8d5a2D0SV\/kw9ZXR0\/fsnlzeG83yNbOPdhhDOsX\n=Gy61\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/recapture\/1.0.5\/recapture-1.0.5.tgz",
+    "sha256": "d1ccaf76a95fc03fd8d53b65bdf3bb9cf09092295697fe58569b11427e45a18d"
+}

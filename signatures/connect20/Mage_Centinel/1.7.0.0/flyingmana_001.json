@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Mage_Centinel",
+    "packageVersion": "1.7.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgrIACgkQZi3Wes40mG4LaQEAs42JcFD6\/cFer\/xXFDIscf6g\nAEVNBAE4vJUU9PiYBkYA\/jZGyZso8pFUeUDOdi76Pv0xxFXed5T9cpWZ\/Zfah13Y\n=DdXM\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Mage_Centinel\/1.7.0.0\/Mage_Centinel-1.7.0.0.tgz",
+    "sha256": "cb39f351114bb578f02678f1747265e0cea0d5b8b3540d991b693a95e85d59d7"
+}

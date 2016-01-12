@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Ordergrid_Images_Payment_Shipping",
+    "packageVersion": "2.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUDvYACgkQZi3Wes40mG5JGgD\/TBXG55Jm3sXmPrLpcy0PYMiF\ne4mJ+xGQeRFmtwYtuS8A\/2aFc2cO3i3UYJjmi5hUcyL0Ha06+NuVbE+9BX1wPtX3\n=D3cL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Ordergrid_Images_Payment_Shipping\/2.0.2\/Ordergrid_Images_Payment_Shipping-2.0.2.tgz",
+    "sha256": "7685a385fc58fa495ea10b0d796b3d5d3c182040e1249b608d35686972a73d7e"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Sirv_Magento",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGp0ACgkQZi3Wes40mG4IjgD\/Xm4VBML1z90pGfh9PaCj\/LdS\ne1CUqeMI85ShkvMki9AA\/A+bnzFfThHSwS4KFy3DT2qTw\/3HREZSF+mBhBlIso+2\n=9K\/C\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Sirv_Magento\/1.0.1\/Sirv_Magento-1.0.1.tgz",
+    "sha256": "d4a45ddc0debc0a7045832fec7fc48ed998c1284dd90e37776bdfcd91910d96d"
+}

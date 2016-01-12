@@ -1,0 +1,8 @@
+{
+    "packageName": "colinmollenhour\/magento-mongo",
+    "packageVersion": "1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaS\/uoACgkQZi3Wes40mG47MQD6Apl8pqbKAGjc4PgfBsBdJ3B0\n9NvDtoRcwuEUauWdbUEBALWNV4ZcDnk1eeZ04WYlGVtpX\/fSi3OEkqdHGUMhMNrQ\n=cUFL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/colinmollenhour\/magento-mongo\/zipball\/8d6deadb1352e42cbe4db1ea5e2141c2a74ac9c0",
+    "sha256": "2edcf7b5ef73f7f8e123ac80c47dfecc94d44c7af26f5138a30c47ad52a25cb3"
+}

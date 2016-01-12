@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/delete_product_images",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEJAACgkQZi3Wes40mG6XtQD8CjEQPK\/7Yrl41EtpFtFWPTnS\nlshWVPZJBzhLvDBt1GwBAIKxaKj6P7qU5x570\/EfDofMvIaheOnBuYOPy+CuRiCd\n=DJT1\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/delete_product_images\/1.0.0\/delete_product_images-1.0.0.tgz",
+    "sha256": "47e6b3123a48c5e8e9cbf993233c7451be4fb0e4ef18ada0dd9fbda599f22c43"
+}

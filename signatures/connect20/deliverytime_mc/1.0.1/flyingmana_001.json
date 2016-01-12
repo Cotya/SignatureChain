@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/deliverytime_mc",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEJUACgkQZi3Wes40mG5QQQD+NYhQk8sj37gIh+X1C3FVMSiN\nZhgk1MI9xakKpjq4DOABAJVIohkEojZ2vUYEj5F9RxrLwbom1CKoUAyUYMd2tlkK\n=v\/Du\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/deliverytime_mc\/1.0.1\/deliverytime_mc-1.0.1.tgz",
+    "sha256": "6ec355eb89786ae481ce3b440a47d521ed98bc02062ceec778bd45fd69774cde"
+}

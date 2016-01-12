@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/PayU_Account",
+    "packageVersion": "0.1.6.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUEQYACgkQZi3Wes40mG6RLwEAhHl6+3ZG82aFj0frFsbCJeYd\n1sx0beQOUv62PmuVha8A\/3x0ep3Z7UDoXPpR2qGnRIqFkhf4zmhm2r0rXNDX5mrn\n=NEEu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/PayU_Account\/0.1.6.1\/PayU_Account-0.1.6.1.tgz",
+    "sha256": "72106e396baface6020f955efd2793d77a752bf0985cdc1b3286f95dbbf0bd5c"
+}

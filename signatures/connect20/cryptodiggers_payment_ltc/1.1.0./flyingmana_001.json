@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/cryptodiggers_payment_ltc",
+    "packageVersion": "1.1.0.",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTD4kACgkQZi3Wes40mG5nywEAkZTBSuwEGxDhmqGR\/2OPgeKP\nOYA08ktxZvZYi0lcnIoA\/2FNezTJvAGMtHLhMk1x7VHl5BVC0rlAnUbgUBVGj0Zz\n=Ofex\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/cryptodiggers_payment_ltc\/1.1.0.\/cryptodiggers_payment_ltc-1.1.0..tgz",
+    "sha256": "6d80fcaeee8f915816e8af68a0212d32596f0cc7a84497eaa4294931f3f338dd"
+}

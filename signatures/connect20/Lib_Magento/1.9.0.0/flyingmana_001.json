@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Lib_Magento",
+    "packageVersion": "1.9.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTfYIACgkQZi3Wes40mG5V+QD8CvXg64D2xRoR4Te9JY8keH5e\nNoGzI1ZNF7TGmQFNMbgA\/jEBnow\/WihTAIzAyqg4Bb46hakeDT4wfO2\/vBaia3uk\n=1K+Q\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Lib_Magento\/1.9.0.0\/Lib_Magento-1.9.0.0.tgz",
+    "sha256": "98ab39daead2fbe6dac303903f694d319b028578c7c221feecd1402028a01d14"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/eWAY_Payment_Rapid31",
+    "packageVersion": "1.3.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTaL4ACgkQZi3Wes40mG4B7wD\/csf3QlKgcdMFxqsat8hN7d2N\n8DuAnZxP90dv4+OELMIA\/j31bTmYvOtvriP161iw6MhbVUhbgbsZ72oXE8kqEBJE\n=MUJC\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/eWAY_Payment_Rapid31\/1.3.0\/eWAY_Payment_Rapid31-1.3.0.tgz",
+    "sha256": "32c49915ed1c39d7793ef8f66c04cb2bef8a960c025d409e2f269e46665dea74"
+}

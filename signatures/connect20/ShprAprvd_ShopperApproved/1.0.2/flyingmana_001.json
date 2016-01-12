@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ShprAprvd_ShopperApproved",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGlIACgkQZi3Wes40mG7dNgEAp0xY\/mhAvuXXXjXQF3GyNFVT\nsagwJ1zPi8jnuqUZOZ4A\/0FMvKbVEEOIW1kQmkAUY5gqqmlTKVhKpBv8lh8U3o7m\n=5Nea\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ShprAprvd_ShopperApproved\/1.0.2\/ShprAprvd_ShopperApproved-1.0.2.tgz",
+    "sha256": "33e33cdf2379a67d1afb9f868d9953e6ada269e527c45289f5e486d1ec93be93"
+}

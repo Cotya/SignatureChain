@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/madai",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTgkYACgkQZi3Wes40mG49kAD+O4yApCt8Qc0W1gzw\/ATROruu\nubU5oHjmUFsalbzspt4BAKpkWf4IEhcfLpz1zJPXNlSW8\/ouTtMz7eLE6szG1Yyi\n=HrI0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/madai\/1.0.2\/madai-1.0.2.tgz",
+    "sha256": "fb33c25ec4f12e5f027b31e6c9c7e901e4a46c8e163cfb0085faea2de65676bf"
+}

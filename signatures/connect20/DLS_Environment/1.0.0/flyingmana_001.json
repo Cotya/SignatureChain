@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DLS_Environment",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEksACgkQZi3Wes40mG4hnQD\/ey7KH0gjrY6n\/x9nkA02\/otD\nXy6lkQLOTsvDk8127UwBAJayqQ3uzk+S5Tu5oR7Lpq7nXKXAWmN6rRn00H++YqhM\n=1tdu\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DLS_Environment\/1.0.0\/DLS_Environment-1.0.0.tgz",
+    "sha256": "091dd3ccbcbce5446c1e8b6690004b0a137440b775a4ef520c84598521e92775"
+}

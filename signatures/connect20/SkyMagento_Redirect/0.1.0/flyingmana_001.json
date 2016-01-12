@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/SkyMagento_Redirect",
+    "packageVersion": "0.1.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUG5MACgkQZi3Wes40mG76KwD+NgUULFt7Ai9MvjRGf9nMdMyW\nAUx+2piH9pj5lN6UHPMA\/irVYIqv8djU7imgLUWh1HGdYQX4A4UywqEWJP\/lL4bO\n=E+Fn\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/SkyMagento_Redirect\/0.1.0\/SkyMagento_Redirect-0.1.0.tgz",
+    "sha256": "90085bbf065dab35e3ec56c742f5d7272180ebc0741dd6e8c009864dc7f9c7ec"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/minkasu_smartphone_checkout",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUBZsACgkQZi3Wes40mG7DKgD\/aU3HxfLUllXrg4FXMAjwqeEE\nw209yoV1KclSn9WZml0A\/i\/zV07\/lNi2n2tA7m9aBfWA53IM25wZ3242RWROjlHD\n=qGBe\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/minkasu_smartphone_checkout\/1.0.0\/minkasu_smartphone_checkout-1.0.0.tgz",
+    "sha256": "9bad50709cb40cccebbda039e2b156d443934022ae4cf7d9d9f52c8439b9a37d"
+}

@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Phoenix_Ipayment",
+    "packageVersion": "1.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUETMACgkQZi3Wes40mG40hwEAgucx8WeZiIuGQJWG2KehkEtg\nMMfP4vOljjsl\/kgEgx8A\/2kGwlXx63TUPea22NhDrEj8Csl0PidPjqIkcvYaoU2P\n=X8r0\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Phoenix_Ipayment\/1.0.1\/Phoenix_Ipayment-1.0.1.tgz",
+    "sha256": "b80d20375ba2389f157e97dc1999119bcf742130c3dd6ef4a1691905fbb9c882"
+}

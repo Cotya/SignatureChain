@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/codewix_autoinvoice",
+    "packageVersion": "1.0.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTDHUACgkQZi3Wes40mG4p1AD\/R6XiW9X3Y+4xTT3hI4TOlyOx\n77rz9JT+qf1HqaoCQdsA\/RBZ6mJgkQFY8R4FNyR23t15MA1rzn7Ay3uEEoxhb2jU\n=A+Hq\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/codewix_autoinvoice\/1.0.0.3\/codewix_autoinvoice-1.0.0.3.tgz",
+    "sha256": "de5a48093b4b6e9cd86c146ddb660ead92cd8ec17208d42fa75ac5689824d5fb"
+}

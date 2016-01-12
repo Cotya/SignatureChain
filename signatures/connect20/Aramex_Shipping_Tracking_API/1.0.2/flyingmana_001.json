@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/Aramex_Shipping_Tracking_API",
+    "packageVersion": "1.0.2",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTA6YACgkQZi3Wes40mG5SBwEAiAF91TfyaOvzvTCOnWk7iYZo\nAW+xFgPcWN7kGj71xrIA\/1bfWPURRT+Xj9x\/UQZsg4OJ78cCjiTDBeB4F41piVKi\n=dBuZ\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/Aramex_Shipping_Tracking_API\/1.0.2\/Aramex_Shipping_Tracking_API-1.0.2.tgz",
+    "sha256": "9332684e303c17877c281207ca081c306d6293a447bef2064943ef3db436a18f"
+}

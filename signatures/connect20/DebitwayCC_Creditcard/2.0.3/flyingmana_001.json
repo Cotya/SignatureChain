@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/DebitwayCC_Creditcard",
+    "packageVersion": "2.0.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTEI4ACgkQZi3Wes40mG44sQD8CYTGa9g13XwgZa\/Bca4kl4bA\n\/fhBDnZgVn\/WFAMPaxcBAKoo4E3K\/VaTGHpqPDnyeef736EVN8yTiaiJ+TZpM81S\n=8W7N\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/DebitwayCC_Creditcard\/2.0.3\/DebitwayCC_Creditcard-2.0.3.tgz",
+    "sha256": "a734aa0895c5137213b0b55b3e66dc27a54619931a2700db36b0304d3c5369c3"
+}

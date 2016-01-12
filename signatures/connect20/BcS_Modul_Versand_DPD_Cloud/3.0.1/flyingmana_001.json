@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/BcS_Modul_Versand_DPD_Cloud",
+    "packageVersion": "3.0.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTBoMACgkQZi3Wes40mG5ABQEAmgUj2eGqGt70hxqApSHHR9wl\nns3bWVRCsG3MmRPAcL4A\/RmgW8RzbRCZrGziNXw8JfhWPj2VT63Cd2tuSi9ayk34\n=4lvL\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/BcS_Modul_Versand_DPD_Cloud\/3.0.1\/BcS_Modul_Versand_DPD_Cloud-3.0.1.tgz",
+    "sha256": "0ae49b8f5a51354c579315ad973aca22847a9dd4d89dcb7ed16499aded7b47d8"
+}

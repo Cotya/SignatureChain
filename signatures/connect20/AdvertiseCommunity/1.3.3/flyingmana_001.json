@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/AdvertiseCommunity",
+    "packageVersion": "1.3.3",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTAT4ACgkQZi3Wes40mG6tWwD\/dbO\/R9UQQT1wcKf4wj2je1\/c\nypt8AU3xgG4bVYLzJ1wA\/2hBQBTcbsOW8+4F0Rf0RocDAOp1q5GiCC+JCiMi\/uLd\n=hMlp\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/AdvertiseCommunity\/1.3.3\/AdvertiseCommunity-1.3.3.tgz",
+    "sha256": "b53f447ba7ac42b73dd54c6e5410d12176ee360729250b802d1677f058279f42"
+}

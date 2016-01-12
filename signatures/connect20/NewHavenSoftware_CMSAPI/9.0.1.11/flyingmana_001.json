@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/NewHavenSoftware_CMSAPI",
+    "packageVersion": "9.0.1.11",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUCnoACgkQZi3Wes40mG5ojQD\/dAj22N1xv0bBrX7U3zy6Sqmk\nAWFQJGQv8FkyPszdOmAA\/10FVcCTuzRL2XLkzPnuTlbidDRRX90xp5roBJZckNZc\n=ZTqf\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/NewHavenSoftware_CMSAPI\/9.0.1.11\/NewHavenSoftware_CMSAPI-9.0.1.11.tgz",
+    "sha256": "0f91214ea620660ef217c6759bed94ba61fead1b18caa3ca0593219c955ab8d0"
+}

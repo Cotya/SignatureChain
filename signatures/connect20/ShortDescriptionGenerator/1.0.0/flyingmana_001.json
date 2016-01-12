@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/ShortDescriptionGenerator",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUGkoACgkQZi3Wes40mG6kfwD\/QlliCzq67NSoOJDFBTsVF0Lm\n4uJNEwnxKFQJn8IMhqsA\/iUTRhyN+yFbuQKStm8iUCdbzOjMawmPGNfUMbzWWWBM\n=Wcdm\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/ShortDescriptionGenerator\/1.0.0\/ShortDescriptionGenerator-1.0.0.tgz",
+    "sha256": "b98bfbe614169dd3fd88d1df815db0cc9c261c411c06d854403fe03fc828f3cb"
+}

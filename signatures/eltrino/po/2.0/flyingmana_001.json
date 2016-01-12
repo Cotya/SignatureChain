@@ -1,0 +1,8 @@
+{
+    "packageName": "eltrino\/po",
+    "packageVersion": "2.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaULuUACgkQZi3Wes40mG43YAEAjWSdo7gPkX69oFDFLgjHGmz7\nGNLB3HDDwJZQgwRsS+wA\/25Z9kgBU6c7fC2C4Xk47soEgkv\/tpVwtVK0SnUC3qeu\n=xfW8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/eltrino\/PrintOrder\/zipball\/548b9f3ca4d06d145aac194a5731d97bb205634e",
+    "sha256": "02cc7d8398465098a8a07257c84b5815bac96c640745cf5b59d962eb6612850e"
+}

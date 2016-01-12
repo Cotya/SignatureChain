@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/flowecommerce_resultadosdigitais",
+    "packageVersion": "0.1.5.1",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTcXwACgkQZi3Wes40mG6DsgEAnjJmAaNhYJW+8mmW5bgTlMvU\nbJI9+\/A1jUfYTDcaALEBAITB7Z+TwGzmP6Xy8PaZ6rW4kb9+nZTw4S15qIDXiWSw\n=dS5O\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/flowecommerce_resultadosdigitais\/0.1.5.1\/flowecommerce_resultadosdigitais-0.1.5.1.tgz",
+    "sha256": "e1205391f0a088821f6d4a4ea9e09588d323e722e2563ae524f1229bd51921f3"
+}

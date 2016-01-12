@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/wp_custom_menu",
+    "packageVersion": "2.8.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaUJ6AACgkQZi3Wes40mG7zVQD\/ZFX9jKwpmWNQbOOSCE8VDdhV\nCCOWh8GueV\/420W+2BkBAI\/GUKfbF7HsV8G8hByNrEdkCjhX6RTNPmpLP6RPEftU\n=Zlxv\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/wp_custom_menu\/2.8.0\/wp_custom_menu-2.8.0.tgz",
+    "sha256": "39fcd176d8751b7dac069d93991093d067637927eeb09e2044ab22cfaf3364a2"
+}

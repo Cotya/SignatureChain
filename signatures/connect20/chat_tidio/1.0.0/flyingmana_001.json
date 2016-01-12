@@ -1,0 +1,8 @@
+{
+    "packageName": "connect20\/chat_tidio",
+    "packageVersion": "1.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlaTCu8ACgkQZi3Wes40mG5LEQD\/fzk3QyhZO1XCLjMlkIuehHep\nP5+7fbNcddB6F4MhaisA\/A2zsa8b52LegP72X2S5Ni6sK1mU6s9RbQZETLU7pkzk\n=8qaH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "http:\/\/connect20.magentocommerce.com\/community\/chat_tidio\/1.0.0\/chat_tidio-1.0.0.tgz",
+    "sha256": "d97270ccdb28bb56a7bc62d682cfe47fdd17a19a5216a23c2995c3ec9117ced0"
+}
