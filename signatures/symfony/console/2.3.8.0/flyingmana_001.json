@@ -1,0 +1,8 @@
+{
+    "packageName": "symfony\/console",
+    "packageVersion": "2.3.8.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlacBnQACgkQZi3Wes40mG51\/wEAtNlvn+UDvnEsKxK5zFd7F2hK\nG6OPl5g2\/A7P1JeXJL0A\/RWVEotrtp1COVWNXpUDmH+X5XY4JHP\/rDWhrC97eSsT\n=lVzH\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/symfony\/console\/zipball\/15031c5ca7583997de218c1f5b1b406f621d18c3",
+    "sha256": "69c547b1a5a911107629f15fcb14fdd06f1e88e44aa798d469468255e641ac18"
+}
