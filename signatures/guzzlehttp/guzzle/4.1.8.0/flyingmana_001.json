@@ -1,0 +1,8 @@
+{
+    "packageName": "guzzlehttp\/guzzle",
+    "packageVersion": "4.1.8.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlacDt8ACgkQZi3Wes40mG4i9wD7B3LygCW37YNzdkf01vxzWR\/+\n+c+bkaVYj4B4\/2WG3bgA\/j2iBEO+9CnRCXjsFN8GxM+wL9PVpqjN3Q38bPE7oe6b\n=dZO8\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/guzzle\/guzzle\/zipball\/e196b8f44f9492a11261ea8f7b9724613a198daf",
+    "sha256": "33ff9d426ef31b461512744776a921daab242f7e68c2953efe33c2712bafe23c"
+}

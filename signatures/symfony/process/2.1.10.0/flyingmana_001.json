@@ -1,0 +1,8 @@
+{
+    "packageName": "symfony\/process",
+    "packageVersion": "2.1.10.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlacDYgACgkQZi3Wes40mG6ckAEAjW1\/fqoPQUPU04z26IXfY830\njMUr\/7rNGiAnjbOEUasA\/1pre8pjFNm9h01qFeaBUVJa18xIt\/FnSu2wtvfnSNay\n=Zx4b\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/symfony\/process\/zipball\/be3cac4d0575bc547a0f2e85ceb4f19a5a8b3025",
+    "sha256": "5f91cc8cd921506d0a8eca4b0f2ab62388b909d79424691b9c37554e2e98ede0"
+}

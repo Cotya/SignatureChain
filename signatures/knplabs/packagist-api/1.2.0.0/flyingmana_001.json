@@ -1,0 +1,8 @@
+{
+    "packageName": "knplabs\/packagist-api",
+    "packageVersion": "1.2.0.0",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niF4EABEIAAYFAlacDqEACgkQZi3Wes40mG4qQAEAmusOqq0ylmUqfh+bWf5zlzku\n4Dr1q14BMTxMycvpe1sA+QFzljK6JHAL5efJNnbA7l7c3O+EF3um7bEKMl1H2MYs\n=KSU7\n-----END PGP SIGNATURE-----\n",
+    "signatureType": "gpg",
+    "downloadUrl": "https:\/\/api.github.com\/repos\/KnpLabs\/packagist-api\/zipball\/22eef9dfc163da33e78af2ae1487966774b54db5",
+    "sha256": "34355c808b12a3b8c8d61d242bb87d38f6035baa15f2b1a9a7cd60fa2f9ccd9b"
+}
